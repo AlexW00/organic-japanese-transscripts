@@ -1,0 +1,131 @@
+Konnichiwa.
+Today we're going to talk about a new development in learning Japanese with anime,
+and it's quite an important one. It opens up quite a lot of possibilities for us.
+And then I'm going to answer a rather important question
+on this whole topic of learning Japanese through anime.
+So, as we know already, you can learn Japanese through anime if you go about it the right way,
+and the first important thing is that you need to use Japanese anime with Japanese subtitles.
+When I first started using this approach,
+there weren't any Japanese-subtitled-Japanese-anime streaming services.
+So there was only one way to do it, and that was to get hold of the anime,
+get hold of the subtitles in a different file, and when you put them both into your media player,
+nine times out of ten they would be out of sync.
+So you would have to re-time them in a separate subtitle editor.
+And usually you didn't have to re-time them once -- you had to re-time them three times.
+They'd be out of sync at the beginning, for the cold start, then after the opening music
+they'd be out of sync again, and then after the half-time break they'd be out of sync yet again.
+So each time you'd have to go into your subtitle editor, calculate the timings, edit the subtitles,
+save them, and put them back into your media player again.
+And if you wanted to look up a word that you didn't understand and if you didn't know the kanji
+-- and in the early days that happens pretty often -- the only thing you could do
+would be to go back into your subtitle editor again and search some text near the place
+where your unknown kanji appeared, copy the kanji,
+go into your browser and paste it into a dictionary or something, and go from there.
+So, it's a very cumbersome and time-consuming process, and that's why I've been recommending
+streaming Japanese-subtitled-anime sites up to this point.
+However, there are some drawbacks of streaming sites.
+They can be a bit flaky, they can throw advertisements at you, they don't always work... but more importantly,
+your choice of anime is quite limited.
+They have quite a lot, but there are subtitles available
+for far more anime than you find on the streaming sites.
+So you may not be able to get what you really want to watch,
+especially if your interests don't lie in the shounen / seinen area.
+So what it is that I've discovered is a free media player called Potplayer.
+It was recommended to me because it allows you to run two sets of subtitles at the same time.
+You can have your Japanese subtitles on the bottom and your English subtitles on the top.
+Now, as you probably know, I don't recommend this at all, but seeing how clever it was
+at handling subtitles, I took a look to see what else it could do, and it turns out that
+it can do some very interesting and indeed, game-changing things.
+The most important of these is that you can edit your subtitles right inside the player
+and you can do it much more easily than you would do it with a dedicated subtitle editor.
+The way you do this is, you get your subtitles, you get your anime
+-- nearly always the subtitles are ahead of the anime,
+that's to say that the characters will start speaking and there will be no subtitles for some time
+and then they'll come in all out of sync.
+So, all you have to do with Potplayer is play the anime, wait till the first character opens her mouth,
+and then you press Control plus Alt and the Greater-Than key, that's to say, the right-pointing angle bracket.
+And what happens then is that it fetches the first subtitle to the point you're at, where you want it,
+and all the other subtitles along with it.
+So you're then synced until it becomes unsynced again.
+When it does that, you can simply repeat the same process
+and it'll bring up the rest of the subtitles to where you are now.
+It won't affect the ones that you've gone past.
+So you can do this three times or as many times as you like in order to keep your anime in sync throughout.
+And then you can save the subtitles so you don't have to do this job again and it's only a very small job
+compared with what you used to have to do. This opens up a whole new field.
+Now, when you encounter a word you don't know,
+in the old-style media player those words were completely inaccessible inside the subtitles,
+but in Potplayer what you can do is right-click
+or two-finger-click the word that you want to look up and you'll get this menu -- and
+it doesn't look like this when you first get Potplayer, but as you can see, it allows you
+to search the web for what's in your subtitle, and you can search Wikipedia or whatever you want to.
+And what I've done here is that I've added Sanseido and Jisho to that list. And it's very easy to do.
+All you have to do is right-click the subtitle and then you select from the menu "Customize",
+and you click "Add" and then you just put in the name of the search engine you want and the search string.
+Now, the "search string" is a little bit more obscure.
+For Jisho it's very easy: it's just jisho.org/search/%%SS.
+For Sanseido it's a little bit more complicated, and I'll put the search strings in the Comments below.
+So, what you do once you've got that set up is, when you see something you want to look up in the subtitles,
+all you have to do is click it, just single-click it, and it will open up your selected dictionary,
+Jisho or Sanseido or whatever you want,
+and the text will be sitting there in the search box of your search engine.
+Now, it's not quite perfect because it doesn't isolate a single word for you,
+so you'll probably have a little bit more text.
+It tends to break it up into fairly small chunks, but you'll probably have a little more text than you actually want,
+but all you have to do is delete the unwanted text and hit return and you've got a dictionary definition,
+or if you're using Yomichan, you don't even have to do that –
+you just hover Yomichan over it and go ahead in the normal manner.
+This opens up a whole new world of possible anime, because you can go to a place called Kitsuneko,
+which has a lot of Japanese anime subtitles, and I'll put the link for that in the information section below as well.
+And if you're a Dorama fan, there are sites with a lot of Dorama subtitles, which is excellent,
+because the streaming sites really don't cater to Dorama to a huge extent.
+They have a bit, but with this you can have a much, much wider choice.
+Now, the question that I was asked, which I'm going to tackle, is that somebody said to me,
+"Is it all right to be watching Japanese anime with Japanese subtitles?
+The AJATT people say that watching with subtitles, even Japanese subtitles, is cheating,
+because you're not listening, you're reading."
+And the answer to this -- a little while ago, I did a video on contrasting the Organic method
+with the AJATT-style methods and some people asked me why I did this, and this is one of the reasons why:
+because I wanted to explain that they are in fact two very different ecologies.
+I'm not saying that's one's right and the other one's wrong,
+but I'm saying that a lot of the things they do, they do for a reason.
+You have to cover all the bases in order to learn Japanese, like kanji and vocabulary and structure,
+and the two ecologies do this in rather different ways.
+So, with AJATT you learn structure and you learn words and how they fit together from 10,000 Anki sentences.
+Now, with the Organic method we don't do that.
+We learn structure as structure, from my structure lessons.
+And the rest of Japanese, the vocabulary, the kanji, the getting used to how everything fits together,
+we do all of this through real Japanese immersion,
+through anime and whatever other media we want to use.
+So, we don't have these isolated sentences that we review in Anki
+and what we're doing instead is we're using subtitled anime.
+Now, some people are going to say, "Is this going to help you to actually *hear* Japanese?"
+and my answer to that is "Only half-way."
+Because we're using anime as our main university of Japanese, unlike the 10000 sentences method,
+we're not encountering words as written entities,
+we're encountering them as written and spoken entities at the same time.
+The word and its pronunciation are linked from the beginning.
+This is good for our listening, it's good for our appreciation of words and language,
+but it's perfectly true that this on its own is not going to get you to be able to hear spoken Japanese easily
+unless you've got a particularly good ear.
+So, perhaps to some people's surprise, I do in fact recommend
+watching Japanese anime without subtitles.
+But I don't recommend doing it from an early stage the way AJATT does.
+I recommend doing this at a later stage, once you've got a firm base in structure and you've got
+a reasonable amount of vocabulary, you should start watching some anime without subtitles.
+You shouldn't make some drastic changeover and say, "I'm not going to use subtitles anymore."
+What you'll be doing is watching some with and some without.
+Probably the best approach in most cases is to watch simpler anime
+that you can grasp more easily without subtitles.
+You still won't be getting it all because it takes time to learn to listen,
+but you watch your simpler anime without subtitles and your more complex anime with subtitles,
+because you're still using this to learn words, to learn structures, to get used to Japanese.
+I'll probably be making an entire video on this non-subtitled anime part of the process,
+which I call "Learning Japanese Through Anime, Phase II".
+If you have any other questions or if you want to pursue this question further,
+please do so in the Comments below and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons and all my patrons and supporters on Patreon and everywhere.
+You'll find my Red Kokeshi in the information section below along with those vital links.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

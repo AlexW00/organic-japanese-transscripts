@@ -1,0 +1,163 @@
+Konnichiwa. Today we're going to talk about
+something that can radically improve the quality
+and speed up your vocabulary learning.
+And since vocabulary is the largest single job in learning Japanese, this is very important.
+And what this is is dynamic cards.
+Now, nearly all of us use SRS cards, usually Anki, for learning vocabulary and kanji.
+But most people tend to think of those cards as static, unchanging entities.
+We create them or sometimes we get a premade deck (which on the whole I don't recommend)
+and after they've been created we regard them as fixed entities that just stay unchanged forever
+until they fade away into the distance, hopefully learned.
+Now, in some cases that's quite all right, but regarding cards as having to be like that
+deprives us of a lot of the potential power of cards and can slow down our learning.
+We can really turbocharge the process in many cases
+by regarding cards as potentially open-ended ongoing projects.
+And fortunately it's very easy to do that.
+Although we can't do major format-editing and sound-editing on mobile devices,
+we can add text to cards or delete text very easily.
+And that's mostly what we're going to want to do.
+So, what am I talking about? Well, this affects a variety of areas.
+The first one is this: I sometimes get people saying to me, "I keep forgetting cards.
+I'm not happy with my retention rate. What should I be doing?"
+Now, the answer to this is that it's really too broad a question.
+We're treating the retention of a card as if it was one thing.
+Now, in some cases it is.
+Maybe you look at a card, you've got no idea what the kanji mean,
+you've got no idea what the pronunciation might be,
+you've got no idea what the meaning might be.
+If that's the case, you really need to look at your strategy from scratch.
+But most of the time that isn't in fact the case.
+Most of the time you remember parts of it but you forget parts.
+You may know the meaning of the word but you've forgotten the pronunciation.
+You may know the pronunciation but you've forgotten the meaning.
+You may know the pronunciation of one of the kanji but be confusing the other one with something else.
+Or you may be having trouble because it's one of those cases where a Sound Sister kanji
+doesn't have the Sound Sister pronunciation.
+You may also be confusing one word with another or one kanji with another.
+So when you fail a card you need to look at what the actual problem is.
+What went wrong on that particular card?
+In some cases you can just fail it and take note of what the real answer was and get it right next time.
+But in some cases where you have persistent problems or something you've having trouble remembering,
+you need to tackle that one problem in itself.
+You might want to make a mnemonic for the sound.
+If you're confusing two kanji, you might want to make a disambiguation note about the two kanji.
+If you're confusing words, you might want to make a disambiguation note about the words.
+Let's take an example.
+Suppose you are confusing the word "chuukei" with the word "chuudan".
+"Chuukei" means a relay or live broadcast; "chuudan" means a break or a stop in activity.
+And the reason you're confusing them is that "chuu" is the same in both cases
+and "kei" and "dan" look fairly similar.
+The main reason they look similar is that they both have this rice-in-a-box element,
+even though it's on different sides.
+And the meaning of the two kanji is just about opposite to each other,
+because the one with a thread plus the rice-in-a-box means inheritance or continuance,
+the one with an ax beside the rice-in-a-box means severance or cutting off.
+And if you think about that, the rice-in-a-box is perhaps going down a road or being delivered or supplied.
+So we have the rice supply, as it were, and where there's a thread there, the rice is continuous,
+it continues down the road, it continues down the generations.
+Where there's an ax there, it's being cut off.
+So it's pretty obvious really, the concepts behind these,
+but you need to make a note on the back of your card
+of the kanji on the front that's causing the problem
+together with the one you're confusing it with, disambiguating the two.
+Now, I've talked in previous videos about making disambiguation cards
+when you're getting two or more kanji confused,
+but in many cases you don't actually need to go as far as making a specific disambiguation card.
+If you do it on one word, the next several times you review that word
+you're going to go through this process of wondering which of the two it is
+and remembering the disambiguation.
+And that in many cases is all you need.
+You don't need a specific disambiguation card;
+that one word will be enough to do the job of disambiguating those two kanji.
+So this is the first use of dynamic cards.
+You can tackle problems as you come to them.
+You can tackle the specific problem that you're having with any given card.
+And you make a note on the back.
+You don't necessarily always need to make a note on the back.
+But in many cases, especially if you've got a sticky card, as it were,
+this is a good thing to do, because if you have trouble with it again,
+you have to fail it again, you look at that note and most of the time you say,
+"Oh, yes, of course! I remember that," and that helps it to stick next time.
+Now, there are various other uses for the dynamic card concept,
+both at beginner level and more advanced level.
+At a relatively beginning level, I've made the point before that you don't always need to learn the kanji.
+You don't want to put off learning too many kanji, but some of the time it's a good idea.
+Though kanji seem daunting, they seem over-complex,
+you can't see why they mean what they mean at all,
+you don't know any Sound Sister for them at this stage.
+So swap the card around. Put the hiragana on the front,
+put the kanji on the back, together with the meaning.
+You can also put the sound file for the reading on the front.
+Since you've got the hiragana anyway, you don't need to put it on the back.
+So, what's going to happen when you do this is that over a little while
+you're going to learn that word as a sound-entity.
+You'll know it when you hear it in anime, you'll know it when you see it in writing with furigana.
+And once you know it reasonably well, it'll get pushed off into the future.
+It'll get to the point where you don't see it for six months or more.
+And the next time you see it, there's a very good chance that you'll look at it,
+you'll look at the back of the card, and you'll look at those kanji again
+and you'll say, "Ah, those kanji don't look so daunting now. I already know that one now,
+and the other one - ah yes, I think I can guess the pronunciation from the Sound Sister."
+At this time, you can swap the card back around again.
+Put the kanji on the front and fail the card or else reset the card to be like a new card again.
+Now, you might say, "Aren't I learning the word twice?" and the answer is "No, you're not."
+Even if you reset the card, usually you'll find that you get rid of it, push it off into the future pretty quickly,
+because you know it, unless you're still having a bit of a trouble with those kanji,
+in which case you needed the extra practice anyway.
+But this allows you to learn at your own pace, to learn the parts you want
+when you're ready to learn them and then the next parts later.
+In other words, it puts you in charge of the cards instead of the cards being in charge of you.
+Now, at a more advanced level, with Organic Japanese you start
+at a fairly early stage introducing Japanese definitions.
+You don't have to have Japanese definitions for everything.
+You don't have to do this "monolingual transition".
+But what you do start doing is using Japanese definitions increasingly where you can use them.
+So, you'll be having Japanese definitions, taken perhaps from a Japanese dictionary,
+or you might be having sentences in Japanese that you can understand
+and that will allow you to know what that word means.
+It's also a good idea to TTS those Japanese definitions or Japanese sentences
+so that you hear them when you review the card.
+And I'll put a link below about the latest TTS for Anki, which is free and very effective.
+Now, the thing about this is that sometimes in your definition or in the sentence
+there may be one, sometimes two, other words that you don't know or don't know well.
+If you don't know them at all, you may want to turn it into two cards with the same sentence,
+which can be a very good way of reinforcing those two words.
+But again, you may not.
+So, what you can do is simply regard the other word that you don't know as a bonus or minor word
+and use the card for primarily learning the word on the front
+but also learning the extra word or extra two words on the back.
+Now, you can make notes about that extra word and those extra two words.
+A phenomenon that you're often going to encounter is that because you not only see but hear
+the sentence or the definition, very often when you look at the front
+you'll remember exactly what's on the back.
+So, that's really going to be two words for the price of one.
+However, you may have trouble with the second word because that isn't the one you're specifically using
+and there again you can adjust the card as you go along to give yourself
+the mnemonics you need for whatever it is about the second word that you're having trouble with.
+And again, it's not a matter of adjusting the card in this case,
+but it is a matter of adjusting your attitude to the card.
+You may shift from using the card to learn the main word to using it to learn the second word.
+So it's a matter of your own discretion, but if you want to you might end up sometimes failing the card
+because although you got the first word, you didn't get the second one.
+Now, that may seem a bit strange, but it's in fact very effective and very economical
+because you're actually going to do less card creation and less reviewing
+than you would if you'd made two separate cards.
+And in most cases it will end up with you knowing both the words anyway.
+So these are a few of the ways that you can make your cards dynamic.
+By doing this you solve problems of not remembering particular aspects,
+you can disambiguate kanji, in many cases without making a kanji disambiguation card,
+you can learn in some cases two or three words for the price of one,
+and you can take control of how much you're learning and at what pace you're learning it,
+in a way you can't if you regard the cards as fixed, unchangeable entities.
+These are really just examples of what you can do.
+Once you get the idea that the cards are not your masters but your servants
+and that you can change their orders, change their content,
+change anything about them to suit your own convenience and your own strategy,
+cards become a much more flexible and powerful tool for learning Japanese.
+If you have any questions or comments,
+please put them in the Comments below and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, my producer-angels, who make these videos possible
+and all my angel-patrons who are helping this revolution in Japanese to become a reality.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

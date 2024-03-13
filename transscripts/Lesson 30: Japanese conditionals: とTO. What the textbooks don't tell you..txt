@@ -1,0 +1,90 @@
+Konnichiwa.
+Today we're going to start talking about Japanese conditionals.
+Conditionals are when you say something like "If..." or "When..."
+And in Japanese there are a number of different conditionals,
+and this can cause some confusion to learners.
+Which one do we use, and when, and why?
+As usual, we tend to get a list of these things from the text-books with complicated instructions,
+and as usual it helps a great deal if we can understand the underlying logic.
+So, this lesson we're going to start with
+the conditional -to.
+Now, we've already met this -to.
+It is the "exclusive and" particle.
+I'm not talking about Boolean logic here.
+I'm talking about the fact that Japanese has two words for "and" which are used to connect two nouns.
+One is -ya, and -ya is the same as English "and".
+It means one thing "and" another "and" possibly other things too.
+If we say "hat and coat", we may well have on shoes and skirt and pants and other things too,
+but we just say "hat and coat".
+In Japanese, if we say "pen ya hon" – "pen and book" – we're saying, just like English "and",
+"a pen and a book and maybe some other things and maybe not".
+But if we say "pen to hon", that is exclusive.
+We're saying "pen and book and nothing else".
+Now, this is important to understand because this is exactly the same -to that we use as a conditional.
+The textbooks tend to introduce this -to as if it were something different from the "and" -to,
+but it's not – it's the same.
+There is another -to and that is the quotation particle which we've covered at some length
+in more than one lesson.
+That is separate from the "and" -to.
+But the conditional -to is not: it's the same -to.
+And when we understand that, it becomes much easier to see what's going on with this particular conditional.
+Now, one more thing we need to know is that this -to is a particle, but it's not a logical particle.
+And it's not a non-logical particle either.
+What do I mean by this?
+Well, a logical particle is a particle that marks the case of a noun.
+Now, you don't need to know what that means – it's not important to get that theoretical knowledge.
+What it means is, in plain English, that it tells us what the noun is doing in the sentence
+in relation to other nouns and in relation to the verb.
+The ga-particle tells us that the noun is being or doing something; the wo-particle tells us
+that it is having something done to it; the ni-particle tells us that it is a target.
+So what logical particles do is tell us who is doing what to whom and where and when.
+Non-logical particles -wa and -mo mark the topic, which is not a logical construction.
+They tell us what noun we're talking about but they don't tell us what part it plays in the sentence.
+Now the point about logical particles is that they must attach to nouns.
+They can't do anything other than attach to a noun.
+And this is obvious, because that's their function – to tell us what role a noun plays in a sentence.
+-To is not a logical particle and therefore, while it can attach to nouns,
+it can also attach to a logical clause and that's what allows it to be a conditional.
+All right. So now we know enough to go ahead.
+If I say, "fuyu-ni naru-to samuku naru" – "When it becomes winter (or, if it becomes winter) it gets cold."
+So why is this connected with the "exclusive and" function of -to?
+It is connected with it because what we are saying is that only one possibility exists,
+only one result can follow from what we're talking about.
+If winter comes, it will get cold – there's no other possibility.
+If rain falls, the ground will get wet – there's no other possibility.
+It can also be used in a hyperbolic fashion.
+We've talked about hyperboles before, haven't we?
+This is where you say something that exceeds the truth.
+And human language does this all the time.
+So, someone might say "sore-wo taberu-to byouki-ni naru" – "If you eat that, you will get sick."
+Now, this is not like winter coming and it getting cold or the rain falling and the ground getting wet.
+It's possible that you might eat it and not get sick, but this is a hyperbole.
+What you are trying to say to someone is "If you eat that, you will get sick".
+"If you keep playing those games, you'll fail the exam."
+Now again, it's possible that the person might keep playing the games and still get through the exam,
+but the hyperbole is "Do A and B will happen".
+"Keep playing those games and you'll fail the exam."
+"Eat that and you'll get sick."
+We are putting something forward as an inevitable result, an exclusive result,
+a result to which no other alternative exists.
+Now, we can also use this -to to mean that something is necessary.
+We can say "ikanai-to dame" – "If I don't go, it will be bad."
+"Benkyou shinai-to ikenai" – literally, "If I don't study, it can't go"
+but what that means is "If I don't study, it won't be good"
+("...it won't do", as we might say in English).
+And what it actually means is "I must study / I've got to study".
+And very often you'll hear this just on its own.
+For example, "nigenai-to!" And that just means, literally "We don't run and..."
+That's to say, "If we don't run..."
+And the implication here is that if we don't run, something bad will happen.
+So if in an anime somebody says, "nigenai-to!" they're really just saying "Run! / We must run."
+And in this sense, -to, because it is so absolute, because it is so exclusive,
+is stronger and a little more colloquial than similar uses like ba/reba.
+And we'll talk about the ba/reba construction next time.
+If you have any questions or comments, please put them in the Comments below
+and I will answer as usual.
+And I'd like to thank my Gold Kokeshi patrons, who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

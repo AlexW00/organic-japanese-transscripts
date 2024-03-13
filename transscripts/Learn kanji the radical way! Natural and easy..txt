@@ -1,0 +1,237 @@
+Konnichiwa.
+Today we're going to talk about learning kanji the organic way.
+What do we mean by "the organic way"?
+We mean learning kanji not as isolated abstractions but as integral parts of living Japanese words
+in real Japanese contexts.
+Now, some people argue against this method by saying
+that Japanese children learn kanji as kanji, not as part of words. And that's perfectly true.
+But they don't learn them as isolated abstractions the way a foreigner does.
+When Japanese children learn kanji, nearly all the time
+they already know words in which those kanji are used.
+So, rather than learning an abstraction, they are learning the last piece of a puzzle of
+which they already have all the other pieces.
+They already know words in which the kanji are used, they know what they mean, they know
+their nuances, they know their pronunciation.
+The kanji just provides the last element, and the important thing about this is that
+from the moment they learn that kanji they are able to use it, to understand it when
+they see it on signs or in a book or anywhere and to use it themselves in writing essays.
+The kanji becomes a part of their vocabulary, a part of their life.
+Now, we can't put you in that position, but we can do the next best thing.
+And that is to teach you kanji in such a way that just as with Japanese children,
+from the minute you learn them you already have a use for them, there are already things you
+can do with them, you can already understand them in at least the context of one word.
+Now, at first you'll be learning them in whatever word it is you happen first to encounter them
+in, but you quickly, if they are common kanji, see them in other contexts and deepen your knowledge of them.
+This is the organic way. This is the natural way to pick up the knowledge.
+However, we can't learn kanji without some drilling, so we have to use Anki to help us
+consolidate those kanji as we learn them.
+So, how do we go about learning kanji?
+Ideally, before you start doing it through the fundamental method we use, that is, immersion,
+through encountering them in subtitled anime or other Japanese media,
+you should have a base of a few kanji, just as you have a base of some vocabulary.
+One way of acquiring this is to use my Alice in Kanji Land book with its associated Anki deck,
+which will not only give you a base of around two hundred kanji but also make
+you familiar with "free radicals", those kanji elements that are not in themselves kanji,
+and with the way kanji fit together and the way we use them and the way they work in words.
+But it doesn't matter how you get this early basis; whether it's with Alice in Kanji Land
+or in some other way, that doesn't matter.
+Once we have a modest, a small base of kanji, we can then go ahead and start learning them in earnest.
+So how do we do this?
+Let us say that we encounter a kanji in our anime.
+What do we do to break it down and learn it?
+Let's suppose that we encounter this kanji, which is "ha" or "tooth", in the context of the word "haguruma".
+"Haguruma" is "ha" plus the word "kuruma", which you will perhaps already know.
+It's "kuruma", which is usually used to mean "car", an automobile.
+However, as well as meaning "car", it also means "wheel".
+So "haguruma" means "tooth-wheel", or "cogwheel".
+So if we already know "kuruma", we enter this word "haguruma" into our Anki, and we're paying
+special attention to "ha" because we've never seen it before.
+What do we do with "ha"?
+Now, it looks quite complicated, doesn't it?
+It looks like one of the more difficult kanji.
+But actually it's made up of three parts, all of which are quite simple and two of which
+you'd certainly know already if you'd done Alice in Kanji Land.
+Now, if you don't know what the parts are, how do you go about finding out?
+I'm going to recommend another free and very useful tool.
+This is called Rikaichamp.
+It's very similar to Yomichan, which I introduced before.
+It is a browser add-on which allows you to hover over a Japanese word in kanji and get
+the reading and the meaning.
+I haven't recommended it so far because it doesn't link up to Anki the way that Yomichan does
+and that's one of the most important things about Yomichan in our method.
+However, Rikaichamp does something that Yomichan doesn't which is very important for learning kanji.
+Fortunately, you can install them both on your browser at the same time and they won't
+clash with each other or cause any problems.
+You can just turn one or the other on or off in the toolbar on your browser whenever you want to.
+You can even run them simultaneously if you really want to.
+So, when we use Rikaichamp on the word "hagaruma" we get the reading of the kanji,
+which is "hagaruma", and the meaning.
+Now, if we press the Shift key, we get this, which gives us a lot of information about the first kanji, "ha".
+If we want information about the second kanji, we just have to move the cursor.
+But currently we're looking at "ha".
+A lot of this information you don't really need, but the important part is this.
+As you see, it gives us the breakdown of the kanji into its three elements, which are the
+kanji in "tomeru" (stop) and the kanji for "kome" (rice) and this, a kanji element which
+is not in itself a kanji and that's the enclosing element which is called the "open box".
+So now you have the three elements of the kanji, two of which you probably know already,
+and what do we do about understanding and remembering this kanji?
+Well, we make a little story.
+This is something that Heisig-sensei also does, and a lot of people think he invented
+this, because he was one of the main people to introduce it into the West, but in fact
+this method of learning kanji has been used as long as there have been kanji.
+So it goes back at least a few thousand years.
+We make a little story based on the elements.
+So, for example, we know that this means "tooth" or "teeth", so we might say, "When there's
+a lot of RICE in an OPEN BOX we have to put a STOP on the top, otherwise the dog will have his TEETH in it."
+Or we could say, "When I put a lot of RICE into the EMPTY BOX called my mouth, the thing
+that STOPs it is my TEETH."
+It doesn't matter what sort of a little story you make up, provided it will help you to remember the kanji.
+You put this word on the front -- "haguruma" -- and you have on the back automatically
+from Yomichan, as I've shown you before, the pronunciation of the word, the meaning of
+the word, the sound-file of the pronunciation of the word.
+And then you go into the browser on your Anki and add for yourself your mnemonic of the
+kanji so that you don't forget it.
+You may not need to look at this many times, but it's a good idea to have it there.
+So, you don't have to edit every Anki card that you make, but it's a good idea to edit
+those ones that contain a new kanji.
+Now, if this is your first encounter with "ha", this is where you'll actually learn
+the kanji, and then you'll encounter it in other contexts.
+Some people may say, "Well, possibly because you've got "ha" there together with "kuruma",
+you'll be able to recognize it even from that little context on the front of the card."
+Indeed, that is possible, but it doesn't matter, because if you find that you're not recognizing
+it in some real-life contexts, you will of course add the words in which you're not recognizing it.
+And you'll quickly end up adding "ha" itself because it makes a word on its own
+and then you'll have to recognize it.
+The point about this method of learning is that we're learning kanji live, in the wild,
+so we quickly, if they're at all common, start seeing them in lots of different words in our Anki.
+So we're kind of hitting them from a number of different angles.
+And we quickly start saying, "Ah, I see.
+The "pin" in "henpin" is the same as the "hin" in "jouhin" even though it's got a little maru."
+We start recognizing kanji in different contexts and making friends of them.
+Now, another question that people may ask is, "Since we're seeing kanji in context and
+recognizing them, isn't it possible that we'll start confusing one kanji with another because
+we may not remember its exact construction?"
+And it's certainly true that as you get to recognize kanji you will forget a lot of your mnemonics.
+And that's not a bad thing, that's a good thing, because we don't want to be cluttering
+our brain with a lot of mnemonic junk once it's served its purpose.
+It's good to just recognize the kanji, and that's what's going to happen.
+But it can mean that we haven't got precise enough information about a kanji even though
+we recognize its face when we see it and then when we see a very similar kanji we can get confused.
+Does this matter? And what do we do about it?
+Well, a lot of people treat this as if it would be some kind of a disaster, and I think
+the basis of this kind of thinking is that a lot of Japanese teaching has been based around exams.
+Even people who aren't taking exams are using methods of teaching that were originated for
+the purpose of exams.
+And it's true that if you go through a period where you can't tell one kanji from another
+and you take an exam in which you're shown a lot of similar kanji, you may have a problem with the exam.
+But we're not talking about exams here.
+We're talking about natural immersion where your Japanese grows naturally and organically over time.
+So it doesn't really matter if you have these problems, because we can tackle them as we
+come to them in our real, self-immersion Japanese life.
+So, for example, if you discover that you're confusing these three kanji, or any two of them.
+Now, you see they have a common element and all three of them are pronounced,
+in their on-reading, "guu", so in a sense they're what we might call three sound sisters.
+That element is not included in the Sound Sisters deck because it's not common enough,
+but if you use the Sound Sisters deck you'll become sensitive to lesser Sound Sisters like this "guu".
+So, as we see, they look kind of similar, and if we find that we can't distinguish between
+them easily, what we do is we make a disambiguation card.
+This is the nearest thing we'll ever do to making a pure kanji card, and it's not in fact
+a pure kanji card because we're going to disambiguate them by reminding ourselves
+which kanji comes in which word that we already know.
+Now again, some people would worry about this as if there is something wrong with not having
+learned it properly in the first place and having to come back and disambiguate it.
+No, there's nothing wrong with it.
+It's a perfectly natural way of learning.
+The kanji we learn is usable when we first learn it, it's usable right from the beginning,
+and then if we have disambiguation problems later we can solve them easily enough.
+And we are not wasting our time learning a lot of detail that in most cases we aren't really going to need.
+So here are the three, and we put these three on the front of our card.
+We put the word that we learned them in or whichever word we prefer out of several that we've learned them in
+by each kanji on the back so we have them disambiguated, but then the important thing
+is to notice the features of the kanji that distinguish them and work out a story for each.
+If this differs from the story we had for them in the first place, again this doesn't matter.
+Hitting them from as many angles as possible is perfectly fine.
+It just makes them better friends.
+So let's look at the element that's common to all of them first of all.
+This one I would call an insect in a box in a field.
+The top element is obviously the field.
+The lower element is another box element: it's the other way up, so instead of the "open box"
+we call this the "closed or upside-down box".
+And then we have something which is like the insect kanji.
+We're cheating a little bit here because we're using the field as the body of the insect,
+but that doesn't matter, we just need to be able to recognize it.
+So this we're calling "the insect in a box in a field".
+And this is the sound element "guu" and also has a meaning which we'll discover now.
+So if we look first at the first and simplest of these kanji:
+If you look in the dictionary you'll see that it has a few definitions.
+It can mean "temporary abode" or it can mean "implication" or "suggestion".
+And a thing I suggest doing with words in general when they have more than one definition
+is trying to look for the root meaning.
+So for example the word "kiru" (cut) means literally to "cut" but it has lots of other
+extended meanings, just as English "cut" does.
+"Cut" means literally cutting something with a knife or a pair of scissors or something
+but if someone's doing something and we say "cut it out" or if we say "take a short cut
+across the field" or if we say "cut that scene [from a movie]", we're using it in various extended senses.
+Now, it's the same with this one.
+Its original meaning is "temporary dwelling" and its extended meaning is "implication" or "suggestion".
+Now, how does that come about?
+Now, it's worth knowing that human language is 80 to 90 per cent metaphor, because whenever
+we talk about something abstract it has to come ultimately from a concrete metaphor.
+So, in this case, the use of the concept of a temporary dwelling to mean implication or suggestion is this:
+A word has a meaning which is its permanent meaning, but when it's used in a particular way,
+another meaning temporarily dwells in it.
+That's its suggestion or implication on a particular occasion when it's being used.
+So, this kanji is made up of our "guu" plus a house.
+That element on the top is the "house" free radical, means "house".
+So we can say that that's the bit that means "dwelling" and the other part means "temporary"
+or "fleeting" or "vagrant".
+So a "temporary dwelling" is either literally that or it is the temporary dwelling of a
+meaning within a word or expression, it's implication or suggestion.
+And we'll say that the word we've learned this in is "guuwa", which means a "fable"
+or an "allegory", in other words a story which has an extra meaning or suggestion about it.
+It's not just being told for the sake of the story but also
+for the sake of the moral or principle that it implies.
+So on the back of our card we're going to say that this is the "guu" of "guuwa", which
+we already know and we should only try to disambiguate kanji once we already
+know words in which they appear.
+So we say that this is the "guu" of "guuwa" or "fable" and we make a note as large or
+small as necessary just to indicate to ourselves that the "house" plus the "vagrant" or "fleeting"
+or "temporary" meaning means "temporary dwelling", which means in turn "implication" or "suggestion".
+Now, the next one is the "guu" of "guuzen", which means a "coincidence" or a "chance meeting".
+Now, here we again we have "temporary" or "fleeting".
+And we have this free radical on the left, which is in fact the free radical version
+of the "hito" radical, so it means a "person".
+So, "person" plus "fleeting" or "vagrant" or "temporary" means "chance meeting" and
+by extension any kind of chance or accidental or random event.
+Now, this is the "guu" of "guuzen", so "-zen" here simply means "nature" -- something the
+nature of which is chance or coincidence rather than something planned or necessary.
+And the third one has that "guu" element with a "heart", so it means a "fleeting or vagrant heart".
+What does that actually mean?
+This is the "gu" that we find in various expressions, like "gumon", which is a "foolish question",
+and also in its kun-reading it makes the word "oroka", which is a "fool".
+Now, a "fleeting or vagrant heart" -- we have to remember that "kokoro" (heart) in Japanese
+does not refer to the physical heart (that's "shinzou").
+It refers to the mind or spirit or feelings.
+So a fleeting or vagrant mind is a mind that can't concentrate on anything,
+and therefore a foolish mind.
+So, this means "fool" or "folly".
+So now, when we see any of those three, instead of thinking that they look somewhat similar,
+we're going to focus in on the points that distinguish them: the heart, the person, the house.
+So all of this, as you see, is simply a set of techniques for helping us to know kanji
+as part of words and to become more familiar with them as we see them in more and more words.
+And to do that study part, which we have to do, because even native Japanese people spend
+nine years learning kanji, so we've got to have some way of actually drilling and studying them,
+and we do that through our Anki deck, which is the same Anki deck that we are learning
+our vocabulary, so we don't have a separate kanji study.
+Essentially, other than learning structure, all our study is concentrated in one Anki deck.
+We can do others on the side for particular reasons, such as the Sound Sisters deck,
+which is very well worth doing.
+But our fundamental main study is concentrated on that one deck and the rest of our efforts
+go into real immersion, which is the most important and central thing in the organic learning of Japanese.
+If you have any questions or comments, please put them in the Comments below
+and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

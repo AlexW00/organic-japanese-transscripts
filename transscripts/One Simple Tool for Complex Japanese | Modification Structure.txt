@@ -1,0 +1,279 @@
+Konnichiwa. Today, we're going to talk 
+about the thing that  
+makes complex Japanese sentences possible
+and also supplies the key to 80 to 90 percent
+of what's going on in any complex 
+Japanese sentence.
+So if we understand this, we can analyze sentences.
+If we don't, it's very, very difficult indeed.
+And this is what I call "modification structure".
+So what does "modification" mean?
+Modification essentially means telling us
+something about something else.
+So, a very simple kind of modification is 
+that if we say "boushi", which means "hat",
+and then we say "akai boushi", which means
+"red hat", we've modified "boushi" with "akai".
+"Akai" is telling us something more about
+the hat: it's telling us that it's a red hat.
+So adjectives, when they go before something,
+are a very simple kind of modifier.
+And that "when they go before something" is
+all-important 
+because there are only two laws of 
+Japanese word order.
+The first is that the engine always comes
+at the end of the logical clause.
+The second is that anything that modifies
+anything comes before it.
+So, why is modification structure so 
+important in Japanese?
+Let's go right back to my first lesson.
+I told you, the very first thing in Japanese 
+to know is that every Japanese sentence,
+that's to say every logical clause, has 
+two elements.
+These are the only ones that are necessary,
+they're the core of the sentence,
+and you can't have a sentence without them.
+And there are only two ways of making a 
+Japanese sentence more complicated 
+than that simple "A-car and B-engine".
+One is to string logical clauses together
+so you have a compound sentence 
+with more than one A-car and B-engine 
+in it, connected with 
+clause-connecting elements like the te-form 
+or a "but" or a "because" or something.
+And the only way that you can make a logical 
+clause in itself more complex, the only way,
+is to say something more about A (tell us more 
+about A), or something more about B. 
+In other words, to modify A or modify B. 
+And this is why Japanese relies so heavily 
+on modification structure.
+It's really the only way apart from compounding 
+to make sentences more complex.
+So Japanese uses modification structure to
+do all sorts of things that are handled by
+other strategies in English and other languages.
+So, what I want to do now is look at 
+a few sentences 
+and analyze how their modification 
+structure works.
+So, here's the first one: "Kanojo-ga itta 
+koto-ga uso de aru koto to wakatta."
+And this means "What she said turned out to
+be a lie, turned out to be a false thing".
+Now, in English you see we don't use a 
+modification structure for that, 
+but in Japanese it's done purely by 
+modification.
+So let's break it down and see what's 
+ going on.
+First of all, the core of the sentence is 
+"koto-ga wakatta" (thing became clear).
+But then we're told more about the thing and 
+about the "became clear".
+So, "kanojo-ga itta"-- which could be a logical 
+clause in itself (she said) --
+is modifying "koto". And we know this
+because we're not ending the sentence 
+with a full stop or anything 
+and we're not running into a clause connector.
+We're running bang into a pronoun, "koto", and 
+what happens when we run a sentence into
+a pronoun like "koto" is that we modify that
+"koto" so that we know what the "koto" is,
+and I call this "putting the preceding sentence
+into a koto box".
+We can then handle the contents of that  
+"koto box" as a simple noun.
+And that's exactly what we're doing here.
+We're marking it with -ga and making it 
+the subject of the sentence.
+And then, "uso de aru" modifies the 
+second "koto".
+"De aru", as you may know, is a form of "da"
+or "desu", so "uso de aru" means "is a lie",
+and if you want to know why "de aru" is 
+ being used here, 
+I made a whole video on "de aru" and 
+ I'll link that above my head, 
+and that will make it clear why it's being 
+used in this position.
+So, "uso de aru" modifies "koto", and then
+"koto to" modifies "wakatta", so all of this
+is modifying the sentence engine, which is
+"wakatta" (became clear).
+So, in Englishized Japanese, what we're 
+saying is 
+"she-said thing lie-is thing {quote} 
+ became clear".
+Now, {quote} here of course, the use of "to",
+has no equivalent in English.
+It's not a quotation, it's a particle, but
+but it's telling us that that idea,
+that concept, became clear.
+In other words, "The thing she said turned 
+out to be a lie, turned out to be a false thing." 
+Let's take another example: 
+"murabitotachi-wa yukuefumei-ni natta neko-wo 
+sagasu tame-ni yama-no naka-he dekaketa." 
+In English, that would be "The villagers went 
+out into the hills to look for a missing cat".
+Now, the core of this is "murabitotachi-wa 
+[zero-ga] dekaketa" (the villagers went out)
+and everything else is telling us more 
+about their going-out.
+It's modifying the engine, "dekaketa".
+But the thing here is that we can have 
+ modifications within modifications.
+So, "yukuefumei-ni natta" modifies "neko".
+That tells us more about the "neko": 
+ it was a cat that went missing.
+And then that modified "neko" becomes part 
+of another modification structure: 
+"neko-wo sagasu" modifies "tame".
+"Tame" is a noun meaning "sake, or purpose".
+And then "neko-wo sagasu tame-ni" 
+modifies "dekaketa": 
+for the purpose of seeking the cat went-out.
+This is all modifying the sentence engine
+"dekaketa" (went out).
+But before we get to it we have another 
+modification for the sentence engine  
+and that is "yama-no naka-he", and that 
+also modifies "dekaketa".
+So we can add two separate modifiers for the
+same element, one after the other.
+And that shouldn't be too surprising because
+we've done this from the very beginning.
+For example: "omise-ni pan-wo kai-ni itta"
+(I went to the shops to buy bread).
+Again, in Japanese this is a modification
+structure, and we have two separate modifiers.
+The core is "[zero-ga] itta" (I went).
+The first modifier tells us where I went; 
+the second modifier tells us why I went.
+So, this "neko" sentence, "the villagers went 
+out into the mountains to look for 
+a missing cat", is exactly the same structure, 
+only a little more complex.
+Now, let's take an example from "Shirokuma 
+ Cafe", which I've talked about 
+in another video: "Gorogoro suru-no-ni 
+isogashii kara ato-ni suru yo."
+This is where Panda's mother has talked about
+looking for a job, and what he's saying is
+"gorogoro", which means literally lazing about
+or rolling about, the way pandas do; 
+and the reply is "Because I'm busy with lazing 
+around, put this off till later."
+So the core of this is "[zero-ga] isogashii"
+(I am busy).
+"Gorogoro suru" -- this is "laze-around do",
+and it's put into that no-box again, 
+so we can treat it as a noun.
+So, "gorogoro suru" modifies -no, we 
+then add the particle -ni, 
+and "gorogoro suru-no-ni" modifies 
+"isogashii".
+So, "I'm busy with the thing of lazing around /
+ lazing around is the target of my busyness".
+So, now let's take a slightly more 
+complex example: 
+"kanojo-wa hoka-no onnanokotachi-ni 
+banji-ga umakuitta to aizu shita." 
+(She made a signal to the other girls to 
+tell them that everything went well.)
+And, as you see, this is not a modification
+structure in English, 
+but in Japanese it's a modification 
+ structure yet again.
+So, the core is "[zero-ga] aizu shita" -- "kanojo-wa
+[zero-ga] aizu shita" (she gave a sign).
+So then, "hoka-no" modifies "onnanokotachi".
+"Onnanokotachi" are girls; "hoka-no" means
+the other girls.
+"hoka-no onnanokotachi-ni" modifies "aizu 
+shita": it tells us to whom she made the sign.
+"banji-ga umakuitta to" also quotes the content 
+of the sign, the meaning of the sign, 
+which is "everything went well", and that 
+also modifies "aizu shita".
+So again we have two modifiers for the engine,
+which is "aizu shita", and they tell us 
+to whom she made the sign and what the 
+content or meaning of the sign was.
+And now we're going to look at one that 
+ I did in another video, 
+which has caused some people a little 
+questioning, so once again 
+let's look at this one and break it down in 
+terms of its modification structure: 
+"Ichiba-de katte kawa-ni otoshichatta okashi-ga 
+sakana-san-ni taberareta."
+And this means "The candy that I bought at 
+the market and done dropped in the river 
+got eaten by a fish".
+Now, the core of this sentence is "okashi-ga
+taberareta" (the candy got eaten) or,  
+if you want to be very strict, "okashi-ga rareta"
+(the candy got), because strictly speaking
+"tabe" is telling us more about "rareta": it's telling what it got: it got eaten.
+Now, the tricky bit about this sentence  
+ really is that we have in fact 
+the remnants, as it were, of a compound 
+sentence,
+two logical clauses: "ichiba-de katte" which
+ends in a connector, 
+and then "kawa-ni otoshichatta" (I bought 
+at the market and dropped in the river) 
+but all this runs directly into a noun, "okashi".
+So we know that the whole thing, both partial 
+logical clauses, are working to modify "okashi".
+So all we have up to the point of "okashi"
+is one modified noun.
+And we know quite a lot about the candy: 
+we know it's the one that she bought 
+at the market and dropped in the river.
+We can then mark that noun with -ga and say
+what happened to it:
+"sakana-ni taberareta".
+And again, we could just say "-ga taberareta"
+but "sakana-ni" is modifying "taberareta".
+It's telling us by whom it got eaten: 
+it got eaten by a fish.
+So, these are fairly simple examples. 
+ If you have more complex examples 
+or other examples that worry you, please
+put them in the Comments below, and
+if they're interesting enough I'll do another 
+video on some more complex examples.
+If you have any other questions or comments,
+please put them in the Comments below 
+and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons,
+my producer-angels,
+who make these videos possible, and 
+all my patrons and supporters
+on Patreon and everywhere, and all of you  
+who like and comment on these videos, 
+and of course you personally for attending 
+ this lesson.
+Thank you for helping this project to go ahead,
+for helping us to find keys to the complexity 
+of Japanese
+and to understand that once we know the 
+structure 
+these apparently baffling complexities 
+are easily penetrated.
+And once again, if you have ones that are
+still puzzling you, 
+give them to me in the Comments below, 
+we'll take a look at them and,
+if they're interesting enough, we'll make 
+another video just looking at those.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

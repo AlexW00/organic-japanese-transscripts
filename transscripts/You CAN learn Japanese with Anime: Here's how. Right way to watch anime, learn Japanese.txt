@@ -1,0 +1,161 @@
+Konnichiwa.
+Today we're going to talk about learning Japanese through anime.
+And this isn't just another topic.
+This is Immersion 101.
+If you're serious about learning Japanese rather than just learning about Japanese,
+it starts right here, right now.
+Can you learn Japanese through anime?
+Absolutely you can, and I would say that it's the best way to learn.
+A lot of people say you can't learn Japanese through anime, and in a way they're right.
+They're right because if you go about it the wrong way, you can't.
+And most people go about it the wrong way. What's the wrong way?
+Well, some people say that you can just watch anime without subtitles
+and try to get as much of the story as you can, and over time it will seep in.
+It won't.
+That's to say, unless you have very strong linguistic intuition – and if you have, absolutely go with it.
+But most people haven't, and if you don't have extraordinarily strong linguistic intuition,
+it's not going to do any good at all. You'll be wasting your time.
+Now, other people say that you can watch Japanese anime with English subtitles
+and it'll help you to learn. It won't.
+You won't be wasting your time, because you'll be enjoying the anime.
+But as far as learning Japanese goes, you might as well play golf.
+You'll learn the odd word here and there, but that's all.
+Your mind, which is programmed to take the line of least resistance, will focus on the subtitles
+nearly all the time. You'll recognize the odd word that the mind finds easy to pick up.
+What is the right way to learn Japanese through anime?
+It's watching Japanese anime in Japanese with Japanese subtitles.
+In the early stages you'll hit a lot of words you don't know,
+and that's the way you're going to learn ninety per cent of your Japanese vocabulary.
+That's the way I learned my Japanese vocabulary
+except for perhaps a thousand or so right at the beginning.
+That's the way you're going to learn most of your kanji.
+Again, it's not a bad thing to have a small base of kanji, but I don't recommend kanji courses or kanji books.
+This is the way to learn kanji, not as abstract entities but as words that you encounter inside of anime.
+And I'm going to show you how you go about that in future videos.
+Now, why anime?
+Why not, say, manga, or elementary readers, or something like that?
+In one word, audio.
+In anime, nearly every word you ever see you will also hear.
+And that's all-important, because otherwise you're going to be pronouncing those words in your head
+and getting them wrong.
+But the second important thing about audio is this: when you've worked your way through
+an episode of anime – and it's going to take time, don't underestimate this,
+this is going to be the fight of your life in the early stages – so once you've got through an anime,
+what you do is put the audio onto your phone or your iPod or onto an mp3 player
+(and you can get mp3 players really really cheap if you need to.
+You can get one off eBay for a dollar, shipping included – I'm not joking, go and have a look).
+So you put that audio, the soundtrack of the anime, onto your music player, whatever it is.
+And you listen to it all the time.
+When I say "all the time", I mean all the time.
+If you're doing something that requires your full concentration, turn it off or
+preferably turn it right down.
+Otherwise you should be listening to that audio.
+Audio that you don't understand is no good for you at all, but once you've worked through the anime
+you can understand at least a lot of what's being said.
+And it's going to get Japanese into your blood.
+It's going to help you to remember the vocabulary – although you also want to use Anki to
+help cement those words and particularly those kanji.
+And we'll talk about that in another video too.
+So how do we actually get the soundtrack?
+In our next video I'm going to point you at some resources for watching anime with Japanese subtitles,
+but these won't help us with the soundtrack unless we want to record directly
+from the computer's audio stream – which we can do, but it's a bit of a pain so I won't go into this here.
+The simplest methods, if your anime is on YouTube or Dailymotion or anything like that,
+you can download it directly from there.
+It probably won't have Japanese subtitles, but that's all right because we'll get those elsewhere.
+All you need is the audio.
+But if your anime isn't on one of those places, and it very likely won't be, what do you do?
+Well, if you have the anime file in any form you can extract the audio.
+This can be done in various ways.
+You can use VLC - even that's a little bit fiddly -
+The method I prefer because it's the simplest, and also because it has other advantages, is to use Audacity.
+Audacity is a free, open-source audio-editing program.
+And all you have to do is download Audacity, open it up, drag your video file into its open window
+and it won't open the video because it's not a video program, but it will extract the audio.
+Then after that all you have to do is export it as .mp3, .wav, .flac, or whatever you want.
+If you want to export as .mp3, you have to install a codec, but Audacity itself will
+guide you through that process, and it's very easy.
+The other advantage of Audacity is this: Here's the wave form of an anime that's been dragged into it.
+You can see that we have areas here that are quite distinguishable by being a lot louder than the rest.
+Now, these are going to be things like fight scenes, noisy henshin (transformation) scenes,
+and of course the opening and closing music.
+You may want to get rid of all that.
+Fight scenes tend to have very little dialogue and a lot of noise.
+The same with henshin scenes.
+You may want the opening music or you may not want it.
+When you have it in Audacity you have the ability to trim out anything that you don't want.
+If you don't find the songs useful, you can get rid of those, and on the whole
+I would advise getting rid of fight scenes because you can't see what's going on,
+you're not getting any dialogue, and they tend to be just a lot of useless noise on the soundtrack,
+though they may be fun in the anime itself.
+The anime method gives you the best of audio learning with the best of visual learning
+because you're working with the written word as well, and it gets you into real Japanese.
+Actually learning Japanese as opposed to just learning about Japanese.
+Now, some people say, "Oh, it's bad to learn Japanese from anime because you learn funny Japanese,
+slangy Japanese, you'll end up talking like an anime character..."
+This is one of the strangest arguments I've ever heard.
+I'm not sure what planet these people live on.
+Obviously, when you start learning Japanese through anime you don't know very much Japanese anyway.
+As you continue, you'll pick up more and more Japanese, you'll move on to other media,
+you'll probably keep on with anime, but you'll read books too, you'll have conversations with Japanese people.
+Nobody is likely to live in a test tube with just themselves and anime.
+It doesn't matter where you pick up your first Japanese from, so long as it's Japanese.
+If all you're ever going to do is watch anime, it doesn't really matter if you talk like an anime character anyway.
+Besides, there are worse things than talking like an anime character.
+And seriously, the chances of this happening unless you want it to happen are absurdly remote.
+So this is the core of how we learn Japanese through anime.
+We start off working slowly through anime episodes,
+putting the new vocabulary into Anki in order to pin it into place, and listening to the audio.
+Now, when you first do it, you're probably going to think
+there's something wrong with you because it goes so slowly.
+There's nothing wrong with you.
+It's a very, very slow process for everyone.
+The truth is that learning Japanese is a slow process at first.
+There isn't a fast method.
+Nearly all the other methods only teach you about Japanese and, to tell the truth,
+most learners prefer this. Why do they prefer it? Because it's easier.
+Because you don't jump into the water and start feeling you're drowning.
+You just stay on dry land learning things out of books.
+You can pass exams that way.
+But there are lots of people who pass exams and are really not much closer to really knowing Japanese.
+A human friend of mine, well, not quite human, but a nearly human friend of mine,
+sat the JLPT2 exam a while ago, and the Japanese proctors at the exam spoke to each of the entrants
+as they came in and said a few words to reassure them, in Japanese.
+And everyone my friend heard looked embarrassed and responded in English.
+This is JLPT2, second highest Japanese proficiency test, and the people taking it were
+too uncomfortable in actually using Japanese to use it.
+When addressed in Japanese, they replied in English.
+And this is normal.
+This is what happens with most people who learn about Japanese instead of learning Japanese.
+With the anime method you can take your first step in learning Japanese.
+Lots of people put it off and say, "Well, maybe if I learn a core six thousand words first it'll get easier."
+The truth is that it won't get very much easier.
+You're still going to find it a struggle whenever you start learning real Japanese,
+and it's best to do it sooner rather than later.
+Now, I do think you should have a grounding in structure, and that's why I teach structure,
+because no one else is teaching structure properly.
+So I recommend that you look at my structure course.
+If you're new to Japanese, please do the first dozen or so lessons before you start.
+If you're not new to Japanese, look over that course anyway and see if it doesn't open your eyes
+to the way the language really works as opposed to the way the textbooks told you it worked.
+But don't fall into the trap of thinking that you need to completely finish learning structure
+before you start actually learning Japanese.
+Once you've learned the basics of structure, which is really what I cover in my first dozen lessons,
+that's the point to start entering into Japanese.
+You learn about Japanese just enough to get ready to learn Japanese.
+And then you do the two things concurrently: you learn Japanese and also learn about Japanese.
+It will take a very long time to complete learning about Japanese.
+If you're a native English speaker and you have any curiosity at all,
+you haven't completely finished learning about English.
+But of course in Japanese there are many things that you're going to need to learn about,
+even while you're learning and using Japanese.
+I believe that the best way to start learning Japanese is Japanese anime with Japanese subtitles
+and in future videos I'm going to give you detailed instructions on the various aspects
+of how to go about it.
+If you have any questions or comments, please leave them in the Comments below and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, my producer-angels, who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere.
+You'll find my Red Kokeshi patrons credited in the information section below.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

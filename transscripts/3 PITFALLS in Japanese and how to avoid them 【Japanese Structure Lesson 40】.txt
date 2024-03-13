@@ -1,0 +1,134 @@
+Konnichiwa.
+Today we're going to discuss some pitfalls in Japanese structure.
+These are very small elements, single kana elements of the language, but very vital ones
+that can, if you don't know about them, be very confusing
+because one element can be easily confused with another one that looks identical.
+And the textbooks, in many cases, don't tell you about this at all.
+They leave you completely floundering.
+The first one we're going to look at is "de".
+Now, "de", as you know, is a logical particle.
+It has a very clearly defined use which we introduced in Lesson 8b.
+Like all logical particles, it marks a noun, and it tells us that that noun is the place
+where an action took place or the means by which an action was done.
+However, there is another "de", which is not a particle, which is also used very frequently in Japanese,
+and the textbooks make no attempt to distinguish these two completely different but identical-looking elements.
+The first time most of us will meet the second of these "de"s is in the use of adjectival nouns,
+which are very confusingly and misleadingly called "na-adjectives" by the textbooks.
+So if we say "Sakura-ga kirei de yasashii", what we're saying is that Sakura is pretty and kind.
+"Kirei da" is an adjectival noun.
+If we want to say "The flower is pretty", we say "Hana-ga kirei da".
+And if we want to say "the pretty flower", we have to put "kirei da" on the other side
+of the flower, so we say "kirei na hana".
+And that "na", as we know, is the connective form of "da".
+But if we want to say "Sakura is pretty and kind", we can't use "da" and we can't use "na",
+but we do have to use the copula.
+What we use now is the connective form of the copula, that is to say, its te-form.
+And the te-form of "da" is "de".
+So if you say "Sakura is beautiful and kind", this is a true adjective, an "i-adjective",
+and we use the te-form to connect it: we say "Sakura-ga utsukushikute yasashii."
+If it's an adjectival noun, we still have to have the copula, so we say "Sakura-ga kirei de..."
+That's the te-form of the copula.
+Now, I've already explained that in our lessons on adjectivals,
+but we also find this "de", the te-form of "da", in lots of other cases in Japanese.
+So let's take a couple of cases and see if you can tell which of the two "de"s is being used.
+A very common thing to say to someone when you're leaving them, perhaps for a while, is "o genki de".
+Now, "genki", as you know, means "well" or "healthy" or "lively"
+and the "o" is just an honorific or prettifier.
+What is the "de" here? Is it the logical particle or is it the te-form of the copula?
+This is the te-form of the copula, not the particle.
+The particle doesn't make any sense here, does it?
+What's the te-form of the copula doing?
+Well, we know, don't we, that the te-form is often used to make an imperative,
+to tell someone or ask someone to do something.
+So, if we say "matte" -- "wait" -- this is kind of short for "matte kudasai" and we're
+asking someone to wait ("matte!" -- "Wait!").
+Now, it's exactly the same with "de", which is the te-form of the copula.
+So, "genki da" means "is genki", someone is genki, someone is healthy or lively.
+"Genki de" is telling them to *be* genki or lively.
+"O genki de" -- "be healthy / be lively / keep up the good spirits".
+Right. So here's another one: "buji de yokatta" is another very common expression and it means
+"I'm glad that you're all right / it's good that you weren't harmed / it's good that you're safe"
+-- "buji de yokatta". What do we have here?
+Once again, we have the te-form of the copula.
+"Buji", which means literally "no incident" and therefore it means "nothing happened / nothing
+bad happened / you weren't harmed / you're safe."
+So, "buji da" means "you're safe / you weren't harmed / nothing happened".
+"Buji de" is turning that "da", that copula, into the connective form.
+We use the te-form to connect things, don't we?
+So, just as we might say, "osoku natte sumimasen" -- "That I came late, I'm sorry"--
+we also say "buji de yokatta" -- "That you weren't hurt, that was good."
+And this connective te-form is also used in longer compound sentences.
+So, for example, we might say "Sakura-wa iiko de mainichi gakkou-ni iku" --
+"Sakura is a good child and she goes to school every day."
+We have two complete clauses and, just as with the te-form of any verb, we can use it
+to connect that verb-ending clause to a second clause, so we can do exactly the same thing with the copula.
+So, "Sakura-ga iiko da" -- "Sakura's a good girl" -- is a complete sentence in itself.
+If we want to connect it to a second clause to make it the first half of a compound sentence,
+we turn that "da" into its te-form, "de".
+So, "Sakura is a good girl and she goes to school every day."
+And as is usual with the te-form connector, it tends to imply a positive relation between the two.
+It has this implication of "Because Sakura's a good girl, she goes to school every day,"
+but it's not stating it as strongly as if we'd used "kara".
+Now, another confusion, which is not kept such a deep, dark secret by the textbooks,
+but they don't always stress it clearly enough, and it's very important because it concerns
+the very center of the Japanese language, and that is the ga-particle.
+The ga-particle, as we know, is the one particle that no sentence or clause in Japanese can
+ever be without, whether we can see it or whether we can't.
+"Ga" marks the A-car of every sentence, the do-er of an A-does-B clause and the be-er of an A-is-B clause.
+But there is also another "ga".
+It's not easy to confuse the two, provided you're clearly aware of them.
+The other "ga" is also a clause connector.
+And usually it's a contrastive clause connector.
+So, if we say, "omise-ni itta ga pan-ga nakatta," we're saying "I went to the shops, but there wasn't any bread."
+So, this is a contrastive conjunction.
+We went to the shops hoping that there would be bread, but there wasn't any.
+It's not possible to confuse this with the other "ga", the "ga" that marks the subject
+of the sentence, the A-car, because that "ga", the particle "ga", can only ever mark a noun.
+And the clause-connector "ga" can only ever mark a complete sentence.
+The particle "ga" can't mark a complete sentence, because a complete sentence can't end with a noun.
+It has to end with a verb, an adjective, or a copula, as we learned in our very first lesson.
+So it's not possible to confuse these two so long as you're clearly aware of them.
+One more thing that we should note is that "ga" doesn't have to be contrastive.
+Most of the time it is, but it can be used as a regular, non-contrastive conjunction.
+It's worth knowing that, because if you see it connecting two clauses and there doesn't
+seem to be any contrast there, you don't have to rack your brains to find the contrast -- occasionally
+it is used in a non-contrastive manner. And the other thing you need to know is that
+you will sometimes find this contrastive "ga" at the end of a sentence.
+And I have talked before about sentences that end in a conjunction.
+Strictly, they're not complete, because what they're doing is implying a following clause.
+"Ga" at the end of a sentence is often a politeness, because "ga" is in fact more polite than "kedo"
+or "demo", the other ways of saying "but".
+So if we said something like "koohii-ga hoshii ga" --
+"coffee is want-making (to me)" and then we've added "ga".
+And what that "ga" is doing is saying "but..." and it's implying a second clause but not stating it, so
+"koohii-ga hoshii ga" means something like "I would like coffee, but...
+if it's any trouble please don't try to get me any coffee" or something along those lines.
+The last one we're going to consider is less common, but if you're reading any amount of
+Japanese you're going to come across it pretty soon, and that is "ni".
+Now, we know "ni". It's again a logical particle.
+It's the targeting particle, and I've done a whole video on this because it's an important and complex particle.
+But there is also another "ni".
+And this other "ni", which is a slightly old usage -- it comes from older Japanese --
+it means the same as "to". It can be used to and-together two nouns or a list of nouns.
+So in the folk tale Beauty and the Beast, when the father asks one of the less good sisters
+what she would like him to bring back for her, she says "kutsu ni yubiwa ni boushi".
+She's saying she would like shoes and a ring and a hat.
+So this "ni" can be used to and-together two things or a list of things,
+and it's completely different from the particle "ni".
+It's a little bit literary, so you're more often going to see it in written Japanese.
+But if you don't know that it's there, you can spend a long time puzzling over
+what "ni" means in these contexts.
+It's also more commonly used in the expression "sore ni", which means "furthermore" or "in addition to that".
+And, as you can see, this is made up of "sore", which means "that", plus "ni" --
+not the particle "ni" but the "ni" that means "and".
+So, have you seen any apparent particles or parts of Japanese that don't seem to be doing
+what they ought to be doing?
+If so, put them in the Comments below and I will do my best to clear up the problem.
+If you have any other questions or comments, please also put those in the Comments below
+and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, my producer-angels, who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere.
+You'll find a list of my Red Kokeshi patrons in the information section below.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

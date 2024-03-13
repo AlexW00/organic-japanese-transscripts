@@ -1,0 +1,187 @@
+Konnichiwa.
+Today we're going to talk about some exceptions in Japanese,
+how they work, and why they're there.
+And in doing that, I think we're going to gain some insight into
+how Japanese holds together and how we can understand it.
+So what we're going to talk about today is
+"miru, mirareru, mireru, mieru, kiku, kikeru, kikoeru".
+Now, that seems like quite a confusing lot of things, doesn't it?
+But in fact all we have there is the basic dictionary forms
+of "miru" and "kiku" -- "see"and "hear" -- and the potential form of each
+and one alternative or exceptional potential form.
+Now, it looks like two in the case of "miru", but it's actually one,
+and we'll come to that in just a moment.
+I always say that Japanese is a very, very regular and logical language,
+and the conventional wisdom is that it only has two irregular verbs, "kuru" and "suru".
+Now, as I've mentioned before, it does in fact have a few other minor irregularities,
+and by minor irregularities what I mean is verbs that aren't really irregular verbs but
+they do become irregular in one particular area, in one single place only.
+And there aren't many of these, but there are a few and these are two of them.
+And we want to look at what they are and, more importantly,
+why they are what they are and what they mean,
+how we can understand them.
+So to start with, we understand how the regular potential form,
+the "able to do" form, of verbs work, don't we?
+We form it simply by turning the verb into its e-stem and
+adding the very simple potential helper verb "ru", which is just one character: る.
+That's the godan form.
+And the ichidan form: in the ichidan we do what we always do,
+we simply remove the -ru and put on whatever it is we're going to put on.
+In this case, the ichidan potential helper is "rareru".
+So, as we can see, "mirareru" is the regular potential form of "miru",
+which is an ichidan verb, and
+"kikeru" is the regular potential form of "kiku", which is of course a godan verb.
+So why am I saying that there's only one variant of "miru" and not two?
+Well, that's because the variant is "mieru", and we'll come back to that in a moment.
+"Mireru" is in fact the ichidan form being affected by a phenomenon which we call "ra nuki".
+"Ra nuki" means literally "taking out the ra".
+And this is something that happens quite widely in Japanese.
+You're going to encounter it pretty often once you're actually using Japanese,
+so that may be right now.
+It simply consists of taking out the "ra", dropping the "ra",
+in the ichidan potential form of verbs.
+This is considered to be incorrect grammar, not only by the English Japanese textbooks
+but also by native Japanese grammar textbooks.
+It's considered to be incorrect grammar, but it's very, very widespread,
+much more widespread than most of the popular bits of incorrect grammar
+that you'll hear from time to time.
+And I would suggest that this is probably going to be an evolution of the language.
+Now, Western people often tend to say, "Well, if a number of people
+are using an incorrect usage then how can you say it's incorrect?
+Surely it's a new correct usage, because 'correct' is just what people use."
+And I think this is a mistake and a rather dangerous and irresponsible mistake,
+because while it's true that language evolves,
+the evolution of language is pretty much the same
+as the theorized evolution of species.
+That's to say, species evolve from mutations.
+Mutations happen relatively often and most of them die out.
+Only a few of them, and usually in cases where they have some special advantage,
+actually persist and become part of the evolution of the species.
+And the same is true of languages.
+Most incorrect usages that get taken up by largish numbers of people die out.
+Only a very few of them ever become parts of the real evolution of the language.
+So if you do what is currently being done in the West,
+which is put in misuses of language into dictionaries,
+what you're doing is actually short-circuiting the self-correcting function of language.
+Language over a generation or so, over maybe a couple of decades,
+will reject most uses that go against its basic logic.
+A very few of them will end up making minor changes in the basic logic.
+And that's why it's a mistake to put into dictionaries at an early stage
+misuses of language, because we have no way of knowing at that early stage
+whether they're really going to be genuine evolutions of language
+or whether they're going to die out within a generation.
+What we do know is that in most cases, in the vast majority of cases,
+they would die out within a generation,
+and by putting them into a dictionary
+we're interfering with that self-correcting process of language.
+And this, I would say, is important, because it's this way of thinking
+that makes Japanese teaching so very poor in the West.
+It's the way of thinking that assumes that language is a completely irrational thing
+that just happens to evolve in any way it chooses to evolve.
+And it's not. Language is governed by logic.
+And Japanese is governed by logic more than most languages.
+But if you reject that notion, if you think that language is simply irrational
+and chance and accidental and
+anything anybody happens to use is as correct as anything else,
+then you end up teaching language as if it were just a hodgepodge of things
+that you have to learn because they just happen to be there
+and don't have any underlying logic.
+And that really is the fallacy that underlies modern Western Japanese teaching.
+So, that's a digression.
+Let's get back to "mirareru".
+"Mirareru" is what they'll use, because that is currently the correct usage.
+So we have "miru", we have "mirareru", and "mieru".
+We have "kiku", we have "kikeru" and we have "kikoeru".
+So what is the difference between the two potential forms,
+the regular and the irregular potential form?
+Now, in each case here, the irregular potential form is what I'm going to call a forced self-move form.
+Now, as we know from our lesson on the potential, potential is usually self-move --
+and if you don't know what "self-move" is,
+you should look at the lesson on self-move and other-move verbs too.
+They sometimes get called, not exactly accurately, transitive and intransitive.
+So, for example, if we want to say "I can read the book",
+in Japanese we actually say "the book does readable to me".
+So we say "hon-ga yomeru". This is self-move.
+The book is the actor and it's acting upon itself.
+It's making itself readable, it's "doing readable" literally.
+There's no exact English translation for this,
+because we're not saying the book IS readable;
+it's not an adjectival phrase.
+We're saying the book DOES readable.
+So we just have to get used to the fact that Japanese is much more happy than English
+to treat states of being as verbal actions.
+So if we want to say "I can read the book", we say "hon-ga yomeru",
+but if we just want to say "I can read",
+we might say "yomeru" or "watashi-ga yomeru",
+and again we have a self-move verb.
+In one case we're saying "I do readable (I am able to read)",
+in the other we say "the book does readable (the book does being able to be read)"
+and that's how it works.
+However, it is also possible to use the potential in other-move contexts.
+Usually this happens in modifying clauses.
+These are sometimes called by Western textbooks "subordinate clauses",
+which they are, but I think it's better and clearer to call them "modifying clauses",
+and I've done quite a lot of work on modifying clauses,
+so I'd recommend this video if you want to know exactly what I mean.
+So, in modifying clauses particularly
+we can use the potential as an other-move verb.
+For example, we might say "Sakura-wo mirareru hi-wo tanoshimini shite iru."
+This means "I'm looking forward to the day when I can see Sakura."
+And as you see, here we're saying "Sakura-wo mirareru", using "mirareru", the potential,
+"being able to see Sakura", as an other-move verb with an object, which is Sakura.
+Now, we can do that with "mirareru", we can do that with "kikeru",
+but we can't do it with "mieru" or "kikoeru".
+They are forced to be used as self-move verbs only.
+And on the whole, because potential verbs mostly are self-move in Japanese,
+whether we're talking about something else or whether we're talking about ourselves,
+we use them in a self-move manner, those two are the most commonly used.
+Actually we can use the other forms, the regular forms,
+"mirareru" and "kikeru", as self-move verbs too,
+but they can also be used as other-move verbs.
+With "mieru" and "mirareru", there is a difference in nuance, which is that
+"mieru" usually means being able, actually physically able, to see something,
+and "mirareru" more implies having the opportunity to see something.
+So if we were to say "shibai-ga mirareru",
+we're saying I have the opportunity to see the play.
+If we say "shibai-ga mieru", we might mean
+the lady in front of me has taken off her big hat so I'm able to see the play.
+However, this alone wouldn't be, I think, sufficient reason
+for these two variants of the words surviving into modern Japanese.
+The important reason, which is based in the very nature of seeing and hearing
+and expressions we use in connection with seeing and hearing, is this:
+they are both used in places where in English we would say
+that something "looks like" something or something "sounds like" something.
+You can't use the standard versions "kikeru" and "mirareru" for this.
+You have to use these variants.
+So if you say "Sakura-wa kaeru-ni mieru", you're saying "Sakura looks like a frog".
+So when we say "looks like", we use the targeting particle -ni with a noun,
+or with an adjective we use the ku-stem of the adjective.
+So we say "kaeru-ni mieru" -- "looks like a frog" --
+or we can say of someone "wakaku mieru" -- "she looks young".
+And we can also use it not just for literally how something sounds to our ears
+or for how something looks to our eyes, but what its appearance is.
+So we can say "kimyou-ni kikoeru" -- "it sounds strange / sounds peculiar".
+So, we're not talking here necessarily about the actual sound.
+It might not be a noise that sounds strange.
+It may be something somebody said that sounds strange.
+So we're using either the adverbial form of an adjective
+or the adjective-making targeting particle -ni
+to describe how something appears to us,
+how something sounds to us, literally or figuratively.
+And this is the real reason for the survival of these alternative forms of the potential.
+They have this specific meaning, which the other form, the regular form, can't have.
+And it's not a coincidence that it's this forced, must-be self-move version
+that takes on that meaning, because the way something else looks,
+the way something else sounds, always has to be self-move.
+We're not talking about anything we do to the look or anything we do to the sound,
+but about how it looks and sounds in itself.
+So this extremely self-move version, which can't be used in other-move contexts,
+is what is used in the case of both seeing and hearing to describe
+how something sounds to us and how something looks to us.
+If you have any questions or comments, please put them in the Comments below
+and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

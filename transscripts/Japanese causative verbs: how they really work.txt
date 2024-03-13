@@ -1,0 +1,99 @@
+Hello, pretty peoples.
+KawaJapa no Kyua Dorii desu. I am Cure Dolly from KawaJapa.
+Today we are going to talk about the causative form of verbs.
+These are often dealt with along with the receptive, the so-called
+"passive" form,
+presumably because they are constructed in a very similar fashion.
+In both cases
+they are constructed by attaching a helper verb to the stem of a
+regular verb. The helper verb for the receptive form is reru / rareru, and the helper verb for the
+causative form is seru / saseru. With godan words they attach to the plain past stem,
+the -a ending stem of the verb.
+So nomu becomes nomaseru. And
+with ichidan verbs they
+simply attach to the verb stem. Ichidan verbs always have the same stem, which you make just by taking the ru off.
+What the causative means is that someone is
+causing someone to do something, as you might expect.
+There's no exact equivalent in English because it can mean that
+you are making,
+forcing someone to do something, or it can mean that you're allowing them to do it. Either way, you are the cause of their doing
+it, which is why it's very reasonably called the causative form. Now, the text books sometimes make this seem more complicated
+than it really is through no fault of their own,
+because, like me, they have to use
+example sentences, and the
+problem with example sentences in this case is that we don't have any context – we don't know who these people are or
+what their motives are – and therefore it's very hard for us to judge whether in a particular case it means force or allow.
+But you realize that problem doesn't very much arise whether we're talking about conversation or
+whether we are talking about watching an anime or reading a book.
+It's usually clear from context, and when it isn't there are ways of making it clear.
+So let's get to one of those notorious example sentences and
+look at how it works.
+"Watashi ga Sakura ni pan wo tabesaseta."
+"I made Sakura eat bread" or "I let Sakura eat bread." It's a very simple construction and
+the only real problem here is
+what particles do we use? So let's be clear from the beginning, because this is sometimes
+obscured by the text books. The skeleton sentence here is
+"Watashi ga saseta."
+The doer is me.
+The thing I'm doing is
+causing.
+Everything else in the sentence is telling us something more about what I am causing – "I am causing
+Sakura to eat bread" –  but all of that is simply
+additional information about the fundamental skeleton sentence: "Watashi ga
+saseta." So to begin with, let's be absolutely clear that there is never any doubt about who is the doer in these
+sentences. If the sentence ends with seru or saseru,
+then that is the head verb, that is what's being done, the causing; and the person doing the causing is the ga-marked doer,
+the subject of the sentence. The only complication
+is that the person who is being made to do or allowed to do something is sometimes marked with ni and
+sometimes marked with wo.
+Now, logically we would probably expect that they would be marked by wo,
+but more often than not they are marked by ni. Why is this?
+In the case of this sentence, we can see why,
+I think. There is already a wo in the sentence: "pan wo". Pan is the
+direct object of the eating – it is the thing that's being eaten – and
+Japanese does not like to have two wos in a sentence. Now,
+there's a more rigorous reason than this, but I
+think the simplest way to look at it, the least problematic way to look at it,
+is simply this: Japanese does not allow two wos in a clause. Therefore they say
+"Sakura ni pan wo
+tabesaseta". Taberu in this case is what we call a transitive verb – that means it has an object.
+That is the bread, "pan wo
+tabeta" : "I ate the bread." Now, in the case of intransitive verbs, that is to say, verbs that won't normally take a wo,
+say, walking or dancing or flying –
+we don't walk something, we don't fly something, we don't dance something,
+we just walk or fly or dance – in these cases, we have a freer choice whether to use wo or
+ni. Either can be used, and there's not a
+hard and fast rule about this, but in these cases using wo tends to imply
+that
+you're making someone do something, that they have no choice in the matter. Why?
+Because when we use wo, we are talking about the object, aren't we?
+We eat bread – "pan wo taberu" . The bread has no choice in the matter. We just eat it.
+We throw a ball – "booru wo nageru". The ball has no choice in the matter.
+We just throw it. So the
+Implication – but it's not a rule – is that we are making someone do something.
+Ni implies some degree of will on the part of
+the object. In other words, the person has a choice. As I say, this isn't a rule, but it's
+regular enough to be worth knowing. In the case of involuntary actions like
+sneezing or
+laughing or crying – if you make someone laugh, you make someone cry, you make someone sneeze – they have no choice in this.
+It's an involuntary action,
+so it would actually look rather strange to say ni. We use wo in these cases,
+because they have absolutely no choice in the action. It's not something they're choosing to do.
+Not even as much as when you are making them do their homework.
+Similarly, we sometimes use the causative with an inanimate object. For example,
+"Tamago wo kusaraseru" – "I make the eggs go bad." In English
+we usually say "I let the eggs go bad", but the thing here is that the eggs have no choice in the matter,
+so it would seem strange to say "Tamago ni
+kusaraseru". We say "Tamago wo
+kusaraseru" because the eggs have no choice in the matter. The thing to remember is
+that the actor of the sentence, the doer, is
+always the person making something happen, and whether we use ni or wo for the person who is being made
+can be quite complex – even Japanese people
+discuss it. But the rules I've given you here will help you to understand it most of the time
+You can understand what's being said and you can construct these sentences yourself without sounding particularly strange.
+Please remember that the course book for this course of lessons is "Unlocking Japanese".
+You can get it in paperback or electronic editions
+and you'll find links in the information section below. If you have comments or questions,
+please ask them in the comments below and I will answer.
+Thank you once again for attending this lesson. Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

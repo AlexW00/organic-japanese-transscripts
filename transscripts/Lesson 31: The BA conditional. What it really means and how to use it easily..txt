@@ -1,0 +1,93 @@
+Konnichiwa. Today we're going to talk about the conditional -ba/-reba.
+Last week we looked at the -to conditional and we saw that its particular characteristic
+was its exclusiveness, its implication that only one outcome is possible.
+In many cases we can use any or most of the conditionals without changing the meaning
+to any great extent, but each conditional has its own particular qualities.
+So today we're going to look at the special quality of
+-ba/-reba and some of the things it does and why it does them.
+First of all, what is -ba/-reba?
+-Ba/-reba is a helper which we put on to the e-stem of a verb.
+The e-stem is one of the lesser used stems but -ba /-reba is one of the things that uses it.
+So, for godan verbs we put it on to the e-stem and for ichidan verbs, as always, we simply
+put it on to .... we simply take off the -ru and add the ichidan form, -reba.
+For the two irregular verbs, in this case they work exactly like regular ichidan verbs.
+So "kuru" becomes "ku-reba" and "suru" becomes "su-reba".
+Actually, "kuru" and "suru", I would say, are in fact ichidan verbs, but they're strong ichidan verbs.
+A strong verb is a verb that can change its vowel sound.
+In English we have "come" and "came", "eat and "ate".
+And "kuru" and "suru" in some cases change their vowel sound.
+"Kuru" in the negative becomes "konai", "suru"
+becomes "shinai".
+But in this case they don't change their vowel sound at all, so that's very simple --
+they just work like the ichidan verbs that they fundamentally are.
+For adjectives, we take off the -i and use the helper -kereba.
+You might notice that when we do anything with an adjective other than simply
+take off the -i and add whatever we're going to add, the specific adjectival modifications
+all come from the ka-ki-ku-ke-ko row.
+So, the negative of an adjective is -kunai ("omoshiroi" --> "omoshiro-kunai");
+the past is -katta ("omoshiroi" --> "omoshiro-katta");
+and the -ba conditional is -kereba ("omoshiroi" --> "omoshiro-kereba").
+So in a way we could say that if adjectives had an e-stem, it would be -ke.
+And that's what we use in that case.
+So what's the special characteristic of -ba/-reba?
+-To, as we know, its special characteristic is its exclusiveness.
+The special characteristic of -ba/-reba is that it is used for hypotheticals. So it must always mean "if".
+It can't ever mean "when", because we never know for sure if the condition will take place
+and consequently if we use it about something that happened in the past it has to be something
+that didn't happen because if it did happen we wouldn't be dealing with a hypothesis,
+we'd be dealing with a fact.
+Now this hypothetical nature of -ba/-reba allows it to be used in many common
+and very important Japanese expressions.
+For example, "dou su-reba ii".
+What this literally means is "how, if I act, will be good".
+And I'll just note here that while "suru" is generally translated as "do", in many cases
+the best way to render it into English is as "act".
+So, for example, if we say "shizuka-ni suru", we're not saying "do quietly", we're saying "act quietly".
+So, "do su-reba ii" -- "how, if I act, will be good".
+And in English what we'd normally say is "What should I do?"
+But in Japanese we don't say that.
+As we'll see, this is partly because the concept of "should" isn't quite the same in Japanese,
+and -ba/-reba is often used to solve the problem.
+We'll come back to that in a moment.
+Another common use of -ba/-reba is in "su-reba yokatta".
+For example, "kasa-wo motteku-reba yokatta".
+In English we would say "I should have brought an umbrella".
+What we're actually saying here is "If I had brought an umbrella, it would have been good".
+"Mottekuru", as I've explained elsewhere, we join the word "carry" and the word "come"
+to mean "bring" ("carry-to-here") and we notice that "yokatta" throws it into the past tense.
+As you know, in Japanese, we mark the past tense at the end of a logical clause.
+So even though it may be true that if it's raining right now, if I had brought an umbrella
+it would have been good and it still would be good,
+we throw the whole thing into the past tense with that final "yokatta".
+"Kasa-wo motteku-reba yokatta" --
+"I should have brought an umbrella / I wish I had brought an umbrella."
+Now notice that in both these cases, "do su-reba ii" / "kasa-wo motteku-reba yokatta",
+we are using this "if it were done, it would be good" to mean "should".
+And this happens again in an even commoner Japanese construction.
+"Benkyou shina-kereba ikemasen" -- "If I don't study, it won't go / it won't do."
+Now what we are actually saying here is "I must study".
+There actually isn't a word for "must" in Japanese, so we always construct it this way.
+We say "If I don't... (whatever it is)"
+and then we can say "it won't be good / it will be bad / it'll be a disaster..."
+Whatever we say, some negative construction then follows this, and what we're saying is
+"I must go / I've got to go / I've got to do
+this / I've got to do that", and this is because
+we don't have that construction "got to" and we don't have "must" in Japanese.
+It always has this rather lengthy "If I don't do, it won't be good / if I don't do, it won't do /
+If I don't do, it's bad" -- "na-kereba dame".
+And because it is indeed a very long-winded way of saying something common like "must" or "got to",
+it often gets cut down in casual speech to just "shina-kereba" or even "shina-kya",
+which is short for "shina-kereba",
+without adding the negative ending, because that's just implied.
+However, even in very casual speech it's often said in full,
+and I think this is to emphasize the nature of the "must".
+"Naze ikana-kereba ikenai?" -- "Why have I got to come?"
+In cases like that, where we're putting stress on it as opposed to cases where
+we're just saying casually "ikana-kya" -- "I've got to go".
+So this is the special characteristic of -ba/-reba, that it's dealing with hypotheticals.
+If you have any questions or comments, please put them in the Comments below and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

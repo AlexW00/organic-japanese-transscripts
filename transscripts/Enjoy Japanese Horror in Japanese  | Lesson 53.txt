@@ -1,0 +1,175 @@
+Konnichiwa.
+Today we're going to encounter a lot of the structural points in Japanese
+that we've covered in this course of lessons in action, in real situations.
+And we're going to do that by continuing with the "kaidan", the Japanese story,
+that we've been reading over the last few lessons
+by courtesy of our Japanese partner channel, Akasic Tails.
+And we're going to be covering such a lot of points this time that I'll put up cards
+for some of the main ones but I've also made a supporting page on Kawajapa where you can
+go and look up any of these points and follow them up if you need to do so.
+And I think it would be a very good idea to follow up anything that
+you're not absolutely clear about after we go through this story.
+Now, to remind you where we got to at the end of last week's lesson,
+our heroine had gone to a drinking party at her senpai's apartment.
+After she left the party and was walking home at night, she became aware that
+she'd left her "keitai denwa", her portable telephone, in senpai's apartment.
+So she went back, pressed the bell, but there was no answer,
+turned the handle of the door and found that it wasn't locked.
+So she walked right in.
+So, let's see what happened next.
+"Heya-no naka-wa denki-ga tsuite orazu."
+Now, so long as we understand that "denki-wo tsukeru" means "turn on the lights"
+(literally it means "turn on the electricity", but it in fact refers to the lights),
+the only problem with this clause is "orazu".
+What does that mean?
+Well, "oru" means the same as "iru", which is to "be".
+Generally we're told that it means to "be" of animate beings, like animals and people.
+It's not quite as simple as that and I've explained that in another lesson, which I'll link.
+"Oru" is a rather older form of "iru", but we encounter it in a variety of circumstances.
+For example, it is used in keigo as a humble form, "kenjougo" form, of "iru"
+which we use to humble our own actions and possessions,
+but it's also used in dialect, in Kansai-ben for example,
+and it's used in literary contexts to give a literary narrative feel.
+And that's how it's being used here.
+So, "oru" means "iru", but what does "orazu" mean?
+Well, you also have to understand that "-zu" is also a piece of older Japanese which gives
+a literary feeling to a narrative and it's simply a negative helper like "-nai".
+So why is it "orazu"?
+Well, that's because while "iru", as we know, is an ichidan verb,
+"oru", as it happens,is a godan verb.
+So, as with all godan verbs, the negative helper is attached to the a-stem.
+So that's what's happening here.
+"Orazu" means the same as "inai".
+So, "denki-ga tsuite orazu" means "the electricity existed in a state of not having been switched on"
+or, in plain English, the lights were off.
+"Makkura de": "makkura" is "pitch-dark", literally "true dark / complete dark".
+"Kura", of course, we know as "kurai", the adjective "dark",
+and we know that when we see an adjective without its -i on the end,
+if it makes a word at all, it will be a noun.
+We also know that if we see a word that is all kanji, it's almost certainly going to be a noun.
+So "makkura" is "pitch darkness".
+"Makkura de" -- the "de" here is the te-form of "da" or "desu".
+So, "heya-no naka-wa denki-ga tsuite orazu makkura de" --
+"As for the inside of the room, the lights were off, it was pitch dark".
+"Dou yara senpai-wa mou nete shimatta rashii."
+"Dou yara": in this case means "it seems, it appears to be the case"
+and this is actually working in tandem with the "-rashii" at the end,
+which also means "seems like, appears to be".
+And we've covered this in a previous lesson as well.
+So in between this sandwich that gives us the "it appears to be the case" meaning,
+it says "senpai-wa mou nete shimatta" --
+"senpai has already done gone to sleep / done gone to bed".
+As we know, that "shimau, shimatta" gives that "done" meaning.
+And that's really the best way to put it in English.
+It sounds a bit rustic in English, but there's nothing else in English which I think gives
+that sense of "shimau, shimatta, chatta" quite as well as "done".
+She'd already done gone to bed, it seemed.
+"Buyoujin da na": "buyoujin" means literally "not using one's heart",
+but "heart" here means mind or spirit.
+"Youjin" is "care" or "cautiousness"; "buyoujin" is "lack of care" or "lack of cautiousness".
+But this particular word "buyoujin" tends to mean
+lack of cautiousness in relation to criminal or other hostile activity.
+So we might say that walking alone in a dangerous place is "buyoujin"
+or leaving valuables on display in our car is "buyoujin".
+And here, leaving her door unlocked at night so anybody could just walk in is "buyoujin".
+"Buyoujin da na": "na", as we know, is the particle used for directing a comment at ourself,
+so she's thinking to herself "buyoujin da" -- it's reckless, dangerous behavior.
+"Buyoujin da na, to omotta kanojo-wa": so, she, who was thinking this,
+"denki-wo tsukete senpai-wo okosou ka to omotta ga".
+All right, so this looks a little bit complicated and we still haven't finished the sentence,
+but let's just take it bit by bit.
+First of all she thought "buyoujin" -- "unsafe, dangerous behavior"; "she thought" --
+"to omotta kanojo" -- she who thought that, then thought something else; "denki-wo tsukete" --
+"tsukeru", of course, is the other-move version of "tsuku",
+so she thought of switching on the lights;
+"senpai-wo okosou" -- now, as we know, that "sou" ending is a volitional ending;
+"okosou ka" -- she thought about taking the action of awakening senpai.
+"Okosu" --to "wake someone up"; "okiru", you wake up yourself;
+"okosu" -- -su endings, as we know, mean other-move verbs,
+so "okosu" is to wake someone else up.
+"Okosou ka" -- so, she's thinking about this action.
+The "ka", as we know from another lesson, marks a question, that's to say, a proposition.
+So the proposition was taking the action of waking up senpai.
+This is what she thought, but... ("ga" -- "but") "senpai-ga kanari yotte ita no-wo omoidashi".
+So, "kanari" is another one of those adverbial nouns that can modify a verb or an adjective
+without the -ni or -to that's usually needed for a noun to modify a verb or an adjective,
+so "kanari yotte ita" -- "you" is to "be sick or to be drunk", in this case "drunk".
+"Kanari" means "sufficiently" or "pretty much" or "very".
+So she was pretty drunk, she was in the state of being pretty drunk: "kanari yotte ita no" --
+the "no" of course bundles that statement into a noun box -- "no-wo omoidashi" --
+"omoidashi" is "remember", so she remembered the fact -- the "no" --
+that senpai had been pretty drunk.
+"Omoidasu" is "remember"; "omoidashi", once again, as we discussed last week,
+is the i-stem of "omoidasu" -- "remember" --
+and the i-stem here is being used like the te-form
+to make this clause a part of a compound sentence.
+So we have a three-fold compound sentence now.
+First of all, we use "ga" -- "but" -- as the connector for the first part,
+and the second part we're using -shi like the te-form as the connector for the third part,
+and the third part is "sotto shite oku koto-ni shita".
+"Sotto" is another one of these adverbial nouns, meaning "softly, gently or quietly".
+"Sotto suru" means to "do softly, gently or quietly".
+It's like "shizuka-ni suru", which means to "do quietly".
+"Sotto suru" means also to "do quietly", but "shizuka" means more "keep quiet".
+You might say this to a class: "Shizuka-ni!" -- "Keep quiet!"
+"Sotto suru" is more to "do (something) in a quiet manner".
+Now, "shizuka" can be used in that way too, but "sotto suru" means to do something quietly;
+it can even mean secretly.
+"Shizuka" can't mean secretly; "sotto" can mean secretly.
+Here it doesn't mean secretly, but it does mean doing something quietly so that
+someone else won't be aware of you doing it,
+which is the kind of implication that "sotto" often tends to have.
+"Sotto shite oku" -- "shite oku", as we know, is to "put in place an action".
+"Oku" means to "place (something)".
+Attaching "oke" to the te-form of a verb means putting that action in place.
+And, as we know, the textbooks often say it means "doing it in advance" or
+"doing it in preparation", but actually it means "putting the action in place".
+So she's essentially saying here, "do what she has to do, put her action in place, quietly".
+"Sotto shite oku koto-ni shita": now, "koto-ni suru",
+as we've also covered in a previous lesson, means "decide to do".
+So this last bit means she decided to put her action quietly into place, literally.
+So we've got this whole sentence here: "Buyoujin da na, to omotta kanojo-wa denki-wo tsukete
+senpai-wo okosou ka to omotta ga
+senpai-ga kanari yotte ita no-wo omoidashi sotto shite oku koto-ni shita."
+So, "'That's dangerous, isn't it, leaving the door open,' she thought;
+she considered switching the lights on and awakening senpai,
+but she remembered that senpai had been pretty drunk
+and so she decided to do what she had to do quietly."
+"Makkura-no naka de jibun-no keitai denwa-wo sagashi dasu to" --
+"In the pitch darkness -- makkura-no naka de --
+jibun-no keitai denwa -- her own telephone -- sagashi dasu".
+"Sagashi dasu": "sagasu" as we know, is "search"; "sagashi dasu" is literally "search out",
+so she sought it out, she found it -- "to".
+'''Wasuremono-wo shita no de tori-ni modorimashita --'
+to hitokoe kakete heya-wo ato-ni shita."
+So she said something aloud here, but presumably quite quietly so that she wouldn't wake senpai.
+She said: "wasuremono" -- "forgotten thing" -- "-wo shita no de" -- "I did a forgotten thing /
+I forgot a thing / I left a thing behind" -- "wasuremono-wo shita no de" --
+because of that -- "tori-ni modorimashita" --
+"I came back to take it / in order to take it, I returned" --
+"to hitokoe kakete" -- "koe(-wo) kakeru" is to say something to someone,
+to engage them in conversation, here "hitokoe" -- she just said that single word,
+she just said that single voice, literally, she just said that --
+"heya-wo ato-ni shita" -- so she just said that,
+presumably quietly so that senpai wouldn't even hear her,
+but she felt she ought to say something --
+"heya-wo ato-ni shita" -- "ato-ni suru" literally means to "turn it into behind",
+in other words, put it behind you, in other words, leave -- she left the room --
+"heya-wo ato-ni shita" -- she made the room the thing behind her by leaving it.
+And that was that for the evening.
+Well, she got out of that all right, didn't she?
+It was a bit scary, but we didn't hear what happened the next day.
+That's what we're going to talk about next week.
+If you want to see the whole of this story, go to our friends at Akasic Tails,
+and I'll put the link right below.
+If you want to follow up any of the points that I've made here,
+I've got a list of them on a page especially for that purpose,
+and you'll find that in the links below.
+If you have any questions or comments, please put them in the Comments below
+and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, my producer-angels,
+who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

@@ -1,0 +1,122 @@
+Konnichiwa.
+Today we're going to talk about "you-ni  naru", "you-ni suru", "koto-ni naru", and "koto-ni suru".
+Now, all the elements of these expressions we've already learned, so what we need to do now is
+to see how they fit together in these cases, what they mean, and why they mean what they mean.
+So let's just do a quick recap of "ni naru" and "ni suru".
+As we know, the two primordial Japanese verbs are "aru" and "suru".
+"Aru" is the mother of all self-move verbs and "suru" is the father of all other-move verbs.
+"Naru" is closely related to "aru" -- "aru" means "be"; "naru" means "become" -- so we
+can say that "aru" and "naru" are the static and dynamic versions of the same verb.
+That is, the same verb being still and moving in time.
+Now, we know that when we use a noun followed by "ni naru", we mean that something turns into that noun.
+"Ni" marks the target of the transformation and "naru" is the transformation itself, the becoming.
+So, when we say "you-ni naru"...
+Well, we looked at "you" last week, didn't we, and we saw that when we're comparing things
+or likening things "you" means a "form" or a "likeness".
+Its basic meaning is a form or a state of being.
+When we say "rikishi-wa yama-no you da" -- "sumo wrestler is like a mountain" --
+we're not saying that the sumo wrestler "is" a mountain, we're extracting the form or the state of
+being of the mountain and applying it to the sumo wrestler.
+We're not saying that the sumo wrestler is the mountain, we're saying that the wrestler is the mountain's "you",
+the mountain's form or state of being.
+So in English we say the wrestler is "like" the mountain; in Japanese we say the wrestler
+is the form or the state of being of the mountain -- we might say, the "likeness" of the mountain.
+Now, when we use "you" in the expressions we're talking about today, we don't add them
+to a noun like "yama", we add them to a complete logical clause.
+The textbooks sometimes say we're adding them to a verb, but what we're really doing is
+adding them to a logical clause with a verb-engine.
+And "you", as we know, is a noun; the logical clause becomes the adjectival, the descriptor,
+for that noun, so we know that any verb-engine together with the logical clause it heads
+can become an adjectival so we're not saying "no you", we're not saying the likeness of something else here.
+So when we have a logical clause plus "you-ni naru", we're saying that something became
+or entered the state of being or the form of that logical clause.
+So, for example, if we say "kare-wo shinjiru you-ni natta", we're saying "I came to believe him."
+"Kare-wo shinjiru" (or "zero-ga kare-wo shinjiru") --"I believe him" -- is a logical clause,
+and we're saying that I moved into the state, I became the state of that logical clause:
+"I came to believe him."
+This is often used with a potential helper verb.
+For example, we might say, "Nihongo-no manga-ga yomeru you-ni natta" --
+"Japanese manga became readable (to me)".
+As you see, in both cases something is changing its state.
+I change my state from not believing him to believing him; the manga changes its state
+from being non-readable to being readable.
+In all cases we are talking about a change of state, a change of the existing state in
+someone or something from one condition to another.
+And if you're wondering why we most often in Japanese speak of the manga changing state
+from being non-readable to readable rather than speaking, as in English we usually
+do, of the person changing state from not being able to read the manga to being able to read the manga,
+please watch the video lesson on the potential helper verb where I explain how this works.
+Now, when we say "you-ni suru" we know that the "ni suru" construction is the other-move
+version of the "ni naru" construction.
+If we say "majo-ga Sakura-wo kaeru-ni shita", we're saying "the witch turned Sakura into a frog".
+So "you-ni suru" is to make something enter a state.
+It doesn't enter it by itself; somebody's making it enter the state.
+So if we say "yoku mieru you-ni suru" -- "yoku mieru" means to "look good", so "yoku mieru you-ni suru"
+is to make someone or something look good.
+Now, "you-ni suru" has an extended sense, and that is when we say something essentially
+equivalent to "please make sure that you do something".
+So, we can say "doa-ni kagi-wo kakeru you-ni shite kudasai"
+and that means "please make it so that you lock the door".
+And I think you can see the difference here between simply saying "doa-ni kagi-wo kakete kudasai",
+which is just "please lock the door".
+In one case you're kind of assuming that the person will simply lock it as a matter of course;
+in the second case you're making a very special point of it: "Please make it so that you lock the door
+(this is important, so please make it be that way)".
+"It" in this case is just the same as it would be in English -- the "situation", the "circumstance" --
+"Please turn the circumstance from one in which you don't lock the door into one
+in which you do lock the door."
+So this makes a very special point of this instruction or advice.
+Now, related to this is when you may say something about yourself, usually related to something
+you do regularly, such as saying "mainichi aruku you-ni suru".
+And that means literally, "I make it so that I walk every day".
+But when you put it this way, rather than just saying "mainichi aruku", which is simply
+saying "I walk every day", the implication is that you try to do so.
+You might not necessarily always succeed.
+And, you see, as with the other usage, there's some doubt as to whether you will do it.
+You don't say "Please make it so that you lock the door" unless there is in your mind
+a certain doubt as to whether this is going to happen and you're trying to make it so that it does.
+When you say it about yourself -- "mainichi aruku you-ni suru" -- there is also another
+factor in play in that when it's yourself you could also use "koto-ni suru", and that
+expresses a firm decision which we'll talk about next week in the second half of this lesson.
+So if you choose "you-ni suru" over "koto-ni suru" you're inherently leaving a little room for doubt.
+Now, "you-ni" can also be used with a clause behind it and a clause in front of it,
+in order to say "do one thing in order that another thing may happen".
+The textbooks treat this as if it were a different piece of grammar, a different grammar point,
+but in fact it isn't, it's the same as plain "you-ni suru", and the only reason it seems
+a bit different is because we put it a little differently in English.
+But we shouldn't be thinking about English; we should be thinking about Japanese.
+So let's take a look at how this works.
+Let's take a sentence that we've already had: "yoku mieru you-ni suru" --
+"make something (or someone) look better".
+Now, let's change that to "yoku mieru you-ni kuchibeni-wo tsukeru" -- "in order that
+she will look better (or I will look better, or someone will look better), apply lipstick".
+Now, as you see, in English the ways of putting those two ideas are different, and that's why the textbooks
+and the conventional explanations talk as if we had two separate, unrelated grammar points.
+But if you look at what's going on, you can see that they're actually the same thing.
+In one case we're saying "make someone or something look better" without specifying the means.
+We're just using the neutral, catch-all verb "suru", which is the fundamental other-move verb.
+When we say "yoku mieru you-ni kuchibeni-wo tsukeru", "kuchibeni-wo tsukeru" is simply replacing the "suru".
+Instead of unspecifically saying simply "make someone look better", it's saying
+"do a specific thing in order to make someone look better".
+Now, "suru" is also an action; it's just an unspecified action.
+It's just "do/act/make something happen".
+"Kuchibeni-wo tsukeru" specifies what that "suru" might be in a particular case.
+So you see, we have exactly the same construction here, not two separate "grammar points", as
+they like to call them.
+And one final note is that you will sometimes hear "you-ni" on the end of a sentence,
+usually a masu-ending sentence.
+This is used primarily for prayers and petitions.
+So you might say "nihon-ni ikemasu you-ni".
+And you might say that at a shrine or when you're wishing on a falling star or perhaps
+just when you're expressing a wish that a friend might be able to go to Japan.
+Why do we use this?
+Well, obviously it's a kind of shortening of "you-ni suru".
+If you're talking to a deity or a fairy, it might be short for "you-ni shite kudasai".
+So, next week we move on to "koto-ni naru" and "koto-ni suru".
+If you have any questions or comments, please put them in the Comments below and I will answer as usual.
+And I'd like to thank my Gold Kokeshi patrons, who make these videos possible, and all my patrons
+and supporters on Patreon and everywhere.
+I value you all so much.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

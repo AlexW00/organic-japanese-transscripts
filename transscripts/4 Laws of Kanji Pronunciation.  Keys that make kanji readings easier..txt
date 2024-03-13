@@ -1,0 +1,223 @@
+Konnichiwa.
+Today we're going to talk about keys to kanji pronunciation.
+Now, the biggest single key to kanji pronunciation is a hack that I taught a while back,
+which is the Sound Sisters.
+For a relatively small investment of time, this is going to give you the pronunciations
+of hundreds of kanji and thousands of words.
+So I'm going to put a link to that above my head and in the information section below.
+If you haven't encountered the Sound Sisters yet, you really should do so.
+However, there are some other things happening with the pronunciation of kanji
+which are very helpful to know in addition to the Sound Sisters.
+Now, if you know my work, I'm sure you know that I won't ask you to and
+I don't want you to start trying to learn readings of kanji in the abstract.
+We learn how kanji are pronounced from learning words.
+But understanding the sounds that can be used and the ways in which they can occasionally change
+helps us to remember and understand how words are pronounced.
+A question that I often get asked, particularly by people who have done all or some of the Heisig Method,
+so they actually know a lot of kanji but they have no idea at all how they're pronounced,
+is: "When I see a two- or three- or more kanji word and I get the furigana so I know what the pronunciation is,
+how do I know which kana belong to which kanji?"
+Now, if you're learning kanji organically, the way I recommend learning kanji organically,
+and I'll put a link above my head and in the information section below,
+you won't have this problem nearly so much as someone who's front-loaded with Heisig and English keywords.
+However, it's still worth understanding the principles here.
+The first thing to understand is that when we're talking about the on-readings
+-- that's the Chinese readings of kanji --
+these are the readings you're going to see most of the time
+in words of more than one kanji which have no okurigana --
+that's to say, they don't have any following kana that are part of the word.
+And some textbooks, the more informative ones, will tell you that generally speaking
+in words with no okurigana we get on-readings not kun-readings, that's to say, Chinese not Japanese readings.
+And it's a bit of a hit-or-miss way of describing it, and the reason they put it that way is
+because of the very strange model of the Japanese language that they have,
+which is full of things like "na-adjectives" and "adverbs".
+As you know if you've watched my videos, nearly all Japanese words fall into one of three types.
+They are either verbs or adjectives or, if they're not verbs or adjectives,
+they're nearly always nouns.
+Of course, this gets obscured if you start calling adjectival nouns "na-adjectives" or
+adverbial nouns "adverbs".
+Anything with two kanji and no kana is a noun.
+All verbs and all adjectives always have kana as well as kanji, because at the very least
+they must have an い on the end, not part of the kanji,
+or anう-row kana on the end, not part of the kanji.
+So, if we are dealing with an all-kanji word, with very, very few exceptions,
+that word is a noun.
+And these multiple-kanji nouns are almost all originally Chinese,
+and that means that each of the kanji will have its on-reading.
+Now, this is a huge section of Japanese vocabulary, and the thing we need to understand
+if we're ever asking questions like "Which kanji belong to which kana?"
+is that just about all on-readings consist of either one or two mora.
+Now, a mora is a unit of pronunciation in Japanese.
+Most of the time it's equivalent to a single kana.
+So ka, ki, ku, ke, ko, na, ni, nu, ne, no -- each of those is one mora.
+And an on-reading is going to be one mora or two.
+So a two-kanji Chinese-based noun (which is most two-kanji nouns) can have a maximum of  four mora.
+Now, sometimes we're going to see them with up to six characters. Why is that?
+The reason for that is that the small versions  of や、ゆ、and よ、
+which join to the kana before them, fuse together with it to form a single mora.
+So sounds like "ryu", "nya" etc. -- these are single mora.
+So when you see a kana with a small や、ゆ、or よ after it, that is a single kana sound.
+So once we understand that, we can understand that the on-reading of any kanji
+is going to be either one or two single kana sounds.
+Now, we become able to make sense of all this and have a good chance to predict
+what's going to happen in any given on-reading once we understand the real reason behind this law
+that an on-reading can only have one or two kana sounds.
+The reason is that in Chinese one hanzi, which is what became kanji in Japanese,
+can only represent a single syllable.
+So why can it represent either one or two kana sounds?
+Well, fortunately for us, for our limited practical purposes here, we can say that Chinese
+is the same as English in the way that it defines syllables.
+So, for example, in English we can have the words "shack" or "hack" or "mitts" or "hats",
+and all of those are a single syllable.
+But in Japanese, because you can't have a consonant without an attached vowel after it,
+they all have to be two mora: "shaku", "haku", "hatsu", "mitsu".
+And these are all actual on-readings in Japanese.
+One syllable in Chinese, two mora in Japanese.
+And there are two other ways in which this happens.
+For example, the on-reading of "umi" (sea) is "kai",
+so the word for a pirate is "kaizoku" (sea-robber).
+Now this again is two kana-sounds in Japanese, isn't it? "Ka" and "i".
+So why is that?
+Well, just as in English, if we take the word "I", a one-letter word and the most important word
+in the English language, particularly American English, this is what's called a diphthong,
+which is what happens when two vowel sounds are smashed together to make one syllable.
+Now, what do I mean by two vowel sounds?
+Well, if you try to take a long time singing the word "I", you'll find that at some point
+you have to change from the first vowel sound to the second: "Ahh--eee".
+Try it yourself.
+You can't do it without changing unless you come from Texas or Alabama.
+So, while in English and Chinese sounds like "I" together with any attached consonant, like "kai or "tai",
+count as one syllable, in Japanese, it's two kana sounds.
+And once again, in a word like "jouhou" (information or report),
+each of the kanji is two kana sounds:  jo-u, ho-u.
+Why is that? Well, again, Chinese and English are the same here.
+If you say a word like "showboat", both of those are long vowels.
+It's not "shobot", it's "showboat".
+In English that doesn't make any difference, and it's the same in Chinese.
+Even a long vowel is still one syllable.
+But in Japanese vowels are all of equal length and if you want to double them it becomes another mora.
+So those are the three circumstances under which an on-reading can be two kana sounds instead of one.
+Now, this doesn't of course apply to kun-readings.
+Because, for example, the kun-reading of "kai" is "umi" (sea) and that really is two syllables
+in any language: "u" and "mi".
+Because it's broken by a consonant in the middle, it can't be less than two syllables in any language.
+But that's okay, because it's a kun-reading.
+It's a native Japanese word that's simply been superimposed over a kanji.
+It's not a two-kanji noun in which each kanji has its originally Chinese on-reading.
+And in those relatively few words which are verbs or adjectives with two kanji,
+these will always be kun-readings
+and it doesn't make any sense to ask what the reading of each kanji is.
+So, for example, "oishii", which has two kanji:
+there's no point asking which kanji is the "o" and which kanji is the "i". It doesn't work like that.
+A native Japanese word has been superimposed over two Chinese characters that mean "beautiful taste".
+And that's what a kun-reading is.
+If you take off the "shii" and turn it into a noun, then the pronunciation is "bimi",
+which is the on-reading of the first and second kanji.
+Now, let's put this into practice.
+Let's take a word like "choumiryou", which means "seasoning" or "flavoring":
+the first kanji sound is "cho"; the second is "u"; the third is "mi".
+Now, we know that "u" and "mi" can't belong together as on-readings because
+"umi" would make two syllables in English or Chinese or any language.
+"Umi" is of course a kun-reading meaning "sea",
+but nothing split up with a consonant in the middle can be an on-reading.
+Words like "ishi", "oto", "kata", "hana" etc,
+all of which are kun-readings of single kanji, can't be on-readings.
+Therefore we know how to break up this word.
+"Chou" has to belong together; "mi" has to be on its own --
+"miryo" also won't make an on-reading because it's broken by a consonantal sound, "ry" --
+so the only way to break it up is "chou-mi-ryou".
+And applying these principles you're nearly always going to know which on-readings belong to which kanji.
+Now, once we understand this, we can start to talk about
+the sound changes that sometimes take place within these on-readings.
+There are two main ones and neither of them happen all the time,
+both of them happen most of the time, and they are completely regular.
+So if they happen we know exactly what they're going to be like.
+And also, the next thing we know is that they only happen in certain circumstances.
+And if we have learned about counters, which I taught in a recent lesson (and I'll put a link above my head),
+we already know pretty much what the circumstances are and how they're going to work.
+These sound changes only affect words in which the first kana of the second kanji can take a ten-ten.
+So that means kana from the ka, sa, ta, and ha columns.
+Those are the only kanji that can take ten-ten.
+Now, they're not going to take a ten-ten, but the simplest and most straightforward
+way of identifying the ones that can change is "the ones that can take a ten-ten".
+If it can't take a ten-ten, the change isn't going to happen.
+So the first change is what Alice calls, in my book "Alice in Kanji Land", "small-tsu hooking".
+And what this means is that when we have two kanji and the first one ends in either つ or ち
+and the second one can take a ten-ten but doesn't have one, the つ or the ち turns into a small つ.
+And that's all, except for the ha column.
+So, for example, with moonlight, whose on-readings are "getsu" (moon) and "kou" (light),
+but we don't say "getsu-kou", we say "ge'kkou", because "getsu" ends in a つ and
+"ko" is a kana that can take a ten-ten -- it can become "go".
+We're not giving it the ten-ten, but we are making this transformation,
+so "getsu" plus "kou" becomes "ge'kkou".
+The same with "sunlight": "nichi", which is "sun", plus "kou" doesn't become "nichi-kou" but "ni'kkou".
+So this is exactly the same as what happens in counters with "ichi", for example.
+We don't say "ichisatsu" (one volume), we say "i'ssatsu";
+we don't say "ichikai" (one story in a house), we say "i'kkai".
+So it's exactly the same transformation that's happening here when the first kanji has two kana
+and the second kana is either つ or ち.
+It doesn't happen all the time, it does happen most of the time,
+and the transformation is the same every time.
+Either it happens that way or it doesn't happen.
+And if the first kana of the second kanji can't take a ten-ten, then it isn't going to happen.
+If the first kana of the second kanji is from the ha-hi-hu-he-ho row, just as with "ichi",
+it takes a maru to become pa-pi-pu-pe-po.
+So, just as "ichi-hiki" becomes "ippiki",
+so "shutsu" plus "hatsu", which is "the departure (of a vehicle or something)"
+becomes not "shutsu-hatsu" but "shuppatsu";
+"shippai" (a mistake), made up of "shitsu" and "hai", is not "shitsu-hai", it's "shippai";
+"an announcement", "hatsu" plus "hyou", is not "hatsu-hyou" but "happyou" (announcement).
+Now, the other main set of changes that takes place between on-readings is when
+the second kana of the first kanji is ン and the second one begins with a kana from the ha-hi-hu-he-ho column,
+just that one, the ha-hi-hu-he-ho column, then normally it takes a maru to become pa-pi-pu-pe-po.
+And we're all familiar with this happening, for example, in "sempai",
+which is "sen" plus "hai", which becomes not "sen-hai" but "sempai".
+"Shimpi" (mysterious), which consists of "shin" and "hi" (the "hi" of "himitsu") becomes not "shin-hi" but "shimpi";
+"kampeki" (perfect), which is made up of "kan" plus "heki" becomes not "kan-heki" but "kampeki".
+And actually these words like "kan-heki" and "sen-hai" are quite difficult to say if you try saying them,
+so I think that's probably the main reason for this change.
+One more change that's worth noticing, and this doesn't affect just on-readings, in fact
+it affects kun-readings more often than it affects on-readings, although it can affect both,
+is that where we have two nouns both of which can stand alone that are joined together
+to make a compound noun, if the first kanji of the second noun can take a ten-ten,
+in this case it does.
+We're still dealing with those same four columns.
+They're the ones that change all the time: ka, sa, ta, and ha.
+But this time they actually take that ten-ten.
+So, for example, "bookshelf", "hondana": "hon" (book) and "tana" (shelf), both can stand alone as nouns,
+but when they're put together into a compound noun, they become not "hon-tana" but "hondana".
+When we put together "arm" and "clock" -- "arm" is "ude", "clock" is "tokei" --
+we get not "ude-tokei" but "udedokei", which is a wristwatch, literally an "arm-clock".
+When we get "gomi", which is "trash", and "hako", which is "box", when we put them together
+we make not "gomi-hako" but "gomibako", which in Japanese is how we say a "trash can".
+And when we use the same word twice to imply multiplicity, we say things like, for example,
+"hitobito", not "hito-hito", so that second "hito" gets a ten-ten.
+Or again, "gods": a "god" is "kami" and when we talk about gods in the plural
+we sometimes say "kamigami", not "kami-kami", because that second "kami" takes the ten-ten.
+And obviously this only happens where a ten-ten can be applied.
+And an important side-note here is that ten-ten hooking will never happen when
+there's a ten-ten anywhere else in the second word.
+Even if the second word is more than one kanji long, if there's a ten-ten anywhere in that word,
+ten-ten hooking isn't going to happen.
+The other time it doesn't happen is where it causes ambiguity with another reasonably common word.
+Now, if we understand these basic principles,
+we get a much clearer idea of how a given word is likely to be pronounced.
+And, as we see, there are certain sound changes that take place regularly in Japanese and
+they almost always affect the same group of kana, the ones that can take a ten-ten.
+So, once we realize that and we realize what those regular sound-shifts are,
+we're not faced with lots and lots of random exceptions.
+We understand that there are certain simple processes
+that happen under certain very clearly defined conditions.
+The only problem is that they don't happen all the time, but all of these take place
+when the conditions are met more often than not, most of the time.
+And when they don't, they simply revert to not being changed.
+They're not different in different circumstances, they're regular.
+They either take place or they don't.
+If you have any questions or comments,
+please put them in the Comments below and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, my producer-angels, who make these videos possible,
+and all my patrons, who are all angels, from the Pink Kokeshi right up to the Gold ones.
+I love all of you.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

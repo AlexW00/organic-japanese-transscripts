@@ -1,0 +1,192 @@
+Konnichiwa. Today we're going to talk about
+the rational approach to learning Japanese kanji and vocabulary,
+which will make it far more efficient
+and enable you to learn more rapidly.
+The thing about Japanese vocabulary that
+distinguishes it from most languages is that
+it has three elements: it has sound, kanji, and meaning.
+Most languages, as we know,
+have only two of those elements: sound and meaning.
+The spelling may be a bit eccentric,
+but that's rather a minor problem.
+So, the fact that Japanese includes this third,
+rather large element of kanji intimidates a lot of people,
+because they think there's this much more to learn
+and it makes it this much bigger a job.
+And that's only partly true,
+because there's a fallacy involved here.
+And partly because of this fallacy, the way in which
+most conventional sources encourage you to learn
+Japanese kanji and vocabulary means that this quantity problem,
+the problem of the extra quantity of material to learn in the form of kanji,
+really does become the handicap it appears to be.
+So what's the fallacy?
+The fallacy really is that human memory
+and the question of memorizing things
+is not purely a question of quantity.
+The human mind has an enormous capacity for retention
+and we can prove this with a simple experiment
+that we've all done on various occasions,
+which is when you perhaps watch a movie
+or an anime or television program
+that you saw maybe ten years ago
+and you think you don't remember any of it,
+when you watch it in most cases you start remembering things.
+You say, "Oh yes, I remember that scene" and
+"Ah, I remember what he says after that".
+So, the first thing that this shows is that
+you actually are retaining an enormous amount.
+If you multiply this by all the movies and
+programs and things you've ever seen,
+you have a tremendous amount of information
+tucked away inside your brain, most of it useless.
+But the second point this raises is the question of
+how is it that you remember all this when
+maybe if somebody asked you if you'd seen the program
+you wouldn't even be absolutely certain
+and you certainly didn't remember anything about it at the beginning.
+Well, the way you remember these things is because
+memory works by hooks and triggers.
+So once you start seeing the movie you get
+various hooks and triggers which dredge memories
+out of the deep recesses of your storage vaults.
+Now, the thing this shows us is that memory,
+memorizing things, recalling things, is not so much
+a question of storage, retention, capacity, as of retrieval.
+An awful lot of material is actually there.
+The question is, can you retrieve it?
+Can you build the pathways that allow you
+to get at it quickly whenever you need it?
+And this is the fundamental problem in
+learning vocabulary of any kind. Now, because of this,
+the fact that there are three elements to a word,
+the kanji, the meaning, and the pronunciation,
+actually potentially gives us more hooks, more triggers
+that we can use to improve the retrievability of our vocabulary.
+Now, the second problem, as I said, is the way people
+are encouraged to go about learning vocabulary and kanji.
+And that is, essentially, by separating them.
+Now, the logic of this is based in
+the quantitative approach which I've just talked about:
+the idea that because there's a large quantity to learn,
+it's good to break it down into
+two separate areas, kanji and vocabulary.
+But because the real problem isn't fundamentally
+a storage problem but a retrieval problem,
+this is absolutely the wrong approach.
+What we need to do is learn
+pronunciation, meaning and kanji all at the same time,
+to treat words, in other words, as words.
+Because that way we're using all three data points together,
+the meaning, the pronunciation and the kanji,
+any one of which can act as the trigger or the hook in any given case.
+And this is why right from the beginning in my book
+*Alice in Kanji Land*, which is there to give people
+a basic vocabulary and understanding of kanji
+before they get to the point of being able to immerse.
+Although *Alice in Kanji Land* is in theory a kanji book,
+I never teach a kanji on its own.
+At no point in that book and in the Anki deck associated with it
+will you find a kanji that's not part of a word
+where you know the meaning, the sound, and the kanji all at the same time.
+Now, how do we build the links that connect these three elements together?
+If you know the Sound Sisters, this helps a lot,
+because even if you've never seen a kanji before
+you can very often make an excellent guess at how it sounds
+because it will have one element in it that tells us
+the sound with a pretty good degree of accuracy.
+So, the Sound Sisters help us to overcome one of the problems,
+which is linking kanji to sound.
+And I recommend wherever you think there may be a need for it,
+that's to say where you aren't confident that you'll remember easily,
+I'd recommend making some kind of a mnemonic
+to link together the meaning and the sound.
+Because the kanji have natural links to the meaning
+and very often natural links to the sound.
+Meaning and sound need to be linked together in our mind.
+Once we've got that, if we can then, from the kanji,
+get an idea of the sound, then we also get the meaning.
+If we get an idea of the meaning, then we very often also get the sound.
+The three things are working together as they should to mutually increase retrievability.
+So, what kind of sound-to-meaning mnemonics should we make?
+Well, ideally Japanese-to-Japanese ones are good,
+but it doesn't really matter what they are.
+They can be English or any other language.
+The important thing is to get those two things linked together in your mind.
+But a lot of the time we do make Japanese-to-Japanese mnemonics and we make them very easily.
+And the reason for this is another thing that scares beginners but is in fact a good friend.
+And that is what are called "homophones".
+That's to say, words that sound identical
+but have different meanings and different kanji.
+Now, these are very daunting if you try to do something silly like learning lists of homophones.
+Please, never try to do that.
+But they become very useful when we've learned one word
+and then we learn another word that's pronounced in the same way,
+because we can nearly always just tie those two together.
+We already know one of the words, it's already a part of our working vocabulary,
+so we can use that as a link for the other word.
+So, for example, if you follow my videos you probably know the word "kaidan",
+which means "a scary story/a ghost story".
+Now, if you're encountering it for the first time,
+you very likely already know the word "kaidan" which means "a staircase".
+So you could make a sound link for that word by picturing a ghost coming down the staircase.
+Now, later on, you may learn another word "kaidan".
+And this is "a conversation" or "a conference between important people" --
+you know, when politicians from different countries meet to discuss something --
+or that kind of thing, it's called a "kaidan".
+And this is where people start to get worried:
+"Oh dear, there are three words and they're all pronounced the same. Isn't that worrying!"
+Well, it's not worrying, because you've used the staircase "kaidan" to help you
+to learn the ghost story "kaidan" and now you've got a third "kaidan".
+And how are you going to remember that?
+Well, the way I'd remember it is to say
+"You know, when all these important people get together behind closed doors
+discussing important things about world peace,
+what do you think they're really doing?
+They're just telling ghost stories!"
+To give another example, you may know the word "sadou" which means "tea ceremony".
+This is literally "the way of tea / the road of tea", and "sa" is the on-reading of "cha" (tea).
+Now, later on you may learn the word "sadou" which means "operating or functioning",
+usually referring to a machine, a piece of machinery.
+So, a good way to remember that is to picture robots holding a tea ceremony together.
+Now, you can even cheat a bit with words.
+For example, if you're learning the word "taihou",
+which means "a big gun / a cannon / a piece of artillery",
+maybe you already know the word "taiho", which means "arrest".
+Now, those aren't homonyms, as you see: "taihou" isn't the same pronunciation as "taiho".
+But we could say, for example, that when the police are making a big arrest, they bring out the big guns.
+And of course we know it's "a BIG arrest" because it's bigger than just "taiho" -- it's "taihou".
+Now, using this technique, we tie sound and meaning together.
+The kanji are linked to the meaning,
+because it's the meaning of kanji which gives us the meaning of the word
+and I've already done videos on how that works
+and I'm going to have more to say about it very soon.
+The kanji are also linked closely to the sound,
+because kanji have a narrow range of pronunciation
+and they will limit the pronunciation possibilities
+even if you don't know the exact pronunciation in any given case.
+And there are things that'll help us to get closer to that as well
+-- and again, I'll be covering that very soon.
+The important thing here is that we tie together the sound and the meaning,
+the only two elements that don't have a natural link,
+so that the three are all linked together and can work together in our minds.
+We also put the sound on the back of the card,
+which can be done automatically with Yomichan (and I've explained that in another video).
+And in many cases we can have definitions that reinforce our appreciation of the kanji
+because we're using the same kanji in the definition as are used in the original word.
+I talked a little bit about that in our last lesson
+and I'm going to do a much fuller lesson on that in the near future.
+If you have any questions or comments,
+please put them in the Comments below
+and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons,
+who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere,
+who not only make these videos practically possible,
+but also tell me that these are really something worth doing,
+something that my dear friends and supporters really appreciate.
+And believe it or not, that's something
+a near-sentient self-learning android actually needs.
+And of course I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

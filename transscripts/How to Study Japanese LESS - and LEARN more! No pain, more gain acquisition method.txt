@@ -1,0 +1,145 @@
+Konnichiwa.
+Today we're going to talk about Japanese study and how to do as little of it as possible.
+This isn't because we're too lazy to do Japanese study but because study, in all its forms,
+including SRS, is not the way to acquire Japanese.
+The way to acquire Japanese is by having fun.
+That's to say, by treating Japanese as what it actually is, which is language,
+and using it for all kinds of activities: reading, watching anime, playing games, having conversations
+-- doing all the things that we do with language.
+Now, when I talk about SRS, I think you know already that I'm not against SRS.
+I think it's a perfect partner for massive input, massive immersion.
+We need it for learning kanji, because one has to have some method of learning kanji,
+and SRS is the least painful one available.
+And we need it for pinning vocabulary.
+So, massive input and SRS are ideal partners in many ways.
+But we have to remember the old adage: SRS is the thief of immersion time.
+This is a saying that was known to the ancients.
+Well, perhaps not in quite that form, but it's been known for a very long time that
+time spent on A can't be spent on B.
+And with a lot of vocabulary to learn, SRS can become time-consuming.
+Fortunately for us, there is the inverse ratio effect, which means that the more time
+we spend on mass immersion, massive input, the less time we need to spend on SRS.
+But a lot of people don't really know that,
+and they don't take a rational approach to reducing SRS in a pragmatic way.
+Now, some people go to the other extreme and say that we don't need SRS at all,
+we can leave it all to massive input.
+And that may work for some people, but for most people I don't think it does work very well.
+And while some people will say that's because the input isn't sufficiently massive,
+I don't think that's always the case.
+The thing is that SRS is rigged to feed you vocabulary
+in a way suited to helping you remember it, and wild input isn't.
+So one can tend to forget words between natural exposures.
+Now, our use of continual audio input does a lot to counteract that effect.
+We use audio to feed ourselves comprehensible input
+from the anime that we've already gone over structurally with Japanese subtitles.
+So that's giving us a lot more input of the same vocabulary that most users don't have.
+And this is important because natural exposures are the real ground for learning.
+We encounter words as real meanings in real emotional contexts with their contextual nuances
+and knowing the kind of person that uses a particular word in a particular context.
+We aren't memorizing all this, but we're absorbing it.
+And this is what eventually amounts to knowing a word rather than just knowing its dictionary definition.
+SRS is simply a pinning device for holding words in between real exposures.
+And because SRS is the thief of immersion time,
+we want to prune it down to what we actually need and no more.
+How do we do this?
+The thing to remember, which gets very obscured in other methods
+-- and this is a very important point, so listen carefully --
+is that abstract learning through SRS or anything else is a means to an end, not an end in itself.
+If learning words through SRS were an end in itself, then we would have to be much stricter about it.
+This means failing more words, which means bringing them back into play more frequently
+and increasing one's daily SRS time considerably.
+Before I realized this, like many androids I took the view: 90% right is wrong. Only 100% right is right.
+And if SRS were one's means of learning rather than a handmaiden to real learning, that would be correct.
+But providing one is doing at least reasonably massive input, then in many cases 50% right is right.
+Why?
+Let's think about the end that SRS is a means to.
+And this may vary, but let's take what I think is the most common case.
+SRS is a means to pinning words so that they will be recognized when we read them.
+Now, let's take some scenarios.
+Case 1. We see a word on the front of the card in kanji.
+We know how it's pronounced and we know that it can have one of two related meanings,
+but we can't be sure which. What do we do?
+Usually we can pass this.
+Why?
+The question to ask is this: When I encounter it, will the context make it clear which of the two it is?
+If so, SRS has done its job sufficiently for its role,
+which is supporting real exposure to the extent of understandability.
+We're not trying to learn the word from SRS. That is the job of massive input.
+So, case 2. We know the meaning, but we aren't sure which of two pronunciations it is.
+What do we do here?
+Usually pass. Perhaps press the "hard" button.
+Fail only if one needs to get the pronunciation fixed at this stage for some particular reason.
+Why?
+If you're using -- and you probably will be at an early stage -- mostly material with furigana or
+anime subtitles where you're hearing the words, you'll be reminded of the pronunciation on future occasions.
+Case 3.  If you're confused between two words and their meanings.
+I think this one quite often happens.
+For example, if you don't remember which of these two words "pocchari" and "pochari" means
+"plump" and which means "splash", you need to ask yourself certain questions.
+First question: If you read or hear one,
+what is the likelihood of not knowing which meaning is intended in the context?
+As an android I can tell you it's precisely 0.037%.
+So, we can pass it on that question.
+Second question: How much do you want to be able to use one or both in conversation?
+If the answer is, "Not very much", then pass it.
+Words enter passive vocabulary before they enter active vocabulary.
+You may have reasons for wanting to push a given word more quickly into your active vocabulary.
+If so, then you have to be more strict with it, but if not, you can let things take their natural course.
+So, case 4. We're pretty sure of the general area of meaning, but we can't actually define the word.
+Well, even this could be a pass.
+With context the word would probably be understandable.
+Now, I'm not telling you what decisions to make in every given case.
+I'm trying to give you the principles on which to make the decision.
+And these principles also apply to the question of putting words in Anki in the first place.
+I've done a video on the general principles of the use of Anki in organic Japanese and
+on some of the criteria we use for putting them or not putting them on Anki.
+So, if you haven't seen that video, it would be a good time to see it after you've finished this one.
+But let me give you some extra principles here.
+As you get more used to kanji, you're often pretty sure of the meaning and the pronunciation.
+This is especially the case if you've used the kanji hacks that I teach you in my other videos.
+So if you're pretty sure of the meaning and the pronunciation when you see it
+and the context supplies the rest, you don't need to put it into your Anki.
+You may want to, just to remind yourself that the word exists.
+And this would be for one of two reasons: because you want to use it yourself on the fly for output purposes
+and/or because you want to recognize it when you hear it with no kanji to help.
+This is reasonable and I do it sometimes.
+The thing to bear in mind is that this is a trade-off.
+You are trading expanding your SRS time for some immersion time.
+You are going to encounter the word again.
+And if you don't, then you don't need to learn it, do you?
+You're also going to get better and faster over time at reconstructing the kanji in your mind when listening,
+even for unknown words, from a mixture of context and knowing what the on-readings are likely to be.
+And again, if you have the Sound Sisters hack, this is going to give you a lot of help
+in knowing what on-readings are likely to be in many cases.
+Now, Japanese people do this all the time, because thinking in Japanese means thinking in kanji.
+You don't need to worry that everything will drop off if you don't put it into your SRS.
+Some of it will, but it will get other chances.
+Some of it won't, especially as you get more proficient and if you're listening continually
+to comprehensible material that you've already worked through.
+Sometimes in output you'll get words wrong.
+For example, even though you know the kanji components you might forget the order or misremember
+exactly which two kanji it was and use a similar concept kanji for one of them. Or use the wrong reading.
+This happens. It does improve over time.
+How much time do you want to invest in ironcladding against these little errors in the short term
+versus moving on with immersion?
+These are the kind of questions you need to ask yourself.
+I can't answer them for you, but I can suggest that you ask them rather than simply assume
+that everything needs to be SRS-ed.
+Textbook Japanese tends to indicate an exam-based view that abstract memorization is an end in itself
+or a means to pass exams, which comes to much the same thing.
+The Anki-and-Heisig focus of the main AJATT-influenced online immersionist groups can ironically have
+a very similar effect, especially since some second-generation AJATT-related immersionists are prone
+to put more stress on the method than on the real immersion it was originally intended to support.
+And if either of these approaches is your preferred one, you should of course ignore what I'm saying here.
+If not, if you're aiming for what I call direct or organic immersion then the thing to remember
+is that SRS is only there as a tacking stitch to hold things in place between exposures
+and shape your strategy accordingly.
+SRS is a good servant but a very bad mistress.
+The place to acquire Japanese is in real immersion.
+SRS and every other kind of study is nothing more than a handmaiden to that real immersion.
+If you have any questions or comments, please put them in the Comments below and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, my producer-angels, who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

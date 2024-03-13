@@ -1,0 +1,140 @@
+ 
+Konnichiwa. Today we're going to look at
+something that is important in itself but also
+throws light on some of the subtleties of Japanese
+that are very useful to know as we go forward into deeper immersion.
+So, what we're going to look at is four different ways of saying
+something that in English are all covered by the one word "open".
+Now, these are "aku", "akeru", "hiraku", "hirakeru".
+Now, when we look at these at first they look like two self-move/other-move pairs, don't they?
+And up to a point they are.
+But what this is going to illustrate is something of the subtlety
+of the whole self-move/other-move concept in Japanese,
+as opposed to the much more technical and clear-cut contrast
+between transitivity and intransitivity in English and other Western languages.
+So, if you're not familiar with the concept of self-move and other-move verbs
+(what in the West tend to get called transitive and intransitive verbs)
+I'll put a link to my video on that subject above my head and in the Comments below.
+The second thing we notice is that when you write them with kanji,
+you can't actually see the difference between "aku/akeru" and "hiraku/hirakeru".
+Now this is partly because they are actually interchangeable in many cases
+and on the whole if it's not a case where it really needs to be "hiraku/hirakeru",
+people will generally read "aku/akeru".
+But if a writer wants to specify that she's using "hiraku" for a particular effect
+(and we'll look at some of those effects a little later)
+she will write it in hiragana to make the matter clear.
+Right. So first let's take the top two, "aku/akeru".
+"Aku" is self-move. "Akeru" is other-move. They both mean "open".
+So, "aku": a door opens, a bottle opens; "akeru": open a door, open a bottle.
+That at least is the theory.
+In practice, we will often hear Japanese people say things like "me-wo aku" (open one's eyes),
+which is technically incorrect in the eyes of the grammarians
+because "aku" is self-move and they're using it in an other-move way: open one's eyes.
+Now, I'm somewhat challenging the grammarians here and I'll tell you why in a moment,
+but you should stick to the actual grammatical model
+because there are only a limited number of instances
+in which Japanese people do use "aku" transitively
+(and I'm using the word "transitively" deliberately here -- you'll see why in a moment)
+and you don't want to be memorizing which those are.
+If you use "akeru" as the other-move version --
+opening your mouth, opening the door, opening anything --
+you'll never go wrong. That's always correct.
+So why am I challenging this official view that "aku" ought to be intransitive?
+Well, I've got a slight feeling here that Japanese grammarians are a little bit influenced
+by Western thinking and by the Western concepts of transitivity and intransitivity.
+When Japanese people say "me-wo aku", I believe the instinct or the feeling behind it
+is that opening one's eyes is toward the "aru" side of the "aru/suru" map
+that we talked about in my transitivity lesson.
+In other words, opening one's eyes is closer to being self-move, closer to being then doing,
+as opposed to opening the door, opening a bottle or some other external object.
+Now, that's my take on this, and you can ignore it if you want to, but we'll get on to
+some more of these subtleties which are not disputed by anybody as we go forward.
+So now let's look at the difference between "aku" and "hiraku".
+They both mean "open". "Aku" is officially speaking self-move,
+although we can see that there's a little bit of leeway here;
+"hiraku" is both self-move and other-move quite formally.
+The difference between them has nothing to do with self-move or other-move.
+It has to do with the kind of opening that we're talking about.
+So if we talk about opening a bottle, taking the lid off a box, anything like that, it's definitely "akeru".
+On the other hand, if we talk about a flower opening it's definitely "hiraku".
+So something that unfolds, opens out, is "hiraku".
+Something that simply becomes open instead of closed is "aku/akeru".
+And if you like Japanese children's songs, you may well have heard the hand-game song
+that goes "musunde hiraite te-wo utte musunde".
+"Musunde" is "musubu", which means "gathered or joined" and that refers to a closed hand.
+"Hiraite" refers to a hand that's spread out like an open flower.
+Now, there are various areas where these two are interchangeable,
+but even when they're interchangeable they stress one aspect rather than another.
+So, for example, a French door can "aku" (open) or "hiraku" (spread open).
+Eyes generally "aku", but they can be said to "hiraku",
+and when we use "hiraku" instead of "aku" in these cases
+it's rather like in a movie when you zoom in
+on someone's eyes slowly becoming open or on doors slowly spreading open.
+There's more sense of the actual process of the opening, of the spreading out.
+So this gives a subtlety that we don't have in English
+that can be infused into speech or writing
+just by choosing "hiraku" instead of "aku".
+Now, when we come to more metaphorical or abstract uses,
+the distinction is important again.
+For example, we can say "mise-wo akeru" or "mise-wo hiraku" and they both mean "open a shop",
+but "mise-wo akeru" implies simply opening in the morning for business
+or opening after the lunch break or something like that, simply literally opening the shop,
+just opening the doors so the customers can come in.
+"Mise-wo hiraku" implies opening a shop for the first time, opening to the public.
+In other words, spreading out like a flower,
+changing from something that was closed into something that's open.
+And just a side-note here: with an umbrella, which also
+spreads out and you might be inclined to say "hiraku",
+we don't usually use that, it's generally "sasu" for opening an umbrella.
+Now, what about "hirakeru"?
+The Japanese grammarians, or at least many of them,
+actually designate "hirakeru" as the self-move version of "hiraku".
+But that doesn't really make any sense, because
+"hiraku" itself is both self-move and other-move.
+So what's actually going on here?
+This is quite interesting.
+"Hiraku", which can be either self-move or other-move,
+is further over to the "suru" side of the map than "hirakeru".
+And what do I mean by that?
+Well, I did a video a while ago about what I call untranslatable Japanese.
+And this is about Japanese verbs that really can't be reproduced in English because
+they express states rather than actions in a way that just doesn't happen in English.
+A very simple and common example is "wakaru",
+which is often translated by English dictionaries and textbooks as "understand".
+It certainly doesn't mean "understand", but when you get a better translation
+that will tend to be "be understandable" or "be clear",
+and that's much closer to what "wakaru" actually means,
+but the real meaning can't be translated into English
+because it's actually not an adjective like "clear" or "understandable". It's a verb.
+So what we're really saying is "do understandable / do the act of understandability"
+and this just doesn't have an English translation.
+And there are lots of stative verbs like this and I talked about them in the video.
+And "hirakeru" really comes closer to being one of these.
+"Nureru", which is often translated as "become wet", but it doesn't actually mean "become wet" --
+It can include that but implies "existing in the state of being wet".
+It may mean "become wet and then continue to be wet" or it can just mean "be wet",
+but of course it isn't "be wet", it's in fact "do wet", which isn't translatable into English.
+The same with "hirakeru". So it's used in cases like, for example,
+we often say "un-ga hirakeru", which means "one's luck opens".
+Now, we could say "un-ga hiraku", and that would mean
+"one's luck unfolds like a flower, becomes open",
+but "hirakeru" implies not just unfolding but continuing to exist in that state of unfoldedness.
+The reason we would be more prone to say "mise-wo hiraku" is partly because
+it's more other-move than "hirakeru" and we're actually doing it to the shop, we're opening it;
+also because stress is on this act of opening the shop.
+"Un-ga hirakeru": the stress on the actual opening of the luck is
+less important than the fact that it's going to change.
+From then on, we're going to be lucky, whereas at the moment we're not so lucky.
+So, I think this gives us a view not only of the four words for opening in Japanese
+and how they work, how they interplay.
+A lot of the time they overlap with each other and it doesn't matter too much which one you use.
+In some cases it really is important, either for what you're specifically saying or
+for the nuance and implication and atmosphere that you want to build by saying it.
+If you have any questions or comments,
+please put them in the Comments below and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, my producer-angels, who make these videos possible,
+and all my other producer-angels, my supporters on Patreon and everywhere,
+and all of you who help this revolution in Japanese to continue month by month, week by week.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

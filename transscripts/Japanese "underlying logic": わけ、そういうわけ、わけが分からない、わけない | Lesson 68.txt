@@ -1,0 +1,193 @@
+Konnichiwa. Today we're going to talk about "wake",
+which is a Japanese word that can cause quite a lot of confusion
+because it's used in a variety of different ways and situations in Japanese
+and in English dictionaries it has a whole string of definitions
+that seem particularly disjointed and confusing.
+However, once we understand the real logic, the underlying meaning of the word,
+it all falls into place rather nicely.
+So, what is "wake"?
+First of all, let's look at the English dictionary definition.
+In the online dictionary it says "wake" means "conclusion from reasoning;
+judgement or calculation based on something read or heard;
+reason; cause; meaning; circumstances; situation".
+So, what does it actually mean out of all that?
+Well, for a nice change the dictionary actually agrees that it's a noun.
+"Wake" is a noun, so what kind of a noun is it?
+What is a "wake"?
+Well, let's look a bit at the history of the word.
+Originally, "wake" meant "divide or separate".
+So it's connected with "wakeru", which is a verb meaning "divide or separate",
+and also, more importantly for our present purposes,
+"wakaru", which also fundamentally means "divide or separate"
+but in the sense of "break down, or analyze".
+So, when we say "hon-ga wakaru", as I've pointed out in previous lessons,
+we're not in fact saying "I understand the book";
+we're saying "the book does understandable or does clear".
+We could say in English "The book is clear to me",
+but in fact it's not an adjective, it's a verb -- "the book does clear (to me)".
+But when we say "clear" we are using slightly the wrong metaphor
+if we want to go into the actual etymology of the word.
+"Clear" is a metaphor, obviously, from seeing.
+But the real metaphor that underlies "wakaru"
+is being broken down into constituent parts,
+being analyzed or analyzable.
+And that's what "wake" means here.
+Now I know some of you may be thinking "but it's a different kanji".
+Well, that's true. We usually associate "wakaru" with this kanji,
+but in fact you can write the word "wakaru" with three different possible kanji
+and they all have slightly different implications --
+and I've written an article about that if you're interested,
+so I'll put a link in the information section below.
+The point is that "wake / wakaru" is not tied
+to any one kanji.
+It's a fundamental Japanese word that goes back further than the kanji used to represent it,
+and the fundamental idea in all these cases is the same:
+the idea of separation, division, analysis, breakdown.
+So, what actually is a "wake"?
+Let's take the most prominent English definitions, which are: cause, reason,
+and conclusion based on something we've seen or heard.
+Now, let's note that cause, reason, and conclusion generally speaking refer to the same thing.
+The main difference is whether the process is going backward or whether the process is going forward.
+Let's take an example.
+If I say "Sakura was out in the rain, and therefore she's wet",
+we are taking two known facts and stating the causal, the reasoning, connection between the two.
+If I say "Sakura is wet and therefore I reason that she was out in the rain",
+we're taking exactly the same piece of reason, the same causality, and working in the other direction.
+We're working from one known fact to another unknown fact that we use the reasoning to arrive at.
+But that piece of reasoning, that causal link, that fundamental underlying reasonality,
+is the same in both statements.
+In one case we're working it forward, in the
+other case we're working it backward,
+but that fundamental underlying causal logical reasonality, to coin a phrase, is the same.
+And I coined the phrase "reasonality" because there isn't really a word for this in English.
+But in Japanese there is, and the word is "wake".
+So "wake", as we see, expresses a cause, a reason,
+and a conclusion or a logical judgement -- all of those things.
+What it really expresses is the underlying causality or reasonality,
+and when the dictionaries say that it also expresses a circumstance or situation
+or something like that, in fact it doesn't really do that,
+but what it does is express the underlying reasonality of a circumstance or a situation.
+And once we understand that, we can start to understand the different ways in which "wake" is used.
+So, it's used to give a reason.
+So, if someone says "sou iu wake de beddo-no shita-ni kakureta" --
+"that's why I was hiding under the bed" -- that's the reason.
+If we find out the solution to what seemed like an impossible crime,
+we say, "sou iu wake deshita" -- "so that's how it happened".
+And we're not actually talking about the fact of the crime,
+the circumstance of the crime, the situation of the crime;
+we're talking about the reasonality that at first seemed completely obscure
+and now we've understood.
+And if you notice, in this phrase we say "sou iu wake deshita", in the past tense.
+It's not because my reasoning happened in the past.
+My reasoning might be happening right now.
+But it's because the underlying reasonality of the event happened at the time of the event,
+and that's what we're talking about.
+If we say "sonna wake de shukudai-wo wasuremashita",
+we're saying "that's why I forgot my homework",
+that's the reason, the causal link that tells us why it was
+that I forgot my homework and why you shouldn't blame me.
+Now, "wake" is used in a lot of negative uses that are very important in Japanese.
+One that you'll commonly hear is "wake-ga wakaranai".
+Now, that's very puzzling if we don't know what "wake" means
+and we also, as is the case if you take the textbooks seriously, don't know what "wakaru" means.
+"Wakaru", as we know, doesn't mean "understand";
+it means "do clear" or, if we take the most literal sense of the word, "do broken down / do analyzed".
+So what we're actually saying here is that the reasoning,
+the underlying reasonality of something "doesn't do analyzed".
+The way AI entities like myself would tend to put it is "the reasoning behind that does not compute".
+In other words, it's meaningless, it's nonsense.
+In other negative uses, "wake" is often used to mean "it's not as if... / it's not that..." or "it doesn't mean that..."
+And of course, all those in fact fundamentally break down to the same thing.
+We take sentence A and then we're saying that sentence B conclusion can't be drawn from it.
+So if we say, for example, that she always eats in cheap restaurants and then add
+"okane-ga tarinai wake de-wa nai", we're saying "it isn't that she's short of money"
+or "it's not as if she's short of money".
+What we're saying here is that the conclusion
+from the fact that she always eats in cheap restaurants
+isn't that she's short of money; she isn't short of money.
+Someone might say, "shitto shita wake de-wa arimasen" -- "it's not that I got jealous".
+Again, "don't draw from my actions or words the conclusion that I got jealous. That's not what it was".
+And, essentially, the dictionaries here say that "wake" means a situation or a circumstance
+because they take these statements as being denying the situation or the circumstance,
+but as you see, that's not exactly what they're doing.
+They're not denying the situation or the circumstance,
+they're denying the underlying reasonality of the situation or the circumstance,
+and in doing that also implicitly denying the situation or the circumstance,
+but that isn't always the case.
+For example, we might say "Just because she's fat doesn't mean she eats too much" --
+"tabe sugiru wake de-wa nai", the reasonality isn't that she eats too much.
+And we may not be saying that she doesn't eat too much.
+We're just saying that the fact that she's fat doesn't necessarily mean that she eats too much,
+that's not good reasoning.
+We don't know whether that's true or not, but from the fact that she's fat we can't say that.
+So, what we're doing in all these cases is denying a certain rational connection.
+We're saying that that rational connection doesn't exist.
+Whether the fact that it implies exists or not isn't really what we're talking about here.
+In some cases we're implying that it doesn't,
+in some cases we may not be implying anything either way.
+But the important thing that we're denying is the underlying reasonality,
+the logical link that might be made in these cases.
+Now, another common negative use is "wake-ga nai",
+sometimes shortened to just "wake nai".
+This tends to be strongly denying that something exists at all.
+Again one might think one is denying the situation or the circumstance,
+but what one is denying is the rationality of it.
+Now, how do we tell this from the uses that we saw before?
+Well, let's notice the structural difference.
+One is "x wake de-wa nai", that's to say that the circumstance we've talked about
+or are referring to doesn't have that reasoning.
+This is the simple difference between "de-wa nai" and "ga nai"
+that we talked about way back in our lesson on negatives.
+So, in these cases where we're saying "it doesn't mean that... / it's not that... / it's not as if..." etc,
+in other words "that reasoning doesn't apply", here we're saying that no reasoning exists.
+"Wake-ga nai": "there is no reasoning".
+And therefore, since there is no reasoning, since it doesn't compute, it can't be the case.
+So, for example, "Sakura-wa uso-wo tsuku wake-ga nai" --
+"Sakura wouldn't tell a lie" -- there's no way she'd tell a lie.
+The underlying logic or reasonality of Sakura telling a lie doesn't exist,
+therefore it's not possible that she would tell a lie.
+Again, "Sakura-wo wasureru wake-ga nai" -- "I won't forget Sakura" or "I won't forget you, Sakura".
+What we're saying here really is that the underlying reasonality of forgetting Sakura doesn't exist.
+There is no reasonality, it doesn't compute, therefore it can't happen.
+Now, there is another possible meaning for "wake-ga nai"
+and that is in a more direct and literal sense saying simply "There's no reason".
+It's not to say it's not happening or it doesn't exist, but there's no reason for it.
+So, for example, "sonna-ni okane-no iru wake-ga nai" --
+"there's no reason she would need that much money" --
+she might be asking for it, she might get it, but there's really no reason why she would need it.
+How do we know the difference between these two?
+Well, this is a matter of context, and I've done a video on how we deal with this kind of thing.
+We actually do it in English all the time.
+Lots of statements have more than one possible interpretation
+and most of the time we're not aware of it
+because we are so used to using the context to determine
+which of a possible range of meanings is to be applied in a given case.
+We're not conscious of this process so we really need to understand it
+in order to apply it in Japanese or any other language.
+So take a look at that video if you haven't seen it already.
+And that might be particularly useful, because there is a third use of this negative "wake-ga nai",
+often reduced to just "wake nai", which is to say that something is simple or easy.
+"Nihongo-wo hanasu-no-wa wake-ga nai koto da" --
+"Speaking Japanese is easy, no problem."
+Why do we say "wake-ga nai" here?
+What we're saying is that there's really no reasoning needed.
+It can be compared to the English expression "no-brainer".
+You might think that meant that something was stupid,
+but what it actually means is that something is so easy or so obvious
+that it doesn't take any brainwork to arrive at it.
+And this is the use of "wake nai" here.
+"It's a no-brainer. Talking Japanese is just simple.
+A cakewalk. Easy-peasy lemon-squeezy."
+And again, there's not much chance of misunderstanding or confusing the different uses
+provided you understand the basic rules of disambiguation.
+And provided that most of the time you're doing it in context, in real Japanese immersion,
+and not in chopped-off bleeding sample sentences.
+So don't forget: structure is the key to immersion but immersion is the key to Japanese.
+If you have any questions or comments, please put them in the Comments below
+and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere.
+These dear people are the ones who really bring these videos to you.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

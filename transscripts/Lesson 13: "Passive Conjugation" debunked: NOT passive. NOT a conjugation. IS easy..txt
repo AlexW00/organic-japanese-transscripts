@@ -1,0 +1,143 @@
+Konnichiwa.
+Today we're going to talk about the receptive helper verb.
+In other places you will hear this referred to as the "passive conjugation".
+Now, as we've already learned, there are no conjugations in Japanese,
+so it can't be a conjugation.
+Also, it isn't passive.
+So that's zero out of two for the textbooks.
+And this matters because if we think of the receptive helper verb as a passive conjugation,
+it completely disrupts our grasp of the structure and, once again,
+it throws those poor particles all over the room.
+And as we know the particles are the linchpins, the hinges on which Japanese turns.
+So if we mess up the particles we are in deep trouble.
+And this is why so many people find Japanese hard to understand.
+So, now I've mentioned "passive conjugation" just so you know what we're talking about
+if you find it in other contexts, let's drop those words completely and call it what it is:
+the receptive helper verb.
+So, what is the receptive helper verb?
+It's a verb that fits onto the a-stem of another verb, and the a-stem, that's the same stem
+that we use for attaching the -nai negative helper adjective, isn't it?
+The receptive helper verb is "reru / rareru":
+that's "reru" for godan verbs, "rareru"for ichidan verbs.
+Now, a lot of people panic when they see that the "rareru" of the ichidan receptive helper
+verb is the same as the "rareru" of the ichidan potential helper verb.
+But there's no need to panic.
+It's perfectly all right.
+In English we have things like this as well.
+For example, we have the words "to", "two" and "too".
+And they're all pronounced the same and they're all very common words
+that are used hundreds of times every day.
+And how often do they get confused?
+Not very often at all.
+And it's the same with the potential and receptive helper verbs.
+They're used in quite different situations and there's
+very little chance of confusing them in real use.
+And real use is what matters.
+So, what does the receptive helper verb mean?
+It means "receive" or "get".
+Receive what?
+Receive the action of the verb to which it is attached.
+Now, most of the time I'm going to use the word "get" because this expresses very clearly
+what the helper verb does.
+Your old English teacher might say it's not the best way of expressing things,
+but it's a perfectly good way of expressing things in English
+and in Japanese it is exactly how we do express them.
+All right?
+So, let's take a simple example: "Sakura-ga shikara-reta."
+"Shikaru" means "scold" or "tell off", and the a-stem is "shikara",
+so when we add to that "reru" and put it into the past tense we get "shikara-reta".
+"Shikaru" is "scold", "shikara-reru" is "get scolded", "shikara-reta" is "got scolded",
+so, "Sakura got scolded".
+Now, there's an important thing to bear in mind here, and that is that we can sometimes,
+with a helper verb attached to a verb, we can, as a sort of railroad shorthand, condense
+those two parts into one verb.
+So we can say "hon-ga yomeru" and although "yomeru", which is the potential form of "yomu",
+is strictly speaking "yome" plus "-ru", we can combine
+them together and treat "yomeru" as one engine.
+But we can't, and never should, do that with the receptive helper verb.
+Why not?
+Because when the receptive helper verb is attached to another verb, the action of the
+first verb is always done by someone different from the action of the second verb "reru/rareru".
+So we always have in a receptive sentence the action that is done by someone else, whom
+we may or may not know, plus the real action of the sentence which is "reru/rareru", the
+receiving - the getting - of that action.
+And this is the fundamental point to bear in mind.
+It's because the textbooks don't keep this in mind and don't keep those two engines separate
+that all the confusion and difficulty over the so-called "passive conjugation" arises.
+The head verb of a reru/rareru receptive sentence is always "reru" or "rareru",
+not the verb to which it is attached.
+All right.
+Now, let's also notice that the A-car, the actor of the sentence, is not necessarily a person.
+So, if we say, "mizu-ga noma-reta" (nomu: drink; noma: a-stem of drink; reta: got),
+we're saying "The water got drunk".
+And the actor of that sentence is the water.
+Now, even if we add a doer of the action: 
+"mizu-ga inu-ni noma-reta", the actor of the
+sentence is still the water, not the dog, because it's the water that got drunk,
+it's the water that did the getting.
+The dog did the drinking, but the water did the getting.
+And the dog drinking the water is all a white section which modifies that final head verb, "get".
+"The water got drunk by the dog."
+Now why do I mark the dog with -ni?
+I'm going to come to that in just a moment.
+Let's get a fuller sentence so we can see all the particles working together in a receptive sentence.
+"Sakura-wa dareka-ni kaban-ga nusuma-reta" (nusumu: steal; nusuma: a-stem of steal;
+nusuma-reru: get stolen; nusuma-reta: got stolen).
+"Dareka" means "someone" (dare: who + ka: question). Who was it?
+We don't know, no one in particular, but someone.
+"Dareka" - "someone".
+So, what's going on here?
+Who is the receiver of the action?
+It's not Sakura, who's marked by -wa.
+It's not someone, who's marked by -ni.
+It's the person who's marked by -ga, and that's the bag.
+The bag is what received that stealing, so the bag is the subject of the sentence.
+The bag is the one who did "reru", who did "got".
+And -ni... what's it doing here?
+Well, let's remember that -ni marks the ultimate target of an action.
+So, "Sakura-ni booru-wo nageta" - the ga-marked actor is I, the object of the action is "booru",
+and the target of that action is Sakura.
+Now, this kind of -ni can only be used when we are projecting something, whether it's
+throwing a ball, sending a letter, giving a present, lending a book.
+We have to be projecting something toward the target.
+Now, "reru" is not a projecting verb.
+It's a receiving verb.
+It's not a push-verb, it's a pull-verb.
+Therefore the target of that verb is not something toward which you are projecting;
+it is the thing from which you are receiving.
+So -ni performs the same function in relation to a pull-verb that it performs in relation
+to a push-verb, that is, the ultimate target of the push, the ultimate source of the pull.
+So you see, all the particles are doing exactly what they always do.
+Nothing is changing here.
+If you think of it as "passive conjugation", all the particles do a strange dance and seem
+to be doing different things from what they usually do, but if you understand it as it
+is - the receptive helper verb - there isn't any problem.
+And it all makes sense, just the way Japanese always does if you know what it's really doing.
+Now, there's one other area in which the receptive sometimes confuses people, and that is in
+the so-called "suffering passive" or "adversity passive", which is actually called in Japanese
+the "meiwaku ukemi", which means the "nuisance receptive".
+And that's what it is.
+It's the nuisance receptive.
+"Sakura-wa dareka-ni kaban-ga nusuma-reta" means "Sakura's bag got stolen by someone"
+or, literally, "In relation to Sakura, bag got stolen by someone".
+But we can also say "Sakura-ga dareka-ni kaban-wo nusuma-reta".
+What happens here?
+This is the nuisance receptive.
+So what's happening here?
+The ga-marked actor is now Sakura, isn't it?
+She is the one who does the receiving.
+So what does this sentence mean in English?
+Very simple: "Sakura got her bag stolen".
+That's what we say in English; our old English teacher might not like it, but
+we say it in English, it makes sense in English, and it's exactly what we say in Japanese.
+"Sakura got her bag stolen by someone."
+So, I think you can see that there is in fact no problem, no difficulty, no confusion about
+the receptive helper verb, just so long as you know that it is a receptive helper verb
+and not something else.
+If you have any questions, please ask them in the Comments below.
+If you have any comments, please make them and as usual I will answer.
+I'd like to thank my Gold Kokeshi patrons, my helper-angels, who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

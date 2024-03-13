@@ -1,0 +1,138 @@
+Konnichiwa. Today we're going to talk about
+how to turn your mobile device into an immersion machine.
+Now, as far as watching anime and other Japanese material goes,
+you can use a mobile device for that,
+but a personal computer probably has the best facilities
+for using these materials to full advantage.
+You will be using a mobile device for your passive audio immersion,
+but there are no particular problems about that.
+Where a mobile device really comes into its own is in reading,
+particularly novels and manga.
+Now, I've talked about where you can get an almost unlimited supply
+of free light novels entirely legally in another video.
+So if you don't know how to go about that, I'll put a link over my head.
+Along with these light novels you can get various Japanese e-readers which will dovetail
+with your supply of light novels to allow you to read them easily and comfortably,
+turning your mobile device essentially into an e-reader.
+So the questions that then arise are:
+Can we use the same kind of facilities that we do on our computer?
+On a computer we're used to being able to use things like Yomichan
+to hover over a word and get its reading and definition
+and also to send ready-made cards into Anki so that we can pin new words into place
+and learn kanji as seamlessly as possible.
+Can we do this on a mobile device?
+Well, to a large extent we can.
+If you're using the Android version of the Firefox browser you can use Yomichan with that,
+which will give you the ability to get readings and definitions on the fly
+and also send them into Anki cards immediately.
+The problem here is that for many people reading novels and manga on a browser
+isn't the most comfortable experience. Also you may not be online.
+So if you want to use e-readers, what can you do?
+Well, if you're using the Kindle reader, that has its own built-in dictionary
+and you can download the Japanese version.
+So that's pretty simple, although it doesn't integrate with Anki.
+If you're using one of the e-readers that co-operate with syosetu.com,
+which is where you can get all these free light novels, what can you do?
+It doesn't have a built-in dictionary, but there's a good way around the problem.
+And it's called "Popup Japanese Dictionary".
+Now, you need to get one of the readers that allow you to select text
+(but you're going to want that anyway).
+So make sure you have one of the readers that will allow you to select text
+and then you install the Popup Japanese Dictionary
+and once you've done that, all you have to do is copy a word
+-- that's to say, you long-press on it to select it and then hit the copy button --
+and the definition will pop up.
+Unfortunately, we can only get English definitions,
+but at least we can get definitions on the fly without breaking your reading experience.
+And the good thing about this as opposed to things like Yomichan is that it's not attached to a browser.
+Anywhere on your device that you can copy text, you can use Popup Japanese Dictionary.
+It does not integrate with Anki, so are we back to hand-making Anki cards?
+Fortunately, no, we're not.
+We need another application to help us here.
+And that is Takoboto.
+Takoboto is another Japanese-to-English dictionary.
+It uses the same database that Jisho and most of the online JE dictionaries use,
+so you'll get the same definitions.
+It doesn't integrate with syosetu readers or browsers or anything else, so you have to copy the word,
+which you'll have already done if you got the instant definition from Popup Dictionary,
+and then paste it into Takoboto and get the definition,
+and once you've got the definition there is an option to send that straight into Ankidroid.
+So, so long as you have Anki on your Android device you can make instant cards.
+You just select your definition and on the definition page you go to the drop-down menu
+and select the option to send the definition to Anki and there you are, you've got a card.
+Takoboto also has sample sentences for many of the words
+and it will send a sample sentence to your Anki card as well.
+Unfortunately, you can't select which sample sentence it sends.
+It'll just send the first one on its list.
+Sometimes they're useful, sometimes they're not so useful. So that's a bit of a lottery,
+but at least you do have sample sentences that are valuable some of the time.
+It also has a pretty robust kanji-by-radicals tool,
+so if you're reading a physical book, say, and using the dictionary separately,
+it's pretty easy to look up unknown kanji if you need to do that.
+So all around, Takoboto is a pretty solid option for Anki integration.
+Its two weaknesses are that, unlike Yomichan, it doesn't do audio for the words,
+and it can't do Japanese-to-Japanese definitions.
+How do we get around this?
+Well, this is going to be a matter of post-processing,
+because you can only really do it on your computer.
+So as far as audio for the words goes, this is pretty simple.
+You go into your personal computer Anki and you have to install Awesome TTS,
+and I'll give a link for that in the information section below.
+Now, you can do batch processing here, so what you can do is select all your recently imported cards,
+that you did in your last session or couple of sessions of reading,
+and then go into Awesome TTS and you can tell it to take the text on any field you choose,
+create audio, and put that audio into any field you choose.
+What I recommend is taking the reading field, which will have the hiragana of the word,
+for the input field and also for the output field.
+The reason for that is that the text-to-speech occasionally, not very often but occasionally,
+mispronounces words. It gives the wrong pronunciation of a kanji.
+If it's working from the hiragana it won't ever do that, of course.
+And you put it into the reading field because that means
+you've got the reading on the back and it will be the first field on the back,
+so if you put any other audio onto the back,
+like for a Japanese-to-Japanese definition or for the sample sentence,
+the reading will come first, which is what you want to happen.
+Now, for Japanese/Japanese definitions, if you have one in mind,
+if you're using one of the tricks that I taught you
+in my video on phasing-in Japanese-to-Japanese definitions,
+you can just type that in at the same time and then TTS it so that you can hear the definition.
+You can go to the Sanseido online dictionary, which generally provides concise definitions,
+and copy one from there and paste it in and, if you want to, TTS it.
+Another thing you can do, if you're feeling lucky and a bit lazy,
+is simply batch process the sentence field on all your new cards.
+That way wherever there's a sample sentence
+(there won't always be one, but there'll be one quite a lot of the time)
+you'll get audio for that sentence automatically generated for the card.
+Now, some of the sentences are useful, some of them I don't think are so useful,
+but this is a quick and easy way to get some audio for all of your cards,
+which you can use even if you don't have a Japanese definition.
+If you can listen to the Japanese sentence and get confirmation of the card from that,
+it's a very quick and easy way to do things.
+If the sentence is useless to you, you can just delete it at review time.
+Although you can't actually generate the TTS on your mobile device, you can edit and delete.
+So if you have a lot of audio sample sentences and you find you don't want them all,
+you can just get rid of the ones you don't want on the fly.
+Also of course you can look for sample sentences on online databases if you wish to.
+So the process isn't seamless, and it isn't always seamless on Yomichan either,
+but using these methods we can semi-automate the process
+to somewhere near to the same level that we can do on a computer.
+We can get definitions on the fly.
+We can create Anki cards quickly and easily without having to build them by hand.
+We can add Japanese audio to the extent that we want to.
+The only thing Yomichan does here that Takoboto can't is to add single-word audio,
+and we can do that by batch processing anyway.
+It isn't native-speaker audio, but it's good enough for our purposes.
+With manga, of course, we're stuck with typing the words into Takoboto,
+but then that's always the case with manga since the text is part of the illustrations.
+I hope you find this useful.
+If you have any questions or comments,
+or if you have other mobile applications that you find helpful for immersion --
+I'm not really talking about Japanese learning applications here,
+I'm talking about immersion support applications --
+please put them in the Comments below
+and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, my producer-angels, who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

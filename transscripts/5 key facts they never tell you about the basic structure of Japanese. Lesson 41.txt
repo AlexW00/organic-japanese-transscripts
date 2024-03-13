@@ -1,0 +1,147 @@
+Konnichiwa. Today we're going to talk about
+something very important that affects the whole structure of Japanese.
+And, surprise, surprise, the textbooks never explain this properly.
+What we're going to talk about is Japanese words.
+Not vocabulary, but the actual nature of the words themselves and
+how they structurally work inside the language.
+This isn't difficult. In fact, it's very simple.
+But if you don't know it, it's very confusing because you actually see a sentence and
+you don't know what the words are really doing inside that sentence.
+And this is the position that the textbooks leave you in.
+Now, the fact is that Japanese is much simpler than English and much simpler than most languages
+in the types of words that it has.
+However, the English textbooks and dictionaries try to assimilate Japanese words to the various English types
+and this doesn't work well at all and leads to endless confusion.
+So I'm going to present five facts that will clarify the whole situation.
+Fact 1: Nearly all Japanese words fall into one of three categories. Just three.
+And those three categories are: Nouns, Verbs, and Adjectives.
+Now, there are also, as we know, particles – they're not words,
+but they are the nuts and bolts that hold the language together.
+And there are a few -- a very few -- specialized words that don't fall into those three categories.
+For example, there are conjunction words that join together
+two logical clauses to make a compound sentence.
+Most conjunctions aren't done with words anyway -- they're done with the te-form, the i-stem,
+or groups of particles like "demo" and "noni".
+But there are a few dedicated conjunctions like "kedo" and the other "ga",
+the "ga" that isn't a particle but a conjunction, which we discussed in a recent video.
+Now, apart from these, everything you see is going to be a noun, a verb, or an adjective.
+Fact 2: Verbs and adjectives are very easily recognized and distinguished.
+Every verb ends in an -u row kana -- and it has to be a kana, it can't be included in kanji.
+And every adjective has to end in the kana i.
+Again, it has to be the kana, can't be part of a kanji.
+Now, as we know, there are certain completely regular transformations
+that this -u row kana and that this i can make.
+They can go into te-form or ta-form,
+and the final -u row kana of a verb can change into the equivalent kana in the same row
+in order to attach a helper word such as the negative helper adjective "nai"
+or the causative helper verb "seru/saseru".
+Now, once you know the basic permutations of verbs and adjectives, which you should do very early on,
+you know that if a word doesn't have one of those possible verb endings
+or one of those possible adjective endings, it is a noun.
+You know that if a word is written in kanji only or can be written in kanji only,
+it is in 99 cases out of 100 a noun.
+So Japanese, as I've said before, is a very noun-centered language.
+Fact 3: There is a legion of super-nouns.
+What I mean by this is that there are certain special categories of noun,
+each of which has one superpower and one only.
+That's to say that the nouns in each of these groups of special or super-nouns
+differ from ordinary nouns in one respect only.
+Now, two of those groups we already know, so as Fact 4 I'm just going to go over those quickly.
+The first group is adjectival nouns, which are horribly misnamed by the textbooks "na adjectives".
+They're not adjectives. They are nouns that can under certain circumstances be used adjectivally.
+The superpower of adjectival nouns, the one thing they can do that makes them different
+from any other noun, is that they can use the soft or connective form of the copula "da".
+So, we can say "yashiki-ga fushigi da" -- "mansion mysterious is".
+When we do this we're just doing what we can do with any noun.
+We can say "Sakura-ga Nihonjin da" -- "Sakura  Japanese person is".
+But we can also use that soft form of "da", which is "na",
+and we can say "fushigi-na yashiki" - "mysterious-is mansion".
+You can't do that with a regular noun.
+And that's the only difference between a regular noun and an adjectival noun.
+The second group is suru nouns, which the dictionaries somewhat confusingly call "suru verbs".
+What they are is nouns.
+And their superpower is that they are allowed to drop the direct object marker, "-wo".
+So, if we take the noun "benkyou", which means "study", we can say "benkyou-wo suru",
+which means "do study" but we can also say "benkyou suru", which means "study" (the verb).
+We can use the -wo to mark a direct object of any verb, but we can only drop that -wo in the case of suru nouns.
+That is their superpower.
+So when we do that, we fuse together "benkyou" with "suru" and make what we really can call a "suru verb".
+But the important point to remember is that when "suru" is not attached to it, it's not a suru verb.
+It's not any kind of a verb. It's a noun.
+So we can say "benkyou-ga suki da".
+That means "study is pleasing to me".
+We don't say "benkyou-suru-no-ga suki da", because what we'd be doing if we said that
+would be taking a noun, turning it into a verb with "suru", and then turning it back into a noun again with "no".
+We don't need to do that because it's a noun in the first place.
+Now, the third group, which we haven't yet introduced, is adverbial nouns.
+Now, there are a lot of these and an awful lot of them end in the kana "ri",
+but not all of them by any means.
+So, we're going to look at two that do and one that doesn't,
+and we're going to look at their superpower.
+Their superpower is very similar to the superpower of the suru noun,
+which is to say that they can drop the relevant particle under certain circumstances.
+As we know, any noun that's appropriate for the use can be turned into an adverb by adding -ni.
+So, "shizuka", which is the noun "quiet", can be used adverbially with -ni.
+We can say "shizuka-ni suru" -- "do quietly / act quietly".
+We can say "shizuka-ni aruku" -- "walk quietly".
+With adverbial nouns, we can drop that -ni.
+So, we'll take one that ends in the typical "ri": "yukkuri" -- that means ''slow'' or ''leisurely'' --
+and we can say "yukkuri-ni suru" -- "act in a leisurely manner", "yukkuri-ni aruku" -- "walk slowly".
+But we can also say "yukkuri suru", "yukuri aruku". We can drop that -ni.
+So, that's the one and only superpower of the adverbial noun.
+And it's important to understand this because when you start trying to explain them without
+recognizing this fundamental fact, you can get into all kinds of difficulty.
+Let's take another one: "amari".
+Now, this noun is usually explained in a way that's completely confusing.
+"Amari" is a noun, and what it means  is "excess".
+You can use it in a completely literal sense.
+You can say "gohan-no amari" -- which means "the excess rice / the leftover cooked rice".
+It's very often used in more abstract ways.
+So, we can say "kanashimi no amari naita".
+Now, this means "from an excess of sadness, I cried."
+And, as you see, we can leave out the particle.
+We usually do leave out the particle with "amari".
+So it's now being used adverbially and it still means "excess".
+Now, the textbooks generally introduce it in a different context, which makes it very confusing
+when we see it in other contexts and especially when we don't understand that it's actually a noun.
+They show it being used adverbially in expressions like "amari benkyou shinai".
+What does that literally mean?
+It literally means "I don't study too much / I don't do an excess of study."
+But of course, as we know, what it means in practice is that "I don't study very much".
+And this is what we call litotes.
+We've talked about hyperbole in language and how it's a very common phenomenon.
+Litotes is the opposite of hyperbole.
+Hyperbole is saying more than we really mean; litotes is saying less than we really mean.
+The word "litotes" isn't as well known as "hyperbole".
+That's perhaps because current Western speech is much more prone to hyperbole than to litotes.
+But we still have litotes in set expressions.
+So, if we are going on a picnic and we look at the dark clouds in the sky and say
+"It doesn't look too good!" what we're literally saying is "It doesn't look excessively good"
+but what we actually mean is "It doesn't look very good!"
+And it's just the same with "amari".
+If we say "amari benkyou shinai", we're saying "I don't study too much / I don't study excessively"
+but what we actually mean is "I don't study very much at all."
+So, let's just take one more that doesn't end in "ri", and that's "zuibun".
+What it really means is "sufficiently".
+And you may say, "Well, 'sufficiently' isn't a noun".
+And that's true -- in English it isn't a noun.
+In Japanese it is, and if we look at the kanji "zuibun", what it actually means is something like
+"appropriate portion" or "appropriate amount" -- in other words, "sufficient" or "sufficiently".
+And this is another litotes which is common to both English and Japanese and many other languages.
+When you say to someone "zuibun jouzu da ne", what you're literally saying is
+"you're skilful enough / you're sufficiently skilful".
+What you actually mean is that the person is very skilful.
+And this is just the same in English. You might say "You're pretty good".
+And "zuibun", like "pretty" or "fairly" in English can run the full range from its original meaning
+of "sufficiently" or "fairly" to its more usual litotes meaning of "very /considerably".
+So the thing to remember is that there are a very limited number of word-types in Japanese.
+Nearly all words are either verbs, nouns or adjectives.
+And the ones that aren't verbs or adjectives, whatever the dictionaries tell you they are,
+are practically all the time nouns.
+When you understand that, you have a much clearer understanding of what's going on in a sentence.
+If you have any questions or comments, please put them in the Comments below and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

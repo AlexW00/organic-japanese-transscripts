@@ -1,0 +1,123 @@
+Konnichiwa.
+We've now completed ten lessons and it's time for a change of pace.
+We've learned enough now that we can start looking at some real narrative.
+It'll be a little simplified at first, but we can use this to
+bring together the things we've learned so far.
+We'll also be learning new structural elements because even in the simplest story we're going
+to encounter things that we need to learn.
+But I think this may be a more interesting way of doing it.
+So please let me know what you think in the comments below.
+All right.
+Now let's go into a story that I believe we all know.
+"Aru hi Arisu-wa kawa-no soba-ni ita."
+Now, this is a simple sentence.
+The word "kawa" means "river", and "soba" means "beside" and it's a noun.
+So "kawa-no soba" is "the beside of the river".
+Just as we put something on the "on" of the table or the "under" of the table and we also
+always mark it with -ni, so the "beside of the river" is where Alice was.
+"Aru" means "a certain", so "aru hi" is like "one day" or "a certain day", and let's notice
+that what's happening here is what we've seen before.
+"Aru" is the verb that means "exist" or "be", and what we've done here is what we've seen
+in the video lesson on so-called adjectives.
+We can make any engine into an adjective.
+So, "aru" is an "A does B" engine, an u-engine, so if we say "hon-ga aru" we are saying,
+"There is a book / a book exists".
+And if we move that "aru" engine to the other side of the book, we turn it white
+and it becomes a descriptor, an adjectival.
+So we're saying "aru hon" – "an existing book / a certain book / a book that there is".
+And it's the same: "aru hi" – "a certain day".
+"Aru hi Arisu-wa kawa-no soba-ni ita."
+Now, the next sentence is going to be a little bit more complex, but don't worry, it's always easy
+when there's a fully-functioning android to help you.
+(Actually, I'm not quite  fully-functioning, but for the purposes of showing you Japanese I am.)
+"Oneechan-wa tsumaranai hon-wo yonde ite asonde kurenakatta."
+So we've got quite a complex sentence here, and let's break it down.
+"Oneechan" means "big sister": "nee" is "sister";
+"-chan", I'm sure you know, is a cute, friendly honorific;
+"o-" is also an honorific.
+So, "oneechan" – "big sister".
+"Tsumaranai" means "dull" or "boring".
+"Hon", as we know, is "book".
+"Yomu" means "read"; "yonde iru" – we put the "yomu" into the te-form and add "iru"
+and it means "is reading"; and then we put the "iru" itself into the te-form.
+So why are we doing all that?
+Let's take a look.
+"Oneechan-wa tsumaranai hon-wo yonde ite" – "Big sister is reading a boring book"
+– but then that -te....
+Te-form has a lot of different uses.
+In this case it will complete a clause.
+"Big sister is reading a boring book" – that's a complete clause, isn't it?
+And if we turn that final u-engine into the te-form, what we're saying is that something
+else is going to follow this clause.
+We are indicating that we're making a complex sentence made up of more than one clause.
+So it's like saying,
+"Big sister was reading a boring book and..."
+And that something else comes: "asonde kurenakatta".
+"Asobu" means to "play", and that also is in the te-form, isn't it?
+"Asobu" --> asonde".
+If you're in any doubt of how we make these te-forms, please go back to the video lesson
+on the te-form and refresh your memory.
+"Asonde kurenakatta."
+Now this is another use of the te-form.
+Te-form is terribly important and it does various different things.
+What's it doing here?
+Well, "asobu", as we know, means "play".
+"Kureru" means to "give", and it specifically means "give downwards".
+And the reason we say "give downwards" in Japanese
+is because we are always polite to people.
+So we always represent ourselves as being below other people
+and other people as being above ourselves.
+So if I say "kureru" (give), I always mean that someone
+is giving something to me or to someone close to me.
+But what is Alice's big sister giving – or not giving – to Alice?
+Well, it's not the book.
+In fact, it's not any actual object.
+She is giving the action to which "kureru" is connected by the te-form.
+She is giving – or in this case, not giving – the act of playing to Alice.
+What do we mean by that?
+Well, we say "kureru" not only for giving a thing – a book, a present, a candy – we
+also say it for giving an action, for doing something for our benefit.
+This is very very often used in Japanese, so it's important to understand it.
+If someone does something for our benefit, we turn
+that action to te-form and we add "kureru".
+If we do something for someone else's benefit, we turn that action into te-form and add "ageru",
+which means to "give upward", in other words, to give to you, to give to another person.
+"Kureru" and "ageru" – give down to me or my group / ["ageru"] give up to you or someone
+else or your group or their group.
+So what is this second part of the sentence?
+It's "asonde kurenakatta" – "she didn't play/ she didn't give Alice playing-with /
+she didn't play for Alice's benefit".
+It's rather different from anything we find in English, but I think it's also very expressive,
+something we could actually do with having in English.
+So now let's look at the whole sentence again.
+"Oneechan-wa tsumaranai hon-wo yonde ite asonde kurenakatta" –
+"Big sister was reading a boring book and did not play [with Alice]".
+Notice that we have two complete clauses here: "Oneechan-wa tsumaranai hon-wo yonda" –
+that's a complete clause in itself, isn't it?
+"Oneechan-wa asonde kurenakatta" – "Oneechan did not play for Alice's benefit"
+And we've connected the two together with the te-form.
+A thing we should notice here is that "Oneechan-wa
+tsumaranai hon-wo yonde" doesn't tell us the tense.
+We don't know whether she's reading a boring book right now or in the future or in the past.
+We don't know that until we get to the end of the sentence.
+In English we put the tense marker on both halves of a complex sentence.
+We would say, "Big sister WAS reading a boring book..."
+so we already know that it's in the past.
+But in Japanese we put that tense marker, -ta or -katta, at the end
+and we only need one tense marker per sentence.
+"Yonde ite" could mean "is reading" or could mean "was reading",
+but because the "asonde kurenakatta" is in the past and it's part of the same sentence
+we have put everything into the past.
+Well, we didn't get very far into Alice's adventure today, did we?
+But I think we can proceed faster as we get used to real text and learn the basic narrative structures.
+Of course, I will be doing regular structure lessons still, as well,
+but how do you like this story approach?
+Would you like to continue with it?
+Please let me know in the Comments below.
+And of course if you have any questions, please put them in the Comments too
+and I will answer as always.
+I'd like to thank my Gold Kokeshi patrons, my producer-angels, who make these videos possible,
+and all my patrons and supporters.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

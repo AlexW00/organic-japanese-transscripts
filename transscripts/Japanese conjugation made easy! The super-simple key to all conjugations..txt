@@ -1,0 +1,285 @@
+Hello, pretty peoples.
+KawaJapa no Kyua Dorii desu.
+I am Cure Dolly from KawaJapa.
+Today we are going to talk about Japanese
+conjugation.
+Which particular conjugation? you may ask.
+Well, all of them.
+Except for the ta and te form, which we will
+discuss in a different video.
+Why are we dealing with them all at once?
+Because we can.
+Because Japanese conjugation all works the same way.
+It's very simple, very logical and very consistent, and very very easy to understand.
+However, when we look in the textbook, we
+get the impression of lots of different rules
+and forms that you have to learn for each
+particular conjugation.
+Why is that?
+Why do the textbooks make it seem so complicated when it's actually so very simple?
+Two reasons.
+The first is that they insist on this European
+concept of conjugation.
+Actually, what we are doing is not conjugation at all.
+What we are doing all the time is attaching
+a simple helper verb – or helper adjective
+or helper noun – to the stems of the verb.
+And once we see how that works, it becomes very, very simple and easy to understand.
+The other problem is that they spend a lot
+of time explaining the changes that take place
+in terms of the Roman sound system – the
+alphabet.
+But in fact that causes a lot of confusion
+and difficulty.
+Once we see it in the terms it actually exists in, that is to say, the *Japanese* sound
+system, it all becomes very logical.
+I would say it is a 100% consistent, logical
+and simple – except there is one exception
+in the whole system, and there are two irregular verbs, so perhaps we had better say 99.9%
+logical, consistent and easy to understand.
+All right.
+So, let's give you the master chart, which
+will show you how all of this works.
+Chaato wo kudasai!
+So, here is the familiar Japanese kana chart, with all the sounds of Japanese.
+I've turned it on its side, for reasons which
+will become apparent shortly.
+All Japanese verbs end with one of the kana in the middle row – it looks like a column
+because I've turned it on its side.
+That is the u-row – u, ku, su, tsu, nu etc.
+However, there is no verb ending in yu, so
+we can get rid of these two columns and simplify
+the chart.
+Actually, there is only one verb that ends
+in nu – that's shinu, to die – so we
+could get rid of that too and make it look
+even simpler, but I'm keeping it in for completeness.
+So, every verb ends with one of the kana in
+the red box.
+Let's have an example of each of the possible
+endings: kau, buy; kiku, hear; hanasu, speak;
+motsu, hold; shinu, die; tobu, fly; nomu,
+drink; toru, take.
+Now, as you can see, there are four other
+possible endings that the verbs could have,
+and in fact each of those endings is used.
+And when we use one of the other endings,
+the verb stops being a verb and becomes what
+I call a 'sticky stem', that is, a stem to
+which we stick something else.
+So, here is the i-stem.
+With the i-sticky stem, we change the u-row
+kana to the corresponding i-row kana.
+So, kau becomes kai, kiku becomes kiki, hanasu
+becomes hanashi, and so forth.
+What do we do with the 'i' row sticky stem?
+Well, the thing that you have all seen, I'm
+sure, is we can attach the helper verb masu
+to the i-row sticky stem.
+Masu is not a conjugation.
+It is a verb.
+It is a helper verb and it attaches to the
+i-row sticky stem.
+It does not change the meaning of the verb,
+but it makes it formal.
+So, kau is the regular, informal version,
+meaning buy; kaimasu is the formal version.
+Kiku is the informal version, hear; kikimasu
+is the formal version.
+What else do we do with the i-row sticky stem?
+Well, we can attach the helper adjective tai.
+Tai is a helper adjective which means want.
+So, kaitai means want to buy; kikitai, want
+to hear; hanashitai, want to speak, and so
+forth.
+We also use the i-row sticky stem for attaching nouns in order to convert a verb into a
+new noun.
+So, kaimono, that is buy-thing: it means shopping.
+Nomimono, drink-thing, means a drink.
+Hanashikata (kata means form or shape)...
+Hanashikata means form of speaking, manner
+of speaking.
+So now we know how to attach all these except
+for what are call "ru-verbs", the ichidan
+verbs, and they are very very simple, because
+all you ever do with these, ever, is simply
+cut off the ru and you have *all* the possible
+sticky stems of the ichidan verbs.
+So taberu become tabe; tabemasu is the formal
+form of the verb; tabetai, want to eat; tabemono,
+eat-thing, food.
+So now we come to the a-row sticky stem, and
+this has one exception.
+And you'll say, "Ah, languages!
+Full of exceptions!"
+This is the only exception in the whole system,
+and it's a very natural one that you can well
+understand.
+The u-ending verb does not become ka-a, it
+becomes ka-wa, which is a lot easier to say,
+and understand in conversation, isn't it?
+So kau does not become kaanai, it becomes
+kawanai.
+So what do we use the a-ending stem for?
+I've already mentioned it – probably the
+most common use is to attach the helper adjective
+nai to the sticky stem of a verb.
+It attaches to the a-sticky stem, so kau,
+buy, becomes kawanai, not buy; kiku, hear,
+becomes kikanai, not hear; hanasu becomes
+hanasanai, not speak, and so forth.
+Very simple.
+We also use the a-sticky stem for the causative
+and the so-called passive forms of verbs,
+and these "conjugations" often give beginners
+quite a lot of trouble.
+And I have made videos that show how simple
+they really are, how they work, what they
+mean, and how simple it really is if you understand
+them the way they actually are.
+Today we are just going to look at the structure.
+So, the causative form of a verb, which means
+to allow someone to do something or make someone
+do something, is formed by attaching the helper
+verb seru / saseru to the a-row sticky stem.
+Now, I say seru / saseru – what does that
+mean?
+Well, it means that there are actually two
+forms of this helper verb.
+Seru attaches to all those sticky stems that
+we're working with – all the ones that change.
+And saseru attaches to the ichidan – the
+so-called "ru-verb" – sticky stem.
+Where there is a slight variation in the helper
+verb, we always find that the longer version
+goes onto the ichidan verb, because that verb
+is generally shorter.
+The ichidan verb, we take off the whole last
+syllable; with the godan verbs, the changing
+sticky stems, we don't take off the last syllable,
+we change it to a different sound.
+So, seru / saseru makes the causative form
+of a verb.
+Kau becomes kawaseru, allow to buy, make to
+buy; hanasu becomes hanasaseru, allow to speak,
+make to speak; nomu, become nomaseru, allow
+to drink, make to drink; and taberu becomes
+tabesaseru, allow to eat, make to eat.
+The so-called passive – which isn't really
+passive, and we have a video helping you with
+understanding what it really does and how
+simple that really is – the so-called passive,
+the receptive form, is formed with the helper
+verb reru / rareru.
+So, kau become kawareru, which means get bought,
+be bought, get bought – get bought is better
+because that is closer to what the Japanese
+really means, and you will understand that
+when you see the video; kiku becomes kikareru,
+get heard; nomu becomes nomareru, get drunk
+– I don't mean become intoxicated, I mean
+the way the cup of coffee got drunk; taberu
+becomes taberareru, get eaten.
+So as you see, there are really – apart
+from that one exception, there are not lots
+and lots of different ways of attaching these
+together.
+It's because it's presented as a conjugation
+and because it's explained as if it was written
+in Roman letters that the confusion arises.
+We can see that it's actually very, very regular.
+We just shift to the a-row and add the helper
+adjective nai, the helper verb reru / rareru,
+the helper verb seru / saseru, and it's just
+as simple as that.
+Now we come to the e-row sticky stem.
+Just like the others, it's perfectly consistent.
+You just change the u-row kana into the corresponding
+e-row kana.
+So kau becomes kae, kiku becomes kike, hanasu
+becomes hanase, and so forth.
+We use the e-row sticky stem to create the
+potential form of verbs, which means you can
+do the verb.
+The helper verb, which is stuck onto the e-row
+sticky stem, is ru / rareru.
+And yes, even though it's simply ru, just
+that one character, it is a helper verb – if
+you look it up in a Japanese dictionary (not
+a Japanese-English dictionary, but a real
+Japanese dictionary) you will find ru there
+as a jodoushi, a helper verb – and it has
+these two forms, ru and rareru.
+Rareru is, you will have noticed, the same
+as the so-called passive, reru / rareru, so
+the ichidan form of the passive and the potential
+are the same – but because they are used
+very differently, there are very very few
+occasions on which you would confuse the two,
+so it's not really a problem.
+So, we have kaeru, can buy; kikeru, can hear;
+hanaseru, can speak, and so forth; plus taberareru,
+can eat.
+So, now we come the last sticky stem, the
+o-row sticky stem, and just as with the others,
+it's perfectly consistent.
+Kau becomes kao; kiku become kiko; hanasu
+becomes hanaso.
+And what we do with this sticky stem is attach
+u, and, as you know, u when attached to o
+generally lengthens the o.
+So kau doesn't become kao-u, it becomes kaou;
+kiku becomes kikou; hanasu becomes hanasou.
+The volitional has a number of uses, and I'm
+only talking about structure here, so I'll
+just use one of the uses.
+Kau become kaou, let's buy; kiku become kikou,
+let's listen, let's hear; hanasu becomes hanasou,
+let's talk.
+In the ichidan form, we add you to the end
+of the ichidan sticky stem.
+So taberu becomes tabeyou, let's eat.
+One peculiarity of the volitional form is
+that you can also make it by changing the
+form of masu to use the volitional in its
+formal mode.
+And when you do this, you say mashou instead
+of masu, and when you do this, naturally enough
+you use the i-row sticky stem, just as you
+do with the regular masu.
+So, ikimashou, let's go.
+So now you have the master keys to nearly
+the whole of the Japanese so-called conjugation
+system, and as you now know, it's not conjugation
+at all.
+The only thing we haven't covered is the ta
+and te forms of verbs, which perhaps are closer
+to being conjugations, and fortunately ta
+and te work identically, so once you know
+one, you know the other.
+And we will cover that in a future video.
+You may not be able to swallow everything
+in this video in one gulp, but every time
+you become confused about the way any "conjugation"
+is working, please come back to this video
+and run it through, and I think it all will
+become perfectly clear.
+Some people will ask, well, what about irregular
+verbs – remember all those pages and pages
+of irregular verbs in the back of the French
+textbook, or the German textbook, or the Spanish
+textbook?
+Well yes, Japanese has irregular verbs too.
+There are two of them.
+That's right, just two.
+Suru and kuru.
+And they work a little bit differently from
+the others, and you'll very soon pick that
+up.
+Remember that the textbook for this course
+of lessons is "Unlocking Japanese", and you
+can get it at Amazon in paperback or Kindle
+editions.
+Thank you for attending this class.
+Kore kara mo yoroshiku onegaishimasu.
+Class dismissed.

@@ -1,0 +1,214 @@
+Konnichiwa. Today we're going to talk about
+one of the fundamental questions
+that people are asking me all the time.
+Now, this is a beginner's question,
+but I think it's going to be interesting to everyone,
+because it gives us a chance to go into the fundamentals
+of how the Organic Japanese strategy works.
+All right. So, the question is, very straightforwardly:
+how do I get started? how do I learn Japanese?
+what's the ground plan? what's the plan of attack?
+So, I'm going to assume in starting this, that you've decided
+that you want to go ahead with the Organic Japanese method.
+The Organic method has fundamentally two characteristics,
+which are that it's very light on study --
+once we get started, most of what we're doing we're doing through immersion --
+and the other one, which makes it completely unique, is that
+we base ourselves on understanding the fundamental structure of the language,
+how it really fits together -- not so-called textbook or Tae Kim Japanese grammar,
+where they just tell you this bit of Japanese means that bit of English.
+We actually learn why it does what it does.
+We cut through all the random rules and exceptions
+and see how Japanese actually works as a completely logical language.
+Now, you don't have to use the overall Organic method in order to do this.
+Organic structure can help you with whatever we're doing.
+But let's take it that we're proceeding with the Organic method.
+What's the first thing we have to do?
+Well, right from Day One we start doing three things.
+And these are 1) learn hiragana; 2) start learning vocabulary;
+3) start learning the structure of the language.
+And we're going to look at how we do those three things.
+First of all, hiragana.
+People sometimes scare you with saying that Japanese has three writing systems
+and thousands and thousands of characters.
+But we can deal with that as we go along.
+It's not going to be a big problem.
+What you're doing at first is learning hiragana.
+This is 46 characters.
+If you go to a university, they tell on your first lesson, even if it's only a minor subject:
+"By next week, know hiragana."
+And that's the right way to go about it.
+I've seen people pick at the edges of hiragana for months and never get very far.
+They learn a few characters, leave it a few days,
+learn a few more characters, find out they've forgotten the first ones --
+it can take a long time if you do it the wrong way.
+The right way is to roll up your sleeves and get it done.
+It's 46 characters. You should do it in a week, or ten days if you're taking it easy.
+Learn ten characters per day and you'll do it in a week with plenty of time to spare.
+Learn only five characters per day and you'll do it in ten days with time to spare.
+There are plenty of apps and things to help you learn hiragana.
+And we're not going to need to keep on drilling it after you've learned it
+because that's built into the way we're going to learn vocabulary.
+So we'll come to that in just a moment.
+The reason I'm so insistent about hiragana is that you can't really understand
+the structure of the Japanese via the Roman alphabet.
+Part of what's wrong with the teaching of Japanese is that even when they do insist that you learn hiragana,
+they're still basing themselves on concepts that come from the Roman alphabet.
+So, to learn structure, you must learn hiragana.
+I use romaji in my first lesson and continue using it for a few lessons.
+That's partly because I know people are so bad about learning hiragana.
+It's also useful to you, because if you're going to do several structure lessons
+in the first week or ten days before you fully know hiragana, that will be helpful.
+But don't put off learning hiragana whatever you do.
+Okay.
+Now, the second thing is, you need to pick up some vocabulary.
+If you're coming in saying "Oh, I know perhaps a dozen words, like 'karate' and 'karaoke' and 'ninja'",
+and that's all you know in Japanese, you do need to get some basic vocabulary.
+And I'll link to a couple of sites where you can find some.
+It doesn't really matter where you pick it up, but a couple of cautions here.
+You don't want the kind of site that gives you all the basic phrases,
+like "Good morning" and "Pleased to meet you", because partly these will be structurally incorrect
+and partly you're not trying to learn at this stage basic conversational parrot-fashion Japanese.
+You're trying to learn how the language fits together.
+So what we want is real words that describe the fundamental, basic things of life:
+person, house, dog, cat, run, walk, talk, eat, big, small, hot, cold -- that sort of really basic vocabulary.
+And it doesn't matter exactly what you learn.
+Look at lists, just choose the ones that appeal to you,
+the ones that you know you're going to be using all the time,
+and what we do next is, we start an Anki deck.
+Now, I've actually started one for you and I'm going to put that in the information section below.
+What is an Anki deck? If you don't know what it is, it's essentially a set of flash cards
+where you just look at a card and see a piece of information, turn it over and get the answer.
+It's free and it's electronic.
+This gives you the advantage that you can have it on your phone or anywhere you want
+but more importantly that, unlike flash cards, it isn't random.
+It's going to present the information (in this case, the words) to you
+in an order that's designed to help you learn them.
+And it's also going to take notice of whether you did well on them or did badly on them the last time,
+and it's going to adjust the intervals on that basis.
+Now, some of the lists you'll find online have their own proprietary SRS
+(that's what Anki is -- it's SRS, spaced repetition system).
+Don't use them.
+Things like Memrise and that sort of thing.
+Don't use it.
+Why not?
+Because when you start this vocabulary deck, this is going to be your one mother deck.
+You're going to use it for everything from the first day you start learning Japanese
+until the day when you decide you don't need to use any kind of a deck or a study system at all.
+It's going to have a ton of stuff in it and it's going to be yours and no one else's.
+So we don't want any premade decks.
+We don't want any proprietary SRS systems.
+We want a single deck that you are going to be in complete control of from the beginning
+of your Japanese learning right through to the point where you don't need decks any more.
+We will use a couple of very small decks later on for very specific purposes. But they're going to be small.
+There's the Sound Sisters deck, which we'll come to once we start looking seriously at kanji.
+But other than this, you're just going to have the one mother deck.
+Most systems that use SRS have lots of decks.
+You'll have a deck for kanji, you'll have a deck for sentences,
+you'll have a deck for this and a deck for that.
+We are just going to have that one mother deck -- plus occasionally a couple of very limited
+single-purpose decks which you'll only be using for a relatively short time.
+This is what I call the One-Deck Method.
+Why do we have this?  We have this because, as I said before, Organic Japanese is study-lite.
+You have to review your deck every day, but that's the only long-term study project in Organic Japanese.
+It's going to be the way you learn vocabulary; it's also going to be the way you learn kanji.
+So, in that first week or ten days, you will be entering the words you learn over that time in romaji,
+but it's very important to go back, once you know hiragana,
+and change the front of the card to hiragana.
+If you need the help, you can put the romaji on the back.
+Just copy it, paste it onto the back of the card and write the hiragana on the front.
+And this means that you'll actually be drilling your hiragana
+without needing to use drill programs and things once you've learned it.
+Nearly all your cards are going to have hiragana on the front at this early stage.
+And the ones that aren't, aren't going to have romaji. They're going to have kanji.
+So, what about kanji?  Should you start learning kanji at this stage?
+And the answer to that is, it's really up to you.
+If you want to start learning very straightforward, simple kanji,
+like the one for person, "hito", the one for sun, the one for moon, that's fine.
+If you prefer to stay in hiragana for a while, that's fine too.
+We're going to have to start tackling kanji pretty soon, but it's not going to be a big job in itself.
+It's going to be part of your learning of vocabulary.
+Once we're past the romaji stage, which only lasts a week to ten days,
+we're having the words in hiragana and we're starting to put one or two of them, perhaps, into kanji,
+depending on how fast you want to go with that.
+So, we learn hiragana, we start learning vocabulary, and we start learning the structure of Japanese.
+How do we learn the structure of Japanese?
+Well, that's very straightforward.
+We go to my structure course and we start it from the beginning.
+Watch the lessons carefully, get the concepts firm in your mind,
+feel free to go back and rewatch the lessons as you watch the later lessons
+and perhaps you're not so sure about something we learned earlier.
+Go back.  Do it thoroughly, because this basic structure
+is what's going to carry you through the rest of your Japanese career.
+The fundamental concepts that I teach in the early lessons,
+some of them you're not going to learn anywhere else,
+because nobody really tells you this stuff.
+You're going to learn how sentences fit together,
+you're going to learn what the particles really do, and honestly nobody tells you this.
+Nobody tells you about logical versus non-logical particles,
+nobody tells you what -wa really does, what -ga really does.
+You've got to learn this because this is going to make Japanese far, far easier than it is for everybody else.
+So, these are the three starting points.
+Learn hiragana, because you're going nowhere without hiragana.
+Learn fundamental, basic vocabulary, not greetings,
+not "aisatsu", not complicated words that you may or may not use for weeks,
+but a selection of the basic words that you're just going to use all the time,
+that everybody uses every day, several times a day.
+Because this is going to give you the platform you need in a short time to start immersion,
+to start actually reading and hearing simple Japanese.
+And from that point on that's where your vocabulary is going to come from,
+not from lists but from your experience in Japanese.
+And once we're at the stage where we can have hiragana or kanji on the front of the cards,
+then we're going to start using something called Yomichan
+because you can link that up to your Anki and it will create cards for you automatically.
+Just type the word you want into a browser, hover over it and you'll get that word with the English definition
+and it's also going to give you a native speaker audio of the word, and all that goes into your Anki.
+So you see the hiragana on the front, you can choose hiragana or kanji,
+so you can have the kanji on the front if you want it, the hiragana on the front if you want it,
+and on the back at this stage you'll have an English definition.
+Later on we're going to start moving into Japanese definitions,
+but you don't need to worry about that at this stage.
+So once you've got past the romaji stage,
+Yomichan and Anki together are going to do the work of making cards for you.
+I would still suggest that you edit those cards once they've been made.
+And what you want to edit them for is giving yourself things like mnemonics,
+which can be in the notes on the back of the card,
+and I've talked about this in another video called The Dynamic Card Concept,
+and I'll link that above and in the information section below.
+But the important thing to understand as a general principle
+is that you want your definitions as simple as possible.
+For example, "kiru" (cut), if you look at the definition in the dictionary,
+has lots and lots and lots of different definitions.
+You don't want them in your Anki.
+All you want is the simple definition: cut.
+All the other meanings of "kiru" come from that simple definition, cut,
+and we don't need to deal with them at this stage.
+You need to know the basic meaning of the word.
+As we go on we'll get to its various complexities,
+and they'll make more sense as we're further on in learning Japanese.
+And you might say, "Well, shouldn't I leave them all on the card for reference?"
+And the answer to that is no.
+You're not going to use your Anki cards for reference.
+If you want to delve into the word, find out more about it,
+use a dictionary, use something else.
+Anki isn't there for that.
+Anki is there simply for pinning words and their most basic concept definitions into place in your mind.
+Everything else is going to come later, from your actual immersion in Japanese.
+That's how the Organic Japanese Learning System works.
+So this is the very, very basic, fundamental starting procedure.
+We learn hiragana, we start learning vocabulary, really basic, fundamental words,
+and we start learning the structure of the language.
+Those are the three elements we need to proceed.
+We can start throwing in some kanji at this stage, if we want to.
+That's a choice you can make for yourself.
+If you have any questions or comments,
+please put them in the Comments below and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, my producer-angels, who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere,
+who are not only supporting me but coming on this journey together,
+from these very beginning stages where we just start to grasp the basics,
+right through to becoming fully competent in this beautiful language.
+Thank you all for accompanying me on this journey.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

@@ -1,0 +1,193 @@
+Konnichiwa.
+Today we're going to talk about "dirty tricks"
+in, particularly, Japanese vocabulary and kanji.
+Now, why are we using dirty tricks?
+Essentially, this is because there is a phase
+in learning Japanese that I call "The Big Hill".
+And this is the transition between
+getting some structure and basic working vocabulary
+(in terms of structure, I recommend you
+watching and assimilating to a pretty reasonable degree
+at least the first 20 episodes in my Organic Structure course
+and I'll put a card for that over my head
+in case you don't know it)
+and jumping into real immersion in Japanese material.
+And from that point on we're learning everything except structure.
+From that we're learning our vocabulary,
+we're learning our kanji,
+and we're learning how the structure,
+the underpinnings of the language, work in real use.
+We're not reading a lot of textbooks.
+We're not doing textbook-type exercises.
+We're immersing in real Japanese.
+And because of that, there is a period
+where it can be a bit overwhelming.
+We've got to overcome an awful lot at once
+and it can help to throw in a few dirty tricks
+that temporarily shortcut the process.
+So, I'm going to use a comment that was sent to me
+by one of my patrons, BothFawn-sama,
+as an example of the problems we encounter
+and what we can do about them.
+So, BothFawn-sama writes:
+Yes, I do recommend "Shirokuma Cafe"
+and I did do a partial walkthrough
+of the first episode to help people get started.
+I'll put a card for that over my head
+so you can take a look if you're interested.
+And that's exactly how I feel about it,
+but it does have its problems, and BothFawn-sama
+goes on to introduce us to some of those.
+Right, so I'm going to stop there and talk about this
+particular problem, because it's an important one.
+By learning kanji as words and
+by learning the Sound Sisters particularly,
+we can get a good grip on kanji,
+but the thing about this is that learning kanji naturally,
+learning how the on-readings fit together
+to make logical word structures,
+is the best way to learn,
+but in these early stages and especially
+when we're using our passive sound-listening,
+which is an important part of the Organic method,
+it's just going too fast to remember the kanji structure
+to remember the Sound Sisters,
+to remember the meaning, all at once.
+So this is an occasion where we need to
+start thinking in terms of a dirty trick.
+Now, the dirty trick I recommend here is essentially
+pinning simply the sound of the word to its meaning.
+So we're kind of short-circuiting the kanji here.
+And we can use any kind of mnemonic we like,
+it doesn't matter if it's English or
+our other native language or whatever,
+because mnemonics are just scaffolding.
+We're not going to live with them,
+they'll fall away over time.
+So, in this case, for example,
+we'll take the example of "futsu".
+"Futsu" means "ordinary or regular"
+so we could just do a silly mnemonic like
+"Some people drive cars, but ordinary people use their footsu."
+Now, this is silly and it's kind of shortcutting the kanji,
+but that's okay because it's going to
+give us a link to the word,
+we're going to understand it when we hear it spoken,
+and then we can go on to a second dirty trick
+and we can put the pronunciation of that word,
+the hiragana and the sound file
+-- and we're automatically creating sound files
+as we go along via Yomichan
+(and if you don't know what I mean by that, I'll put a card
+up there for the method by which we do this) --
+onto the front of the card.
+So, you're not worrying too much about the kanji.
+Take a look at them, but
+you're seeing that pronunciation and you're going
+straight from the pronunciation to the meaning.
+Is this a bad practice that will stop you learning kanji?
+Yes it is, so you don't want to overuse it, but it's not
+going to stop you learning the kanji permanently.
+What's going to happen, especially as you start
+putting written-only material into your intake,
+like manga and novels and text-centered games,
+and as you get more used to the kanji in general
+and the on-readings and the Sound Sisters,
+you'll find that you get to a stage where
+you don't need the pronunciation help and
+you can put that back onto the back of the card
+where it really belongs.
+Now, you shouldn't use this trick too extensively
+or it really will start interfering with your kanji-learning.
+But you can use it wherever you want
+and particularly where you want to clarify
+some audio that you're learning so you're shortcutting
+the complicated process of recognizing the audio
+with a quick audio mindlink
+and this means that you're using the audio every day
+to build up your understanding of that word
+as a sound-to-meaning concept, and then
+you've only got to throw in the kanji a bit later and
+that's going to become easier and easier as you go along.
+Now, you might ask at this stage
+"Isn't this going to tie us too closely to an English definition or mnemonic?"
+And my answer to that is, up to a small extent it could,
+but the best preventative for this is to make sure
+you have Japanese audio on the back of that card.
+Now, this doesn't mean that you have to
+do this monolingual transition thing
+that some people talk about, and
+I've explained this in another video, which I'll link here.
+You just have to find a simple
+Japanese-to-Japanese definition if you can
+and if you can't at least pop in a very short and simple
+-- short as possible, simple as possible --
+Japanese sentence.
+That way you don't have to look at your English
+or whatever mnemonic every time.
+All you have to do, once you're actually
+starting to learn the word,
+is click over to the back of the card, don't even look at it,
+just listen to that quick Japanese sentence or
+quick Japanese definition and that will give you a check
+that you've got the meaning broadly right.
+And remember that "broadly right" is all you need.
+You going to get used to the word from the actual immersion.
+So you pop in that sentence
+and you turn it into audio with Awesome TTS,
+and I'll put the link to where I explain all this
+in the information section below as well.
+BothFawn Summer also says
+that he gets a lot of leeches
+and spends a lot of time dealing with leeches.
+Now, leeches are when Anki thinks
+you're taking too long to learn a word
+and you ought to give up on it for now.
+And the thing here is that if you're a perfectionist
+and some people are, they try to
+unleech leeched words and keep going at them.
+Now, if you feel you're on the verge of learning the word
+or that you really, really need that word,
+then you can do that, but on the whole,
+I would allow leeches to stay leeched because
+the important thing about all these dirty tricks
+-- and leeches in a way are a kind of dirty trick built into Anki --
+is that it's never your last chance to learn a word.
+You will get another chance to learn it.
+If you don't get another chance to learn it,
+then you didn't need it, did you?
+It's not an abstract game of learning words;
+it's a question of learning words that you
+actually need to use or understand in practice.
+And it's also a question that
+SRS Anki is the thief of immersion time,
+so you don't want to be spending vast amounts
+of your immersion time playing with Anki.
+So, where we come to a difficult problem,
+if we can shortcut it, if we can temporarily
+get it out of the way with a dirty trick,
+that's what we ought to be doing.
+And of course there's a balance here.
+You don't want to do this to every word.
+You don't want to have pronunciation or audio
+on the front of most of your cards,
+but you also need to find that balance
+and stop them from holding you up,
+stop them from getting in the way
+of your understanding the audio.
+So, judiciously use dirty tricks to help you to get over
+the Big Hill of moving into real Japanese immersion,
+which is the core of learning Japanese.
+If you have any questions or comments,
+please put them in the Comments below
+and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons,
+who make these videos possible,
+and all my patrons and supporters on Patreon
+and everywhere, who not only make these videos possible
+by allowing me financially to do them but also
+maintain this conversation that allows us to keep
+getting deeper into the processes of learning Japanese.
+And as always I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

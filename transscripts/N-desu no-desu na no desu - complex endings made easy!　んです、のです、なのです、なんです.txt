@@ -1,0 +1,280 @@
+Hello, pretty peoples.
+KawaJapa no Kyua Dorii desu.
+Today we are going to talk about the "no da/no
+desu/n da/n desu" endings in Japanese.
+As you see, there are four endings, but don't
+worry about that, because they are all exactly
+the same.
+They are "no" followed by the copula "da"
+or "desu".
+The copula is "da" in its normal form and
+"desu" in its formal form, and sometimes we
+abbreviate the "no" to "n", but all these
+four endings are exactly the same.
+You sometimes also see "na no da/na no desu/na
+n da/na n desu" and so that looks like eight
+endings, doesn't it?
+But these four are also all the same, so we
+really only have one thing to worry about
+– I'll explain what that "na" does in a
+moment.
+I've seen lots of explanations of the form
+online and to be frank they are all rather
+confusing, because they don't explain the
+structure – they don't explain what's actually
+going on here.
+And that's very important, because if we don't
+know that we're going to get confused, especially
+when we get to slightly more complex constructions.
+All right, so what's really happening here?
+Let's take an example.
+"Haha ga kuru no desu."
+Now, the first and most obvious thing to notice
+is that if a sentence ends in "no desu/no
+da/n desu/n da" then it ends in "desu" or
+"da", doesn't it?
+And as we explained in our lesson on the copula
+"desu/da" , any sentence that ends in "desu"
+or "da" is an "A is B" sentence.
+There are only two kinds of sentence in Japanese
+or any other language: "A is B" sentences
+and "A does B" sentences.
+So "nani nani no desu" must be an "A is B"
+sentence, not an "A does B" sentence.
+Now, if we look at our example, we can see
+that the original sentence, if you like, the
+sentence we would have started with is "haha ga
+kuru", and that means "Mother is coming".
+That is an "A does B" sentence, isn't it?
+The subject, the doer, is "haha", and the
+thing she is doing is coming.
+Very simple, and they are linked by "ga" as
+they always must be.
+Now, when we add "no desu", we are turning
+that "A does B" sentence into an "A is B"
+sentence.
+And what's going on here – what kind of
+an "A is B" sentence is this?
+Well, the simplest English translation is
+to say "It is that Mother is coming".
+How do we say "it" in Japanese?
+We all know that from the lesson on the zero
+particle.
+In Japanese the word "it" is pronounced -----. That's
+right – it isn't pronounced.
+You can't see it when it's written, you can't
+hear it when it's spoken, because it's the
+invisible pronoun "it".
+So, "haha ga kuru no desu" analyzes to "(Øga)
+haha ga kuru no desu".
+Now, what's the core of this sentence?
+As we know, the core of a sentence is always
+the subject (the thing that's doing or being
+something) and the predicate (the thing that
+it's doing or being).
+So the core of this sentence is "(Øga) no
+desu" – "It is that".
+And the whole of the original sentence "haha
+ga kuru" is now loaded into that "no", that
+"that", that "thing".
+It's telling us what the "no" of the "no desu"
+is.
+And we've seen this, haven't we, in the "nominalizing
+no" lesson.
+It's another example of the nominalizing
+"no" at work.
+And the other way to look at what's happening,
+which is important, is that we can say that
+the core of the sentence is "(Øga) no desu"
+and the original sentence has now become the
+"shuushokogo", the modifier of the "no".
+It's telling – again, it's telling us what
+that "no" is.
+So that is how "no desu" sentences are structured.
+So what about "na no desu"?
+What does that mean?
+Well, it is exactly the same construction,
+and this is the form we use when we are dealing
+with a sentence that was a copular sentence
+already – one that already had "da" or "desu"
+at the end.
+As you notice, with "haha ga kuru no desu",
+we take a complete finished sentence, "haha
+ga kuru", and we add "no desu/no da" to the
+end.
+Suppose we have a copular sentence, that is
+a sentence that says "A is B" and uses a noun
+or a so-called na-adjective, which is also
+a noun.
+For example, "hana ga kirei da" – "Flower
+is pretty".
+If we want to put "no da" or "no desu" on
+the end of that, we have to keep it in a complete
+sentence and then add "no da" or "no desu"
+to the end.
+But we can't say "hana ga kirei da no da"/"hana
+ga kirei desu no desu".
+You can't do that, because "da" or "desu",
+the copula, can only come at the end of a
+sentence.
+The only thing that can come after "da" or
+"desu" is sentence-ender particles like "yo"
+or "ne".
+So what do we do?
+We do what we always do when we want to put
+something after "da" or "desu".
+I explained this in the adjective lesson.
+We use the connective form of the copula,
+which is "na".
+"Na" is "da" or "desu" in its connective form.
+So, "hana ga kirei da": that's the regular
+form of the copula; "kirei na hana": that
+is the connective form of the copula.
+And in this case, when we say "hana ga kirei
+da" and we want to add "no da" to the end,
+we say "hana ga kirei na no da" or "hana ga
+kirei na n da / hana ga kirei na no desu/hana
+ga kirei na n desu".
+And really it's as simple as that.
+We keep the copula from the original sentence
+that ended in a copula, but we turn it into
+its connective form and then glue something
+else on to the end of it, which is the "no
+da/no desu/n da/n desu."
+It's very important to understand this, because
+in casual speech you're going to come across
+sentences that end in things like "na no"
+and "na no ni" so you have all these similar-seeming,
+confusing-looking endings, but, as you can
+probably tell already, "na no" and "na no
+ni" endings are not the same as what we are
+talking about here.
+And I'll discuss exactly what's going on in
+those sentences in the next lesson.
+So, let's look briefly at what are the uses
+of "na no da", "na no desu", "n da", "n desu".
+As we've seen, it can be explanatory, and
+the important thing to know here is that,
+taking our original phrase "haha ga kuru no
+desu" – in English we say "It's that Mother
+is coming", and that's quite a deliberate
+construction, isn't it?
+It's a somewhat lengthy construction, it's
+a little unusual: we're probably only going
+to say that when we're responding to an exact
+question.
+But in Japanese it's a much more regular,
+much more casual thing to say.
+So you might say it as an answer – "Why
+is the room so tidy?"
+"It's that my mother is coming" ("haha ga
+kuru no desu") – but also you might say
+it when your friend walks into the room and
+maybe just looks around a little, and you
+say "haha ga kuru no desu", and what you're
+saying there is "Ah, my mother's coming",
+but you're saying, "It's that my mother's
+coming, so – you were looking around the
+room and I bet you were wondering why it was
+so tidy, and well, it's that my mother is
+coming."
+So it can be used to answer questions that
+haven't even been asked and perhaps weren't
+even going to be asked.
+It can also be used to ask a question which
+implies a context to the question.
+For example, if you say, "ashi ga itai desu
+ka?" you're saying "Does your leg hurt?"
+But if you say, "ashi ga itai no desu ka?/ashi
+ga itai n desu ka?"
+Well, perhaps you've seen the person limping
+a little and you're saying, "Is it that your
+leg hurts?
+Is that why you're limping?"
+It implies a context to the question.
+Now, it can be used in a variety of other
+ways.
+For example, it can be revealing something
+unexpected or secret, say: "kaigi ni ikanakatta"
+means "I didn't go to the meeting".
+"kaigi ni ikanakatta no desu" is like saying
+"The fact is, I didn't go to the meeting – you
+probably thought I did, but I didn't."
+It can strengthen a statement, by saying "That
+is the fact/ the fact is that it's like this."
+It can also soften a statement, by making
+it seem more explanatory and therefore a little
+more conciliatory.
+So, it has a wide range of uses, and I don't
+think there is very much to be gained by memorizing
+lists of its possible implications.
+The important thing is, first of all, to learn
+how it's structured grammatically, which I
+have taught you, and then to learn what it
+means – and it is roughly equivalent to
+"It is that..." or "the fact is that..." or
+something in English – and then you have
+the bones, the structure that you need to
+grasp its various implications.
+How do you learn its various implications?
+You learn them by reading Japanese, watching
+Japanese anime with or without subtitles,
+exposing yourself to Japanese.
+It's the only way to learn the nuances of
+the language.
+You can read a lot about swimming in books,
+and it's a good idea to do so.
+You can be instructed on how to do the strokes
+on dry land, and it's a good idea to have
+that instruction, but in the end you're not
+going to learn to swim without getting into
+the water.
+However, there is one usage that I want to
+cover here because it's not very obvious from
+the structure, and that is that it can be
+used as a command.
+If you've ever seen the Anpanman anime you
+will undoubtedly have noticed that when Baikinman,
+the villain, is bullying the children or doing
+something nasty and Anpanman appears, he says
+"Yameru n da, Baikinman!"
+Now, "yameru" means "stop", but on its own
+it's more likely to mean "I'm going to stop"
+or something like that – it's not an order
+directed to a third party.
+But "yameru n da" is.
+It means "You, stop" and as I say, that's
+not very guessable.
+Is there a logic to it?
+Yes, I think there is.
+And I think we can see the logic if we look
+at another construction which is when somebody
+says something like, "iku n da/iku no da"
+– "it's that we go", and that means something
+like, "Okay, let's go/Okay, time to go."
+"Iku n da".
+Now, when you direct it at another person
+in a commanding tone, what you're saying is,
+"It is that you stop/Okay, it's time to stop
+now/Okay, what's happening now is, you stop".
+And "Shukudai wo suru n da" – "It is that
+you do your homework."
+You can see this as the Japanese equivalent
+of saying in English "You're going to do your
+homework", meaning "I'm telling you to do
+your homework."
+"Shukudai wo suru n da" / "Yameru n da" – "You're going to do it/the fact is../it is that you're
+going to do it/I'm telling you to do it."
+So, I hope you won't have any difficulty with
+these endings from now on, except for gaining
+the experience necessary to understand all
+its nuances.
+If you have any questions about that or anything
+else, please ask them in the comments below.
+And remember that the course book for this
+course of lessons is "Unlocking Japanese".
+You can get it at Amazon in Kindle or paperback
+editions.
+Thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

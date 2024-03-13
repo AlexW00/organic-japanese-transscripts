@@ -1,0 +1,165 @@
+Konnichiwa.
+Today we're going to talk about kanji, how they fit together, how they work,
+and I think we're going to get a few insights that will be rather helpful.
+Some people sometimes worry that there are a number of words written in kanji
+that have exactly the same pronunciation.
+This is quite a common phenomenon in Japanese and I think this is a worry particular to beginners
+and to people who've done a lot of study but not very much actual immersion,
+so they have all these abstract words piled up
+and they're not aware of the fact that in actual use they're not a problem.
+When you're trying to memorize them off lists, they are a problem.
+And I've done a video about how we can actually use this phenomenon
+of Japanese homophones to our advantage.
+But only if we're actually doing immersion.
+Now, a phenomenon that people talk about much less frequently
+is what we might call the equal and opposite phenomenon
+that there are quite a lot of words in Japanese that are the same word
+and are pronounced the same but have different kanji.
+And we find this not just with obscure words but very common words.
+Words like "miru" (look) and "kiku" (hear) have one commonly known kanji and then
+two or three others that are used quite frequently for the same word.
+So, first of all, let's ask ourselves why this happens.
+Well, in these cases, it's nearly always going to be the kun-reading of the word,
+that's to say, the native Japanese reading.
+So what's happened is, not that the word's been taken in from China
+and given a reading approximate to its original Chinese reading,
+but it's a word that existed in Japanese before Chinese characters ever came to Japan
+and as in most cases a kanji is attached to the native Japanese word,
+but in some cases more than one kanji is attached to the same Japanese word.
+Why would that happen? Well, it happens because, as I explained before,
+words do not represent a single point on the meaning spectrum.
+They represent a range within the meaning spectrum.
+And that's why it's really quite rare to find a Japanese word that corresponds exactly
+to the supposed English translation word that the dictionaries give,
+because while they may overlap, and often overlap to a very large extent,
+very rarely do they cover exactly the same section of the meaning spectrum.
+Now, when more than one kanji is applied to the same word,
+usually what's happening is that the different shadings of the meaning spectrum
+are being expressed by the different kanji.
+This gives us a way in writing to stress particular nuances and aspects of the word.
+And this phenomenon can be separated into two types.
+There's a type like the "see" and "hear" kanji in which all the meanings overlap in the basic, central kanji,
+so we're really talking about the same word and then some nuances.
+And then there's the type where they don't actually overlap at all.
+An example of this is the word "atsui".
+There are three kanji for "atsui":
+one that means a hot thing, "hot" as in a "hot object";
+one that means "hot " as in "hot weather" or a "hot day";
+and one that actually means "thick" or "fat" or "kind".
+Now, these three don't overlap at all.
+It would actually be a mistake to use the hot-thing one when you're talking about hot weather
+or the thick-and-fat one when you're talking about a hot day.
+It would in fact be possible to argue that these are three different words with the same pronunciation.
+It would be one of those rather pointless arguments that you couldn't prove
+one way or the other and wouldn't really matter if you could.
+But the point is that you could theoretically make that argument
+that you have three different words pronounced "atsui".
+Now, the other and commoner kind is like, as I've said, the words for "see" or "hear",
+and we have this same phenomenon in quite a number of words,
+where there's one central, simple kanji, the one that children learn first in school,
+the one that you probably know if you don't know a lot of kanji, and then there are the other two.
+The one simple, central one can in most cases be used for all the meanings.
+The others are kind of optional when we want to stress a particular aspect.
+And we're going to take as our example case here what I call "the three wakarus".
+Some rather silly people liken them to an Australian circus act called "The Three Wakaroos"
+-- who did that?
+And they look like this.
+Now, each of them is a way of writing the word "wakaru",
+the basic meaning of which is "do clear" or "do understandable".
+You can't translate it directly into English, because in English you can't "do understandable",
+but in Japanese you can. It's a verb.
+It doesn't of course mean "understand", so the vandals who tell you that
+"hon-ga wakaru" means "I understand the book" are really setting dynamite
+under your understanding of Japanese and its particles.
+"Hon-ga wakaru" -- obviously, it's the book that's doing something
+and what it's doing is the act of understandability in relation to you.
+And this one, as is usual with these groups with one simple central kanji and other kanji,
+the basic kanji can be and is used for any of the whole range of meanings,
+but the other two are used for specific areas.
+So, the basic kanji is this one. As you see,
+it's made up of a sword, the simple kanji element for "sword", dividing something into two.
+Its fundamental meaning is "separate" or "divide".
+It's the word for "minute", because a minute is the basic division of time.
+And with that on-reading "fun", it's actually a Sound Sister,
+so if we see this "fun" element inside another, more complex kanji,
+we'll know that the on-reading of that kanji is probably going to be "fun" or "bun".
+Now, there are two variants on this. The first is this one.
+And if we look at it we can see that it's actually fundamentally,
+in terms of its symbolism, the same as the first one.
+We have the element that means a sword or a knife
+and the element that means halving or dividing in two.
+The on-reading of this element is "han"
+and we know this easily enough because the left-hand element is actually a Sound Sister,
+so anything with this in is likely to have the on-reading "han".
+The implication when we use this kanji for "wakaru" is the idea of judgment.
+And we can see this in the kanji itself as well.
+We have the long sword and the dividing in half.
+It's used in words like "handan", which means "judgment".
+So, where we're talking about "wakaru" in a way that implies judgment,
+such as "hannin-ga wakaru" (the criminal has become known / the criminal has been discerned/determined),
+this is the one we're going to use if we don't use the base one.
+We can use the base one, but if we want to stress this element of judgment,
+of having arrived at a conclusion from evidence, this is the one to use.
+Now, the other one is this one.
+And let's notice that the sword is in all three of them.
+In the upper right hand corner we have the sword again, but this one has the on-reading "kai"
+and we know it from words like "rikai", which means "understand".
+That's the word you have to use if you really want to say "understand",
+because "wakaru" doesn't mean understand, it means "do understandable".
+This kanji has the general meaning of unravelling or untangling.
+"Toku" is to "untangle" or "undo" something.
+And if you're fond of puzzles or puzzle games you're probably aware of the word "nazotoki",
+which means "puzzle-solving" : "nazo" (puzzle) and "toki" (solving, undoing, unravelling a mystery).
+Now, strictly speaking, this is the one we also want
+when we're saying that something is "doing understandable".
+When we say "nihongo-ga wakaru" (Japanese is understandable [to me]),
+if we had to choose one of the two specialized ones, this is the one we would have to use.
+If we wanted to make it absolutely clear that we meant "wakaru" in that sense, we would use this one.
+Otherwise, most of the time we usually use the regular old "wakaru" kanji
+that we all learned at the beginning.
+So what about the regular old one -- does that have any special implication?
+It's not really possible in the case of these kanji groups where there's one central one
+that can be used in place of any of the others and usually is,
+it's not possible to say that it has a specific meaning because it has all the meanings.
+But when you're differentiating, the base meaning of this one is the meaning which is essentially "do known".
+As you know, very often when we say "wakaranai", we mean "I don't know".
+When we say "naninani-ga wakaru", we're often asking "Is this known to you?"
+So to take an example where we can look at the distinct characteristics of each,
+suppose someone were to ask "What is the oldest turtle that has ever lived?" and you answer "Wakaranai".
+Now, in this case there can be a confusion over the exact meaning of "wakaranai".
+You could mean "I don't know how long a turtle has lived" or "I don't understand the question".
+If you could specifically say "wakaranai" with this kanji,
+it would be clear that you meant the latter -- "I don't understand the question".
+If you answered with this kanji "wakaranai", the implication is
+"that is not something on which I'm able to form a judgment."
+And if you answer with the base kanji, it would have that base meaning of the word:
+simply, "I don't know" -- "I don't know how long a turtle has lived."
+In practice, most of the time you're going to be using the base kanji,
+but if you're writing you can use one of the others for disambiguation.
+And if you're speaking, your tone and general manner is going to tell someone
+if you mean that you can't understand what they're talking about.
+Now, since the regular one is what's used most of the time,
+you might ask, why do we need to know the others?
+And the reason is that we will see them pretty often in immersion.
+They get used in writing quite a lot of the time.
+And in the first place, of course, you want to know what they mean,
+you want to know that we are seeing the word "wakaru" here,
+or the word "miru" or the word "kiku" or whatever other word it may be.
+And then, it's a good idea to know what they mean by using this particular variant of the word,
+which is being used for a good reason.
+They're trying to tell you something specific by choosing that particular kanji.
+So it may be a good idea for us to go into some more of these kanji groups in the future.
+If you're interested to hear that, please let me know in the Comments below.
+If you have other questions or comments, please put them in the Comments below
+and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, and my Red Kokeshi patrons,
+my Pink Kokeshi patrons and my Blue Kokeshi patrons,
+all the patrons and supporters who make these videos possible
+and help me to keep them free for all of you who can't afford to support me.
+And for those of you who can't, thank you for being here,
+thank you for subscribing to the channel,
+thank you for commenting, thank you for liking,
+thank you for doing all the things you're doing to keep this channel going.
+And you, sitting there right now, thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

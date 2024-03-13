@@ -1,0 +1,143 @@
+Konnichiwa.
+Today we're going to talk about learning Japanese in Japanese.
+Primarily, learning Japanese vocabulary with Japanese definitions instead of English definitions.
+Now, don't run away, because the way I teach it, you can do this even from quite an early stage
+with very little difficulty or worry.
+The reason a lot of people are afraid of this is because of the way it's usually put forward and recommended.
+Currently there are essentially two schools of thought.
+One that assumes that we're going to just be using English definitions for Japanese words forever
+-- and this becomes more and more inefficient as we go along.
+Those who don't take this view usually take an extreme version of the opposite view,
+which is that all of a sudden, one day, we make the so-called "monolingual shift"
+in which we suddenly, having defined everything in English, don't use English ever again.
+So if we see a word we don't know, we have to look it up in Japanese, and if the Japanese definition
+contains three more words that we don't know, we have to look all those up in Japanese,
+and those definitions may each contain some words that we don't know.
+And these so-called "dictionary dives" can end up involving fifty words or more.
+Now, if you want to do that, if that's the way your mind works, if you like that sort of thing,
+go ahead and do it and that's fine.
+My view of this is not only that it's very off-putting for a lot of people but
+it's also extremely time-consuming and that time would be much better spent in real immersion,
+actually consuming Japanese material.
+So, how do we go about it?
+And is it really true that we can do it from a very early stage?
+Yes, it is, and I'm going to teach you three basic tricks for doing it from an early stage
+and then we're going to look at some slightly more advanced techniques.
+Trick number one: Use a word you already know.
+Now, you may say, "Well, I'm a beginner, I don't know any words yet much."
+Even so, you can probably start doing this from pretty early on.
+For example, suppose you know the word "demo" meaning "but" and you encounter the word "kedo"
+or "keredo", also meaning "but".
+You can just put "keredo" on the front of your Anki card and on the back you put "demo".
+And there you are. You have your very first Japanese-to-Japanese definition.
+And let's remember that the way we use Anki, it's not there to teach us Japanese.
+It's there to pin words in place between encounters in real Japanese, that's to say, in our anime
+or whatever Japanese material we're consuming.
+So we don't need our definitions to be terribly detailed and precise.
+We need them to remind us what the words mean so that we don't lose track of them between real exposures.
+Trick number two is: Use an antonym.
+An antonym is a word that means the reverse of another word.
+The word for "antonym" in Japanese is "taigigo"
+and we should learn that word because we're going to use it in our Anki quite a lot.
+So, if we know the word "atsui" meaning "hot" and we are learning the word "samui" meaning "cold",
+our definition for "samui" can be "atsui no taigigo".
+We can also simply use "tai", which is a dictionary-style abbreviation often used
+in real Japanese dictionaries for Japanese people.
+So, we can say "samui" and the definition would just be "tai: atsui".
+And this is also useful because "tai" in this way is often used for things which aren't strictly antonyms
+but the corresponding somewhat opposite conception.
+So we can put things like "otou-san" -- "tai:  okaa-san".
+"Otou-san" is the opposite or the counterpart of "okaa-san".
+So, we'll find there are lots and lots of words where we can find true antonyms
+and if you're happy using these counterpart words with "tai", then you've got a lot more words
+that from a very early stage you can define in Japanese in your Anki.
+Now, the next trick, the third trick, is even easier than the other two,
+and that is: Use a katakana word.
+In many cases there is a word in common use in Japanese from English or perhaps
+another language that you know (but very often English) in katakana that means the same thing.
+Now, you already know that word from English, so you can use that in your definition.
+For example, "ureshii" means "happy" and the word "happii" in Japanese is very common,
+so you can put as your definition of "ureshii", "happii".
+On a slightly more advanced level, you might have the word "taishou", which means "symmetry",
+and you can put as the definition of that word "shinmetorii", which is a Japanese word
+-- and, no, this isn't cheating at all.
+The Sanseido Dictionary, which is a Japanese-to-Japanese dictionary for Japanese people,
+uses "shinmetorii" as one of the definitions of "taishou".
+It isn't cheating at all because it actually serves a very good purpose,
+because we can't just put any English word into katakana and call it a Japanese word.
+Some English words have been adopted as loan words into Japanese,
+so when we define a word that way we're killing two birds with one stone.
+We are giving ourselves a definition of the word we're learning and we're also
+teaching ourselves the fact that that katakana word is a real Japanese word available for use.
+Obviously, you mustn't make up katakana words of your own;
+you must only use ones that really exist in Japanese.
+So by these methods, we begin to get our feet into the water of Japanese definitions.
+We're starting to define some of our words in Japanese.
+When we want to start going further, what do we do for our next steps?
+Well, one of the best things to do at a slightly more advanced stage is:
+when we find a new word, look it up in the online Sanseido Dictionary.
+I'm going to give you the link below.
+There are several online Japanese dictionaries, but the Sanseido one gives very concise definitions
+and that's what we want.
+Firstly because we are going to be more likely to understand them when we're not super-advanced,
+and secondly because, as we said before, we are really only trying to pin words in place.
+We don't want half-page definitions of words in our Anki.
+Not even in English and certainly not in Japanese.
+So, you look up the definition in the Sanseido online dictionary and, if you can understand it,
+you put that into your Anki.
+If you can't understand it, can you cut it down to something you can understand?
+Can you rephrase it? Can you make a little definition of your own in Japanese?
+If you can, you can do that.
+And another thing you can do is use a sample sentence.
+There are lots of ways of getting sample sentences in both Japanese and English for words.
+Jisho, the Japanese-to-English dictionary, will give you sample sentences for most words,
+and then there are various Japanese services, like Weblio, and I'll give you links for some of those below.
+If you get a simple sentence from which you will know your word, you can put that on the back
+instead of an English definition.
+And if you're worried that you won't understand your sentences or definitions at a later stage,
+a very simple trick you can do is to create another field in your Anki
+but don't put it on the front or the back of the card,
+just leave it created, and you can enter into that the English definition.
+Now, if you do that, you won't see it on the front or the back of your Anki, but if you're stuck
+you can hit the Edit button on your Anki and then you'll see all the fields including your Emergency Help field.
+Now, another important tip that you may or may not want to use but that I have found extremely helpful
+is to use audio. To do this, you have to install an add-on called Awesome TTS on your Anki.
+Now, the thing to know here is that this currently does not work with the latest Anki.
+The latest Anki is Anki 2.1 and the last Anki that Awesome TTS works for is Anki 2.0.
+So, install Anki 2.0 (if you already have 2.1, uninstall it and install 2.0) and then get the Awesome TTS add-on.
+Once you have that, you can get your sample sentences or your definitions spoken in Japanese by a bot.
+Now, some people argue against this: they say the bots aren't quite natural.
+Well, they're a lot more natural than they used to be.
+Some of them are almost as natural as I am.
+I know that's not saying too much, but it's not bad.
+The important thing to remember though is that you won't be getting the majority
+of your Japanese audio from these bots.
+Most of the Japanese audio you ever hear if you're using our immersion methods,
+will be from your own audio immersion spoken by native Japanese speakers.
+A few bots are not going to destroy your Japanese.
+But they are going to help it.
+So don't worry too much about the fine-china, super-delicate Japanese school of thought.
+There are numerous advantages to audio.
+For example, if you're using katakana definitions, one of the mistakes beginners make is to pronounce
+katakana English loan words as if they were English words.
+The bots will pronounce them properly as katakana words,
+so you'll hear them each time the way they're really supposed to be pronounced.
+Another important point about audio is that if you're like me you can do your Anki primarily by audio.
+You'll look at the kanji on the front and then I don't look at a card again. I just listen to it.
+I hear the pronunciation, I hear the definition,
+and if I'm happy with that I move on without looking at the back of the card at all.
+Now, if you do it that way, you can if you want to put some notes or even
+an English definition on the back of the card.
+You won't be seeing it unless you're having a problem remembering.
+So these are all ways that you can start introducing Japanese-to-Japanese into your Anki
+and what you're going to find is that you get more and more Japanese as you go along.
+You don't have to do this macho thing of leaping into Japanese and never touching English again.
+You can do it in a measured, pragmatic way that doesn't waste vast amounts of time
+but does help you to transition from English definitions to Japanese definitions naturally, over time.
+If you have any questions or comments, please put them in the Comments below
+and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons and all my patrons and supporters on Patreon and everywhere.
+You'll see my Red Kokeshi patrons in the information section below along with those vital links.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

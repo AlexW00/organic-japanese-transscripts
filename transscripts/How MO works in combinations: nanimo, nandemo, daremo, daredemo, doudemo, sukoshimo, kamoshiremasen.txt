@@ -1,0 +1,98 @@
+Hello, pretty peoples.
+KawaJapa no Kyua Dorii desu.
+Today we're going to talk about daremo, nanimo, daredemo, nandemo and, in general, about 
+these combined uses of "mo".
+And this is important not only because it's
+useful in itself but because it's going to
+show us how these kind of combined "mo" expressions work, and that's useful because there are
+quite a lot of them, and the textbooks tend to explain each one as if it were 
+a separate learning job.
+But if we can understand the underlying principles
+we're going to find it a lot easier to learn them all.
+So, let's start with "daremo" / "nanimo".
+Now, we combine these with a negative, like "nai", to mean "nobody" or "nothing".
+So, "daremo inai" – "there's nobody there";
+"nanimo nai" – "there's nothing".
+Now, that's easy enough, but let's just stop to see what's going on here.
+What's that "mo" doing?
+Now, as we explained in the lesson on "mo", "mo" is the additive particle, the including particle, 
+and it can also be used to mean "as much as".
+In, for example, expressions like "ichi jikan mo matta" – "I waited for as much as an hour."
+Now, the thing I'd like us to note here is that "as much as" in English can also be said as "even".
+Think about how we use "even": "It was six feet, or even seven feet" – that means it
+was six feet or as much as seven feet.
+"She didn't even smile" – she didn't as
+much as smile.
+The two expressions are pretty much equivalent in most cases.
+The same is true in Japanese.
+So "mo", which means "as much as", can also mean "even".
+So, we look at "daremo" and "nanimo".
+The "dare" here is like "dareka" – "someone" and the "nani" is like "nanika" – "something".
+So, when we say "daremo inai", we're saying "not even someone" (no one); 
+"nanimo nai" – "not even something" (nothing).
+All right, now that's simple enough.
+So what about "daredemo" / "nandemo"?
+People are sometimes confused because this seems to mean the opposite, and that's mainly
+because we don't add a negative to it.
+But also, let's look at the "demo" which we 
+have instead of "mo".
+What is that doing?
+Well, we understand the "mo", but what about the "de"?
+The "de" here is not the particle de; it is the te-form of "da" or "desu": the copula.
+And what does the copula do?
+As we learned in the lesson on the copula, 
+it is the coupler – "copula" means "coupler"
+– and it couples together two nouns.
+So what are the nouns here?
+Well, this "de" gathers together the whole sentence that comes before it rather like
+the nominalizing "no".
+So we treat that all as a unit for now, and it's coupling together with another, zero-noun
+which we can just call "it".
+So, "daremo" doesn't mean "everyone" (that's "minna"), it means "anyone".
+So if we say "daremo dekiru" – "anyone can do it" – what we're saying is 
+"even if it's anyone, they can do it".
+The "even" is that "mo", the "it is" is given to us by the "de".
+"Even if it is anyone, they can do it."
+Or look at an expression like "nandemo ii".
+That means "even if it's anything, it's good", "even if it's anything, it's ok".
+And this is often used in quite a dismissive way: "nandemo ii" – "even if it's anything,
+it's good", in other words "I don't care / doesn't matter to me" / "whatever".
+Similarly, "dou demo ii" – "dou" is "how / in what way" – "doesn't matter, however
+/doesn't matter, any way's ok".
+It can be quite dismissive.
+What we're literally saying is "even if it's any way, it's ok".
+So we may notice that "demo" itself, which means "but", works in the same way.
+We gather together the sentence before it and then we say "even if that, this",
+ "as much as that, this".
+For example, "She's pretty, but she's not very clever."
+Now, as I say, we're going to encounter this sort of thing in various circumstances.
+For example, when I was doing upper beginner/lower intermediate Japanese, I read about this phrase
+called "kamoshiremasen", which is quite a mouthful, 
+and we're told it means "perhaps / maybe".
+And of course it does.
+But the way the textbooks teach it, it's just a random set of syllables to memorize and
+try to remember that they mean "perhaps".
+But in fact there is a logic to it, which I didn't realize until much later, but I should
+have been taught right at the beginning.
+"Ka-mo-shire-nai" – "ka-mo-shire-masen".
+What's this?
+"Ka", the question marker, is making a question of the whole of what came before, 
+so "the question of that / whether that's the case or not / the question of that" "mo shiremasen".
+"Shiremasen", as we should know, is the potential form of "shiru", to know, 
+so it means "can't know".
+"Shiremasen / shirenai " – "can't know".
+So we have "ka", we have "shiremasen" and in between them we have "mo", which means "as much as".
+So, "as to that whole question", "ka" bundles the whole thing into a question, 
+"mo", "as much as / even", "shiremasen", "can't know":
+"As to whether that is true or not, that question,
+I can guess, I can suggest, but it's a maybe, it's a perhaps, can't go as far as to know."
+So we see that "kamoshiremasen" is not a random set of syllables.
+It's made up of three elements that we know already and that make perfect sense when we
+understand how they work.
+Please remember that the course book for this course of lessons is "Unlocking Japanese".
+You can get it at Amazon in Kindle or paperback editions.
+If you have any questions or comments, please put them in the comments below 
+and I will answer.
+Thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

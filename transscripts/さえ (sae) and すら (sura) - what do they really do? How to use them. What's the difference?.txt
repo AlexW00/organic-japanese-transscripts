@@ -1,0 +1,201 @@
+Konnichiwa. Today we're going to talk 
+about two words: "sae" and "sura".
+Now, I'm going to concentrate mainly on "sae"  
+because we'll find that "sura" is really 
+a variant of "sae" that can be used under 
+certain circumstances.
+What is this word?  It's a particle that 
+marks something that is either 
+high or low compared to expectations or 
+what might be considered normative and
+therefore is slightly out of the ordinary, a little 
+bit surprising, sometimes very surprising.
+It can be attached to any noun, pronoun, or 
+noun-like entity and also to the te-form of verbs.
+And the noun-like entity can have "de", which 
+is the te-form of the copula, after it 
+and that emphasizes it more: 
+"nani-nani-de-sae". And it can
+also have -mo after it: "-de-sae-mo" 
+-- which emphasizes it even more.  
+There's no actual difference in meaning for 
+these variants. They're just stages of emphasis.
+All right, so let's get past the abstract stuff 
+and see how it really works in practice.
+"Sensei-de-sae sono mondai-wa tokenakatta",  
+which in English we would translate as "Even 
+the teacher could not solve the problem". 
+So that corresponds pretty much directly   
+to English "even", which is one of the 
+dictionary definitions it gets, but we'll see 
+that it does various other things too.
+So we should notice here that the -sae or 
+-de-sae knocks out other particles.
+Really we're saying "Sensei-wa sono 
+mondai-wa [zero-ga] tokenakatta".
+So we could say that there's a zero-wa 
+in here.
+This means that it's often used for a  
+strong expression. So we might say 
+"kodomo-de-sae-mo sonna koto-wa dekiru" 
+(even a child can do such a thing)  
+and that might be directed at someone who
+can't do it: "Even a child can do that!"
+Now, "sura", interestingly, is both more literary,  
+more used in written constructions,
+but also, especially in spoken 
+constructions,  more emphatic.
+So if we said "Saru-de-sura sonna 
+koto-wa dekiru"
+(even a monkey can do such a thing), and 
+we're using -sura to make it even stronger:
+"You can't do a thing like that? Even a 
+monkey can do a thing like that!" 
+Now, these examples really work with 
+a lower baseline. 
+They're saying the basic, most simple, 
+fundamental, minimal expectation  
+would be that at least the teacher could  
+solve the problem, if nobody else could,
+or we're saying even a monkey, even a  
+child, someone you'd barely expect to 
+be able to do it, could do it. But it can 
+work both ways round.
+So, for example, "ano robotto-wa utau 
+koto-sae dekimasu" (that robot can even sing). 
+So now we're looking at an upper baseline. 
+And it's still a surprising thing.
+You wouldn't expect a robot to be able to
+sing. Tra-la-la!  But some of us can.  
+And we notice here that -sae is marking 
+not the robot but "utau koto"  
+(the thing of singing). That's the thing  
+that's unexpected. 
+That's the thing that exceeds the baseline.
+If we marked "robotto" with -sae, "ano 
+robotto-sae utau koto-ga dekimasu"
+and then we're saying "Even that robot can 
+sing", which might have the implication  
+"You can't sing, but even that robot 
+can sing".
+So notice that it's important to consider 
+which element the -sae is marking.
+Now, in any of these cases -sura could 
+be used to replace -sae,
+but -sae is often used in the conditional 
+form,
+and it's important to understand that here 
+-sura cannot be exchanged for -sae.
+So with conditional sentences it has to 
+be -sae. 
+And with conditional sentences the 
+meaning changes slightly.
+It's still basically the same meaning, but 
+it tends to mean a minimum baseline.
+So, let's look at some typical sentences 
+here: 
+"kimi-sae ireba hoka-ni-wa nani-mo 
+iranai."  
+And this would be translated into 
+English as 
+"As long as I have you, I don't need 
+anything else".
+And this indicates the way that -sae can 
+form expression strategies that are 
+different from ones used in English, 
+because what is actually being said here
+is "If only you exist, if (baseline minimum) 
+you exist, nothing else is needed".
+So, for another expression strategy that 
+probably differs rather from English: 
+"sensou-sae nakattara konna-ni bukka-ga  
+agaru no-de-wa nakatta darou"
+(Had it not been for the war,  the prices  
+wouldn't have risen like that). 
+But what we're actually saying in Japanese 
+is "Baseline minimum,  
+if the war hadn't happened, the prices 
+wouldn't have risen like this".
+The -sae, what the -sae is doing, is saying
+that the only factor, just as 
+"kimi-sae ireba...", (the only factor is having 
+you, then everything else is okay for me),  
+here, the only factor is that the war 
+happened. If the war hadn't 
+happened, nothing else would have 
+made the prices rise.
+And again, both of these are unexpected 
+in the sense that we would expect 
+a number of factors to be active. We 
+would expect people to need 
+a number of things, not just one person, 
+but also food and housing and all kinds 
+of other things. They probably actually
+do, so it's a bit of an exaggeration. 
+Similarly, one would expect the rise in 
+prices to have a variety of causes,
+but what we're saying here is it only had 
+one cause, and that's the war.
+So we take another expression: "hon-sae 
+yonde ireba gohan-wo taberu koto-mo wasurechau."
+"I even forget my meals in reading" 
+might be an English way of putting it,  
+but what it's actually saying is "If only 
+I'm reading (that one factor is present)  
+I even forget my meals". And another
+example which really falls even
+further from any English equivalent is 
+"kare-wa hima-sae areba sakanatsuri da"  
+(Whenever he has a spare moment / 
+whenever he has time, he goes fishing). 
+But what this is actually saying is "If only 
+free time exists, then he goes fishing".
+And so the expression strategy is very 
+different from English, 
+but what we're saying here is, 
+the only thing that has to happen is for 
+spare time to exist and he's off fishing. 
+And to take one more non-conditional 
+example:
+"Usagi-de-sae konna-ni hayaku
+sugata-wo kesenakatta"  
+which in English would be "Rabbits could 
+not have disappeared more quickly".  
+So, rabbits marked as a limit of  
+expectation, and this is like an upper 
+limit of expectation, in the way that 
+monkeys being able to do something 
+was a lower limit of expectation. 
+"..konna-ni hayaku sugata-wo kesenakatta"
+"Sugata-wo kesu" means literally "cause 
+one's form or appearance to vanish" 
+and it's a common expression for 
+disappearing, making oneself unfindable.   
+So the rabbit's marked as an upper limit, 
+an example of something that can   
+disappear very fast: even they couldn't 
+disappear their appearance 
+as quickly as those people did. 
+If you have any questions or comments, 
+please put them in the Comments below 
+and I will answer as usual. 
+I'd like to thank my Gold Kokeshi patrons, 
+my producer-angels, who make these   
+videos possible, and all my patrons and 
+supporters on Patreon and everywhere, 
+and all of you who watch my videos 
+and like them and comment,
+and especially you for attending this 
+lesson.
+Thank you for supporting this channel 
+and for helping us to look into 
+both the big structures of Japanese 
+and the little words like this that,
+even though they are little, are often hard
+to understand when all you get is the word
+and then a number of English equivalents, 
+and you're left to work out for yourself 
+what's going on, which isn't really very 
+easy a lot of the time.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

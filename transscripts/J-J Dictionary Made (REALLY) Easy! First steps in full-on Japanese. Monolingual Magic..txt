@@ -1,0 +1,215 @@
+Konnichiwa.
+Today we're going to talk about getting rid of the training wheels.
+Being able to jump right into real Japanese, looking up Japanese words in a Japanese dictionary.
+And we're going to find it's much easier and less daunting than it seemed.
+And we don't have to make this so-called "monolingual transition". It isn't necessary.
+We can use English definitions where we need them.
+We can use other means of defining words.
+But as we gradually make a sensible, pragmatic shift toward Japanese-Japanese definitions,
+being able to use a Japanese-to-Japanese dictionary is an important tool to have in our toolbox.
+So, let's jump straight in.
+The dictionary I recommend is the online Sanseido dictionary.
+Now, this is a particularly simple dictionary to use,
+which is not my main reason for recommending it but it's a useful side-benefit.
+The main reason for recommending it is precisely that it's simple and concise.
+And as you know, with the Organic approach, we're not learning words from Anki or dictionaries.
+We're learning words from our immersion in the Japanese language.
+Dictionaries are just there to introduce us to words, to give us a start.
+Anki is just there for pinning them in place between real encounters.
+Where we actually learn words is through immersion,
+which is the only way you actually get to know the weight and color and implications of a word.
+So we want our dictionary not to be three-paragraph, complex explanations.
+We want it to give us a simple, straightforward definition, a hook for understanding the word.
+That's all we need. So a simple dictionary is exactly what we want.
+Now, let's take a look at that simple dictionary.
+Here it is.
+Now, it's very straightforward. Here's the box where you type your word that you want defined.
+And then once you done that and you've got the definition, the only part that matters
+is this part here, below and to the right of the box you typed into.
+The rest of it isn't important.
+This is the definition right here.
+And as you see, it divides into two parts.
+Above the line is the word, first of all in kana and then in kanji.
+Below the line is the definition line
+and it's a nice one-line definition.
+This is what we're usually going to find.
+Occasionally where there's more than one definition,
+we may see two or three numbered definitions going downward.
+But this is the basic definition,
+and as you see, it divides into three parts.
+First of all we have something in between angle brackets
+and I'll explain that in a moment.
+Then we have the definition itself followed by a period.
+And then we have another section afterwards with some more information,
+and we'll come back to that in a minute.
+So, the first thing we're going to look at is
+this thing between angle brackets.
+What this is is something that tells us what type of word we're dealing with.
+There are only a few of these symbols, and I'm going to go through the main ones here.
+The first one is "go", "five" in Japanese, and that simply means that it's a godan verb.
+Next we may have either the "ue" or the "shita" kanji ("up" or "down")
+and either of these means that it's an ichidan verb.
+Now, there is a reason why it might be either "ue" or "shita", but it's so unimportant that
+I'm going to put it in a pinned comment in the Comments section below.
+And you can read it or not depending on whether you're curious as to why that is.
+All you need to actually know is that an "up" or "down" kanji means that it's an ichidan verb.
+Next we have the kanji which you may know as "katachi", which means shape or form,
+and this is in fact an abbreviation of the word "keiyoushi", which means adjective.
+So,  "shape or form" means an adjective,
+something that tells us the shape or form or color or whatever of a noun.
+Now, after this we have the three super-nouns.
+As you know, all the words that came into Japanese from Chinese hundreds of years ago
+came in as nouns and remain nouns to this day.
+So if you want to use them for anything else, we have to do something to them,
+which means that there are three fundamental types of super-noun that can do more than
+just being a noun even though they are still, in fact, nouns.
+Now, if you don't know what I mean, I've made a video on this and I would recommend that you watch it.
+This video tells you about the three fundamental super- or extended-nouns.
+Each of these three super-nouns has its own symbol.
+So, the first of these is a katakana "da", and what that means is that it's an adjectival  noun.
+Why do we use "da" to mean an adjectival noun?
+After all, most nouns can in fact take the copula "da" under some circumstances.
+The reason is that an adjectival noun, provided it's working adjectivally,
+can only take "da" -- can't take anything else.
+It can't have a logical particle like -ga or -wo or -ni attached to it.
+It can't have a non-logical particle like -wa or -mo attached to it.
+It can't stand on its own.
+It can't do anything except have "da" attached to it.
+Now, "da" may be in its simple form or it may be in its connective form, "na".
+So, if it's the ending of a sentence, we say "onnanoko-wa kirei da".
+If it's working pre-adjectivally, we say "kirei-na onnanoko",
+but however we use it it's always got to have that "da" or "na" attached to it.
+Occasionally it'll be a fancier form of "da" like "desu" or "de aru", but it can never work without the copula.
+And that's why the simplest form of the copula, "da", is the symbol for an adjectival noun.
+The next symbol is "suru", again written in katakana, and that obviously designates a suru-noun,
+a noun that can be used verbally if we add "suru" to it.
+Sometimes the English dictionaries call this a "suru verb", but it's a noun.
+It only becomes a verb when "suru" is actually attached to it.
+Then we have the kanji here, which is "fuku" and that is short for "fukushi",
+which means an adverb, and this means a noun or other word
+-- there are a few adverbs that aren't nouns, not many, most of them are nouns --
+but it's a word that tells us more about a verb, as the English term suggests, or an adjective.
+So a "fukushi" (an adverb) can modify either a verb or an adjective.
+And in my video about super-nouns, I talked about these as "foxy" nouns,
+because "foxy" was a rather silly pun for "fukushi".
+Finally, we have the kanji which you will know from "namae" (name),
+and the on-reading here is "mei" and this is an abbreviation of "meishi",
+"mei" being an on-reading of "na".
+"Meishi" is "a noun".
+Now, for most regular nouns you won't actually see this symbol.
+Probably because nouns are the most basic and most numerous category of word in Japanese,
+a regular noun mostly doesn't get any symbol.
+So why do we have this one?
+Most of the time when we see it, it's going to be in addition to one of the other super-nouns,
+so it's going to be telling us that the noun can function either
+as that kind of super-noun or as a regular noun.
+Don't worry if this seems a little confusing. We'll go into some examples.
+So first of all, let's go back to our original example, which is "souji",
+and let's look again at that definition line.
+First of all, we have "suru" in angle brackets.
+That's telling us that "souji" is a suru-noun.
+It means cleaning, the sort of cleaning we do when we clean a house or clean the classroom or something,
+and a lot of the time it's going to be used with "suru": "souji suru" (to clean).
+So that shows us how the type-marker is working.
+It's quite simple, isn't it?
+Then we have the definition.
+The definition is "yogore-wo nozoite kirei-ni suru koto".
+"Yogore" is "dirt"; "nozoku", "remove, get rid of".
+So it's "get rid of dirt and make 'kirei'" --
+"kirei" in the sense of clean rather than pretty, although perhaps pretty too.
+The important thing to notice here is that last word, "koto".
+We're going to see "koto" on the end of a lot of definitions.
+And if you've followed what I've been saying about the noun-centered nature of Japanese,
+I think you'll find it easy to understand why.
+The definition tells us what you do when you do "souji" -- "yogore-wo nozoite kirei-ni suru".
+But "souji" is not a verb, it's a noun.
+So it's "the thing" of getting rid of dirt and making everything clean.
+"Koto" indicates the noun-form of doing all that.
+And because the word is in fact a noun until you add "suru" to it,
+that's the way the dictionary has to define it.
+So you'll see this "koto" at the end of a lot of suru-nouns.
+And with adjectival nouns and adverbial nouns, you'll often see things like "sama" and "yousu",
+meaning the situation, the circumstance, the condition of whatever's being described.
+Again, putting the thing into its noun-form, because adverbial nouns and adjectival nouns are still nouns.
+So the dictionary describes them in such a way as to indicate the noun-form of what we're talking about.
+Now let's look at what's on the other side of the definition itself.
+There are usually only three things that it's going to be on this side --
+not usually all of them, mostly only one of them.
+We're going to have an inverted black triangle, as we have here,
+or we're going to have one of two words in brackets.
+Here we have two of those things, so let's take a look at them.
+The inverted triangle is used some of the time to give us a short phrase or a compound word
+in which the word we're defining is commonly used.
+So, the wavy line after that triangle stands for the word itself, "souji",
+and the next kanji is "ki" meaning a machine. So what we have here is "soujiki",
+and it's just telling us that the word "souji" is often used as part of the word "soujiki",
+which is a vacuum cleaner or other cleaning machine.
+These days it'll very often be "robotto soujiki", a robotic cleaning machine.
+We can keep this in our Anki (or not, as we prefer) if we find it useful.
+The next part in brackets is "rui" and this means the type or general family of words to which it belongs.
+It's the "rui" of "shurui", which means a type or species.
+And the "rui" here is "seisou", which means cleaning or tidying,
+so it's just telling us the general family and type of words to which "souji" belongs.
+We may keep that in our Anki (or not, as we prefer) if we find it useful
+or if we want to have that word there as a secondary word that we're starting to get used to,
+we can keep it in. Otherwise, just ignore it.
+Right, so now let's look at a different word.
+This word is "kouun", which means good luck.
+As we see at the top, we have "kouun" in kana,
+and this word has two possible kanji spellings, so it gives both of them.
+If you're adding it to your Anki, it would be best to add
+simply the one that you actually encountered in your immersion.
+We can deal with the other one later,
+but if you want to put it on the back of your card as a note, you can.
+But on the front of your card you should have the word you actually encountered in immersion.
+Now, between the angle brackets we see that "mei" and "da" are both being used.
+So this is what I was talking about before.
+"Kouun" can be used as an adjectival noun or it can be just used as a straightforward noun.
+We can say "kouun-na koto ni", which in English would probably be translated as
+"by a lucky circumstance" or "luckily".
+Or it can be used as a straightforward noun: "I had good luck today."
+And this is when we're going to see the "mei" designator mostly --
+when it's telling us that a noun is not only a regular noun but also a super-noun.
+When it's only a regular noun, it tends not to indicate it.
+It just leaves us to understand that because it's very straightforward.
+And we have the definition here: "un-ga yoi koto".
+"Yoi" of course is "ii", so it's saying "un-ga ii".
+"Un-ga yoi (luck is good) koto"
+Because "kouun" doesn't mean luck is good, it means the thing of luck being good. It's a noun.
+And following that, we have something else in brackets.
+This is the other kanji that we can have in brackets
+and it's the more important one of the two.
+This is a very, very useful one.
+It's pronounced "tai" and it's short for "taigi" and it means "opposite".
+So the opposite of "kouun" is "fuun" (bad luck or no luck) or "hiun" (bad luck, misfortune).
+So it's giving us two opposites to "kouun" and sometimes this is very useful.
+For example, if we already know one of the opposites it can be better than the definition.
+For example, if we were using the word "atsui" and it says "tai: samui", that's all we need.
+If we already know that "samui" means cold, then "tai: samui" is a perfect definition of "atsui".
+The opposite of cold is hot.
+It's also useful for helping us to learn the opposite of a word.
+We may not want to actually put the opposite in our Anki,
+but if we don't know it already, knowing what the opposite of a word is is very useful.
+So this "tai" is something to pay close attention to.
+It's also used in cases where it's not strictly an opposite.
+For example, "haha" meaning mother has "tai: chichi" meaning father.
+Now, a mother isn't the opposite of a father, but she's the kind of other-side counterpart.
+And "tai" can be used in that sense as well.
+Very, very useful for clarifying and defining words.
+So in a short lesson I think we now have a very clear idea of how to use the dictionary,
+what the main parts of the definition are and how they work and what they tell us.
+The most important thing is that it's all very simple and straightforward. There's not a lot to this.
+Once you understand the word types, the three parts of the definition and how they work,
+you can use the dictionary.
+And all you really need is the word type and the definition.
+Those little bits that come after the definition can be useful, particularly the "tai" part can be very useful,
+but on the whole you don't have to take any notice of those unless you want to.
+Now you're armed to use a Japanese dictionary in the wild.
+Good luck and good hunting.
+And if you have any questions or comments about this,
+please put them in the Comments below and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, my producer-angels, who make all this possible,
+and all my patrons and supporters on Patreon and everywhere.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

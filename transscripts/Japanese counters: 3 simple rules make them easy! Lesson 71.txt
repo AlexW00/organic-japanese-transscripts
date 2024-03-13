@@ -1,0 +1,209 @@
+Konnichiwa.
+Today we're going to talk about counters in Japanese.
+Now, as we all know, the textbooks like to present
+Japanese as a kind of mysterious language
+full of completely random and irrational rules
+and items that we just have to learn
+because there's no particular reason for them.
+And, as you all know if you've been following my video lessons,
+most of the time this isn't true.
+Most of what goes on in Japanese is completely reasonable and logical
+if you just know how it works,
+which the people who write textbooks
+don't appear to.
+However, counters might seem like an exception to this rule.
+There are a lot of them. An awful lot of counters.
+In Japanese you can't just say "one dog" or "two flowers"
+or "three birds". You have to use a counter.
+So we say "ippiki-no inu" -- "one dog" -- and the counter here is "hiki",
+which gets pronounced "piki" in this particular instance.
+For "three birds" we say "san wa-no tori", and the "wa" is a counter.
+So it looks as if we have to learn an awful lot of counters, doesn't it,
+just to say what in English you can say by the number and the thing.
+And there really are a lot of counters -- dozens and dozens of them.
+So this looks like a problem, doesn't it?
+But it's not, in fact, nearly as much of a problem as it appears to be.
+First of all, although there are an awful lot of counters,
+only about a dozen of them are really commonly used.
+Secondly, most of the time we can avoid them by using
+the native Japanese counting system, which doesn't require counters.
+So if we use the "hitotsu, futatsu, mittsu, yottsu, itsutsu" counting system,
+we don't need any counters.
+We can use them for nearly everything --
+not people, not small animals, but practically everything else
+we can use the Japanese counting system if we want to.
+So the important thing here, as I'm sure you won't be surprised to hear me say,
+is that what we're not going to do is start learning lists of counters.
+That, if you'll excuse the expression, would simply be counterproductive.
+And there are several reasons why we don't need to.
+First of all, in terms of understanding Japanese,
+they don't present many problems at all.
+If we hear someone saying a number and a thing we know,
+if there's a little word in between the two, we know it's a counter.
+So we know what they've said.
+If they say "ichi rin-no hana", we know they're saying "one flower".
+"ichi... hana", and the "rin" must be the counter.
+If we hear someone saying "ni wa-no tori", we know that they're saying "two birds":
+"ni... tori", and the "wa" is the counter.
+If we hear someone saying "san biki-no neko"
+-- now, even if we knew "hiki", but we didn't know that at three it becomes "biki",
+that's not a problem because we know "san", we know "neko",
+and we know that things that come between numbers and their object are going to be counters.
+Should we put them into our Anki?
+Yes, we should. We'll get to know them over time.
+But we don't have to fret about learning them.
+And as I've indicated, the counters aren't pronounced the same way all the time,
+and that's much less of a problem than it appears to be if we understand how it works.
+And I'm going to talk about that towards the end, but it's not really terribly important.
+It's actually much more important to understand how they work structurally.
+There are two ways of using counters,
+and it's the second of those ways that I think often confuses foreigners.
+The first way, actually, is quite similar to English.
+So when we use "hiki" for animals or "mai" for sheets of paper, shall we say,
+it's not that dissimilar to saying "five head of cattle" or "a dozen sheets of paper" in English.
+Not quite the same thing, but it's very similar.
+The usage that confuses people is when we say things like "neko-ga go hiki imasu".
+And that would be translated as "There are five cats", and that is how we'd say it in English.
+In Japanese we're saying something a little
+different.
+And to understand the structure, we need to understand that.
+So, first of all, what kind of a word is a counter?
+What part of speech does it represent?
+Well, it's not a verb and it's not an adjective.
+It's not a particle and it's not a conjunction.
+So, nine times out of ten, what is a word if it's not a verb or an adjective
+or a particle or a conjunction? What is it? It's a noun!
+Nearly always it's a noun, and that is true of counters.
+Counters are nouns. That's why we use -no after them.
+We say "ichi rin-no hana", "san biki-no neko", just as we would with any other noun:
+"mahou-no tsue" -- "magic wand"; "san biki-no neko" -- "three cats".
+But when we say "neko-ga san biki iru" -- "there are three cats" in English -- what are we actually saying?
+Well, the thing to understand here is that counters aren't ordinary nouns.
+They are what I called in my video about special noun types,
+they're what I called "foxy nouns", that is to say, adverbial nouns.
+They are nouns that have the special property of being able to modify verbs.
+And that's what's happening here.
+When we say "neko-ga san biki imasu",
+we're actually saying "cats, three-small-animals-ly exist".
+Now, that's very difficult in English, isn't it?
+We could make it sound a little bit simpler by saying
+"cats three-ly exist" or "cats exist threefold-ly",
+but in fact because of the counter system we're saying "cats exist three-small-animals-ly".
+We're describing the way they exist.
+They exist in a three-small-animals way.
+If there were four of them, they'd be existing in a four-small-animals way.
+And that's why sentences like that have to end in a verb.
+The verb modified by a counter is often, as in this case, the verb of being,
+but it doesn't have to be. For example, we might say
+"shashin-wo san mai totta" -- "I took photographs three-flat-things-ly".
+And while that's very different from the way we put it in English,
+it's useful and important for the structure to understand that
+that is in fact what's happening in the Japanese.
+Now, what about learning the counters and learning the sound-changes of the counters,
+which really tend to worry people.
+Now, as I said, we don't need to learn lists of counters.
+We'll pick up counters as we go along in our Japanese immersion.
+When we encounter a new counter in our reading or our Japanese-subtitled anime,
+we can put it into our Anki and we'll gradually build up our stock of counters.
+The counters that are commonly used are not that huge in number.
+We have "mai" for flat things like sheets of paper or coins.
+We have "hon" for long round things, "satsu" for books.
+That might seem strange because why do we have "satsu" for books
+and "hon" for long round things, when "hon" actually means "book"?
+Well, that's because when the word "hon" first came into being and meant, among other things, a book,
+at that time books were long round things. They were scrolls.
+So a book was counted in the way that other long round things were counted.
+But later on, when books became flat things with pages, the counter was changed to "satsu".
+So, we probably need a dozen or so counters for everyday use
+and we'll pick those up reasonably quickly.
+But what about all the sound changes?
+Let's take "hiki", which is the counter for small animals.
+We say "ippiki-no neko" -- one cat, "ni hiki-no neko" -- two cats; "san biki-no neko" -- three cats;
+"yon hiki-no neko" -- four cats; "go hiki-no neko" -- five cats; "roppiki-no neko" -- six cats;
+"nana hiki-no neko" -- seven cats; "happiki-no neko -- eight cats;
+"kyuu hiki-no neko" -- nine cats; "juppiki-no neko" -- ten cats.
+And then other counters have other variations.
+So it starts to seem very, very complicated,
+but as a matter of fact there aren't that many variations,
+and they follow a very simple pattern.
+First of all, if the first kana of a counter can't take a ten-ten,
+then there aren't going to be any variations at all.
+That deals with over half the problem straight away.
+So, if we have the counters like "mai", counter for flat things like coins or pieces of paper.
+Can you put a ten-ten on "mai"? No, you can't.
+You can't put a ten-ten on any of the ma-mi-mu-me-mo column,
+and therefore there can't be any variant on "mai":
+"ichi mai, ni mai, san mai, go mai, yon mai" and so on.
+"Rin", the counter for flowers and wheels --
+Can you put a ten-ten on "ri"? No, you can't.
+You can't put a ten-ten on any of the ra-ri-ru-re-ro column, can you?
+So we know that "rin" can't have any exceptions:
+"ichi rin, ni rin, san rin, yon rin" etc.
+Or how about "wa", the counter for birds?
+Can you put a ten-ten on "wa"? No, you can't.
+So again that has to be completely regular:
+"ichi wa, ni wa, san wa, yon wa..."
+So now we've disposed of an awful lot of counters, haven't we?
+All of those are just straightforward and regular.
+What about the others?
+Well, which are the kana onto which you can put a ten-ten?
+It's the ta column, the sa column, the ka column and of course the ha column,
+which can have a ten-ten to become ba-bi-bu-be-bo
+or a maru to become pa-pi-pu-pe-po.
+What do we know about these? Well, first of all,
+we know that in the first and last numbers of the sequence
+all of them work differently from the non-ten-tenable kana
+and they all work the same as each other.
+So if we take "kai", the counter for floors in a building,
+we don't say "ichi kai" -- we say "ikkai".
+If we take "sai", the counter for years of
+age,
+we don't say "ichi sai" -- we say "issai".
+If we take "hiki", which we've been dealing with before,
+we don't say "ichi hiki" -- we say "ippiki". So that works the same.
+And with ten, at the other end of the basic scale,
+we don't say "juu sai" -- we say "jussai".
+We say "jukkai", tenth floor; "juppiki-no neko", ten cats.
+Now, the "ka" and "ha" rows, we tend
+to do the same thing with "roku" and "hachi" as well.
+So we say "roppiki; happiki; rokkai; hakkai".
+And when we know that we pretty much know all of it.
+Sometimes a ten-ten goes onto the counter on "san" as well.
+So we say "san biki" and we say "sangai".
+But this isn't completely regular. Not everybody says "sangai".
+And a lot of the variations aren't completely regular.
+The ones I've just told you are pretty regular.
+The other odd ones don't tend to be very regular.
+So, if you understand that, it sounds a bit complicated.
+I wouldn't spend too much time trying to learn what I've just said, but bear it in mind,
+because it'll just make it a little easier to pick this up when you see it.
+"Ippiki, ni hiki, san biki" -- which is a tendency that "san" has, of course only with ten-tenable kana --
+"go hiki" -- that's always going to be the same -- "roppiki"
+"nana hiki"-- that's always the same with everything -- "happiki, kyuu hiki, juppiki".
+Perhaps even at this stage that's starting to make sense.
+It's conforming to a regular pattern. They aren't all over the place.
+There are a few exceptions and nearly all the things that are genuinely exceptional
+from the pattern I've taught you tend to be optional.
+Not all Japanese speakers are going to use them all the time anyway.
+They will say "ippiki"; they won't say "ichi hiki";
+they will say "roppiki"; they won't say "roku hiki".
+If you get it wrong and say "roku hiki", it's really not the end of the world.
+Everyone's going to know what you mean.
+It'll just sound a little bit cute and foreign.
+And you will pick it up over time, because this is the sort of thing
+you hear again and again, and it just becomes natural.
+And because the patterns are almost regular across the range of ten-ten kana,
+you start to know what sounds right, so that without a lot of intensive learning effort
+you'll be saying it right nine times out of ten after a reasonable amount of exposure.
+So it's really not something you need to sit down and learn.
+You can save your bandwidth for things that really matter.
+So, if you have any questions about counters,
+please put them in the Comments below and I will answer as usual.
+Or if you have questions about anything or comments about anything in this video,
+please put them in the Comments below and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, who make these videos possible,
+and all my patrons and my supporters on Patreon and everywhere.
+Without you, none of this would have come about.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

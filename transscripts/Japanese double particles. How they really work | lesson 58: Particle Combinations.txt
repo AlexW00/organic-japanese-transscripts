@@ -1,0 +1,212 @@
+Konnichiwa.
+Today we're going to talk about "combined particles" or "double particles"
+or whatever silly names the textbooks and Japanese grammar sites call them by.
+And I'll explain in just a moment why I'm calling them "silly".
+What I'm referring to is particles in combinations
+like "-ni-wa", "-ni-mo", "-to-wa", "-no-ga" etc.
+And if you look at the sites you'll find lots of rules like
+"you can use -ni with -wa and -mo, but you can't use it with -ga or -de";
+"you can use -to with this, but not that", and so on.
+And you don't need to learn any of these rules.
+If you understand what's going on and why it's happening,
+it all makes complete logical sense.
+There are no random rules happening here,
+just straightforward logic.
+The reason it gets so confusing
+in English-language so-called Japanese grammar
+is because they're not just giving the wrong answers.
+They're giving the wrong answers to the wrong questions.
+They're posing questions that should never have been posed in the first place.
+There's really no such thing as a "double particle" or a "combined particle".
+What's happening all the time is that the particles are
+just doing their job the way they always do.
+So what about all these random rules
+about when they can do it and when they can't?
+Well, all these are actually based in
+what the particles are and what they actually do.
+So, the first distinction to make,
+that the textbooks and websites never make,
+is the distinction between logical and non-logical particles.
+This is absolutely crucial.
+So, let's start by looking at the five main logical particles.
+These are the particles that tell us what's going on in the sentence.
+They mark each noun with the role it plays in the sentence,
+whether it's the person doing something,
+the thing that's being done, the thing it's being done to,
+the place where it's being done, etc. etc.
+Now, the first obvious thing to understand is that you can't combine
+any of these five logical particles with any of the others.
+Why not?
+Because of what they do.
+They mark each noun with its function in the sentence.
+A noun can't actually be more than one part of speech at the same time,
+so it would just make no sense at all
+to combine any of these five together with each other.
+But what you can combine them with is non-logical particles,
+notably the two non-logical topic markers, -wa and -mo.
+You can combine these because they don't clash logically.
+-Wa and -mo don't tell us anything about what a noun is doing in the sentence.
+It's only ever marking that thing as a topic,
+either to make it the topic of the sentence
+or to make it a sub-topic for strategic reasons,
+which we'll talk about in a moment.
+Now, the next thing to know is that the two primary particles,
+or the primary and secondary particle, that is,
+-ga and -wo, don't combine with non-logical particles.
+Why don't they?
+Well, -ga is the primary particle:
+it has to be in every sentence of every kind;
+-wo is the secondary particle: it marks the direct object.
+This means that in any sentence that is directly transitive,
+-wo has to be present, whether we can see it or not.
+Now, what do I mean by directly transitive?
+All the textbooks and the dictionaries confuse transitivity
+with Japanese self-move and other-move verbs.
+And in a way this is understandable,
+because there's a large overlap between the two.
+But they aren't the same thing.
+So let's look here at what we mean by actual transitivity.
+If I say "I walk", "I sing", "I eat", those are all intransitive
+because I'm doing the verb
+and I'm not doing it to anything else.
+It has no direct object.
+If I say "I sing a song" or "I read a book" or "I eat bread",
+then this is transitive because the verb has a direct object.
+Now, when I say "directly transitive",
+what I mean is verbs that are done directly to an object.
+So, for example, I can say "I talk to Sakura"
+but in English, as you see,
+we have to have a preposition there.
+We're not saying "I talk Sakura", so we're not directly transitive,
+we're indirectly transitive through the medium of a preposition.
+Now, Japanese has the same distinction.
+We don't say "Sakura-wo hanasu",
+which would be the equivalent in English of "I talk Sakura".
+We say "Sakura-to hanasu" or "Sakura-ni hanasu".
+Now, please don't from this run away with the idea that
+particles like -ni and -to are the same as English prepositions.
+They're not.
+If you're going to compare them to anything in European languages,
+you have to compare all the logical particles
+to the German or Latin case structures.
+You may not know what those are and you don't need to,
+because I model these in ways that don't require
+knowledge of European grammar.
+But the point here is that they're not prepositions,
+but for our purposes here we can say that
+they're used under the same circumstances
+that prepositions get used in English.
+So if we say "I eat bread", that's directly transitive.
+If we say "I talk to Sakura", that's indirectly transitive.
+In Japanese, if we use the -wo particle, it's directly transitive.
+If we use another particle, like -to or -ni, it's indirectly transitive.
+In some cases English and Japanese will disagree
+about what is directly transitive and what's indirectly transitive,
+but an awful lot of the time they're in fact in agreement
+because these are fairly basic factors of human communication.
+Now, the point here is that these two direct particles --
+if we say "I hit Sakura" there are no prepositions anywhere.
+This is completely direct.
+I do the hitting and I'm hitting something, I'm hitting Sakura.
+I'm not hitting to Sakura or hitting at Sakura or hitting by Sakura.
+I'm directly hitting Sakura.
+Now, because of the directness of these two particles
+they can't have a non-logical particle appended to them.
+So, if you want to use a non-logical particle here, you can do it.
+But the way you do it is always by simply attaching the non-logical particle
+and leaving the logical particle out.
+And because these are so fundamental to every sentence,
+they can be understood by the hearer in Japanese.
+So, if we say "Sakura-wa nagutta"-- "I hit Sakura" --
+this means "Sakura-wa, zero-wo nagutta",
+but we don't say "Sakura-wa-wo nagutta" or "Sakura-wo-wa nagutta".
+Because you can't put anything between
+these two direct fundamental logical particles
+and the thing they directly connect to.
+So now we understand the basis for practically all
+the strange rules that you're going to hear about.
+You just need to remember these two facts:
+you can't pair one of these main five logical particles with any of the other four
+and you can't put a non-logical particle before or after
+the two primary particles -ga and -wo.
+Now, once we know that, what have we got left and how does it work?
+We can pair non-logical particles with any of the remaining logical particles.
+And the reason we're doing this is not to make
+some kind of weird, unusual pair-combination.
+We're simply using the functions of both at the same time.
+So the most straightforward thing we do here is
+simply make something into a topic.
+If we say "fuyu-ni-wa yukidaruma-wo tsukuru",
+we're saying "In the winter we make a snowman."
+Now, we could say "fuyu-ni yukidaruma-wo tsukuru".
+We don't have to have the -wa there.
+So why would we choose sometimes to have a -wa there?
+Well, in this case we're making it the topic of the sentence.
+We're saying "here's winter/speaking of winter, this is what we do."
+And it also plays the other roles that -wa always plays
+as an extension of its topic-making nature.
+And I've done a video on these multiple uses of -wa,
+so if you're not familiar with this, please take a look at it,
+because it's rather important for understanding what's going on here.
+So, we're making a topic out of the winter and
+we're also differentiating winter from other seasons.
+We're saying "fuyu-ni-wa" --"As for winter,
+as opposed to the other seasons, we make a snowman."
+Now, if the person you were talking to was someone
+from a very, very cold place, they might say
+"Haru-ni-mo yukidaruma-wo tsukuru".
+So what they're saying is "We make a snowman in the spring as well."
+So we can use the exclusive particle -wa or the inclusive particle -mo.
+And both of them add that degree of meaning.
+Now why do we have the -ni here?
+Because we actually need the -ni.
+We need the -ni to mark the fact that we're doing an activity at a particular time.
+This is the logical function of -ni.
+And having done that, we can also make a topic out of it.
+And that's simply what we're doing here.
+In other cases we might say "Ashita gakkou-ni iku"
+and that simply means I'm going to school.
+If we say "Ashita gakkou-ni-wa iku", the implication is
+that we're going to school but we're not going
+somewhere else that they thought we might be going.
+If we say "Ashita gakkou-ni-mo iku",
+we're saying I'm going to school as well as
+somewhere else that you already know about.
+So you see, in each of these cases our non-logical particle
+is simply adding meaning to the logical particle that's already there.
+They don't clash, because one is logical and the other is non-logical,
+so they're not telling us conflicting information.
+They're telling us complementary information.
+And that's why you can use them that way and why
+you can't combine one logical particle with another logical particle
+or one non-logical particle with another non-logical particle.
+Now, there are other particles that can pair with other particles,
+but again, this whole pairing concept is the wrong way of looking at it.
+As always the particles are simply doing what they do.
+For example, the -no particle, if it's the nominalizing -no,
+the -no that turns something into a noun,
+so, for example, "oyogu-no" is "swimming",
+the noun "swimming", the activity called "swimming".
+We can say "Oyogu-no-ga suki desu".
+We can say "Oyogu-no-wo shimasu".
+You can combine any logical particle with -no
+because that kind of -no turns the thing before it
+into what is effectively a noun,
+and a noun can take any of the logical particles.
+It could be a longer logical clause:
+"Sakura-to issho-ni oyogu-no-ga suki da" --
+"I like swimming together with Sakura".
+But the point is that once you've put that
+nominalizing -no onto the end of it,
+when it's the -no that turns something into a noun,
+you then treat it as a noun.
+And what do you do with a noun?
+You put a logical particle onto it, don't you?
+So, this is simple logic.
+If you have any questions or comments, please put them in the Comments below
+and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons,
+and all my patrons and supporters on Patreon and everywhere.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

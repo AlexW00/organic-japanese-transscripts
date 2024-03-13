@@ -1,0 +1,204 @@
+Konnichiwa. Today we're going to talk about
+on- and kun-readings in Japanese.
+Now, I imagine you will know already broadly what these are.
+But the way they get explained often leaves people with
+the impression that they are exotic and Japanese things
+that have no relation to anything we know from English
+and this "exotic" view of them can leave us
+not knowing how to handle them.
+It can even leave people with strange ideas like
+memorizing all the on-reading for the kanji.
+And it also leaves us unable to make use of
+the very considerable strategic advantages
+of Japanese on-readings.
+Now, if you speak English,
+and if you're watching this video I imagine you do,
+far from Japanese on-readings being something
+very exotic, you have a very considerable advantage
+in understanding what they are.
+Because in this particular respect
+there's a close analogy between Japanese and English.
+England and Japan are two islands beyond the limits
+of the great world island, the Eurasian continent.
+And just as English people have never really considered themselves part of Europe,
+so Japanese people have never really considered themselves part of Asia.
+At the same time, and particularly at certain periods
+in their history, England has been deeply influenced by
+the classical culture of the European continent and its language.
+And Japanese has been deeply influenced by
+the classical culture of East Asia,
+that's the Chinese culture, and its language, Chinese.
+As we know, the Japanese writing system is
+based on Chinese, just as the English writing system is
+based on the Roman letters.
+And also both languages have what we might call
+on- and kun-elements.
+The kun-elements are the native elements
+and the on-elements are those that come from
+the continental classical language.
+Now English, as you've probably noticed, doesn't have kanji.
+If it did have kanji,
+this kanji's kun-reading would be "look" or "see".
+Its main on-reading would be "vis".
+And when we use it in everyday life, we generally
+just say "Look at this" or "Did you see that?"
+But when we incorporate it into a larger concept word
+we tend to use the on-element "vis".
+So we talk about "vision" or "visible" or "invisible".
+In Japanese, the kun-reading, as we know,
+is the "mi-" of "miru" and the on-reading is "ken".
+And in simple usage we tend to say "miru":
+"Mite, mite! / Sore wo mita" -- "Look at that! / I saw that" &c.
+But in more compounded and complex uses
+we talk about "kenbutsu" -- "the seeing-thing",
+looking, viewing, sightseeing;
+"kenkai" -- "an opinion", that's to say, a point of view
+or way of seeing things, &c.
+The kun-reading of this kanji would be "hand"
+and the main on-reading would be "man",
+as in "manual", which can mean doing something
+by hand or it can mean a handbook.
+"Management" and "manipulation" also come from
+this on-element of "hand".
+In Japanese it's "te", as you know,
+and the on-reading is "shu",
+which we get in things like "shudou",
+which again means "manual" as opposed to automatic.
+"Senshu" -- that's an athlete --
+which means a chosen athlete;
+an athlete is here being referred to as a "hand",
+just as in English we sometimes refer to
+people doing something as "hands".
+The kun-reading of this kanji would be "dog"
+and the on-reading would be "ken" or "can".
+So if we're talking about a dog we say
+"There's a dog" or "I have a dog." We just say "dog".
+But in more compound and complex uses we may say
+"kennel", the place where a dog lives,
+or "canine" (or "canine" in the vowel-shifted version)
+-- "doglike" or "in the nature of dog".
+In Japanese the kun-reading, of course, is "inu"
+and the on-reading is similar to English -- it's "ken".
+And we get this in "kensha", a doghouse or kennel, and
+also in expressions like "aiken" -- "dog I love/loved dog"/
+"pet dog" -- "ai" meaning "love", "ken" meaning "dog".
+And this really leads us into the main difference
+between Japanese and English on-reading.
+In English we tend to use on-elements in slightly more technical contexts,
+for example, "tele", which means "far", we wouldn't
+usually use it to just mean something that's far away.
+We use it in technical contexts like "telescope",
+"telephone", "television", "teleportation" etc.
+However, Japanese is more likely to use on-readings in regular expressions,
+often when it combines two words even in
+quite everyday contexts, it will use the on-reading.
+Not inevitably, but very often.
+So we have words like "kaisou".
+"Kaisou" means "seaweed".
+Now, in English we use the kun-reading for both elements:
+we say "sea", which is a kun-reading,
+and "weed", which is a kun-reading.
+In Japanese we use the on-reading for both elements.
+So we say "kai", which is the on-reading of "umi", sea,
+and "sou", which is the on-reading of "kusa", grass.
+And this is probably the largest single difference
+between the way on-elements are used in Japanese
+and the way they're used in English.
+And it's an important one to understand,
+because it can mislead us into thinking that
+a lot of "words" that are in fact phrases in Japanese
+are words that we have to learn.
+To take this particular example, if you're learning English
+and you know the word "sea" and you know
+the word "weed", you may very well not think
+that you have to put "seaweed" into your Anki
+or whatever you're using to learn English words
+(assuming you're using anything of that sort)
+because the combination is pretty obvious.
+In Japanese, because the on-readings are being used,
+the tendency is -- and most books and
+Japanese learning websites encourage this tendency --
+is to think "Ah, here's a completely new word called "kaisou",
+so I've got to learn that."
+But the truth is that if you become used to
+the on-readings of words,
+-- which you should do by not learning kanji --
+the important thing here, just as in English for example
+when you were learning the word "book"
+you wouldn't also learn the on-elements "bibl" and "libr",
+so that as well as learning "book" you were learning
+the elements you were going to get in "bibliography"
+and "library" and so forth.
+You wouldn't do that.
+You'd learn "book" at a fairly early stage and later on
+you'd come across words like "library" and "bibliography"
+and learn them as you come to them.
+And that's exactly what you should do with kanji.
+Learn words, not kanji.
+Learn kanji as part of words, when you come to them.
+And I've done a video on this
+if you want to go deeper into it.
+Now, if we do this, what we find is that
+kanji become our friends.
+We're not trying to learn lists of on-readings of kanji.
+What we do in English is we learn usually
+the kun-reading first because that's going
+to be on the whole the simplest word.
+Not in all cases, but in most cases.
+And then later we'll come upon the on-readings.
+In Japanese, what makes that easier is that
+if we've already learned the kanji from the kun-reading
+we have this extra hook of the kanji,
+which makes things much clearer.
+And since we can see that these are actually the same word,
+that "kai" is "umi" and "sou" is "kusa",
+just as in English if we know the word "sea" and we know the word "weed"
+we may not feel that we have to make a special job of learning "seaweed",
+so in Japanese if we know "kai" ("umi") and "sou" ("kusa")
+we may not have to make a special job of learning
+"kaisou" -- "sea-grass" or "seaweed".
+Also, in many cases we're going to have a lot of help
+in knowing what the on-readings are
+if we use the Sound Sisters method.
+Because lots and lots of kanji have a particular element
+embedded into them which tells us
+how they're pronounced.
+Now, this pronunciation of course
+refers only to the on-reading,
+because the kanji came from China
+so that's where the sound elements were put into them
+and they relate to the Chinese pronunciation.
+So those all-important on-readings which are
+going to be used in all kinds of technical words
+but also in everyday phrases like "the dog I love" or
+"seaweed" or "pirate" or "getting into the bath"
+or all kinds of other combinations.
+And I've talked about this principle in my video on
+how to learn Japanese vocabulary much more easily.
+All this gives us a well-rounded system,
+in which we learn on-readings as we come to them,
+not as part of lists; we learn them as words;
+we learn kanji as part of words;
+and we understand the sounds of a wide range of those
+on-readings and on-phrases from the Sound Sisters.
+All this hangs on knowing what on-readings really are,
+understanding how they actually work in the Japanese language.
+And that is much easier when we understand,
+as we do understand now, how on-readings
+are not some strange thing specific to Japanese.
+They're something very similar to what we have in English.
+The only difference is that in English
+we don't have the kanji to help us.
+And so long as we don't try to learn kanji as abstractions,
+but learn them as words,
+the fact that kanji exist is going to be our ally
+and our friend rather than our enemy.
+If you have any questions or comments,
+please put them in the Comments below
+and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons,
+my producer-angels, who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

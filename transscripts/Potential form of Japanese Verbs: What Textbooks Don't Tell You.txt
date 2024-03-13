@@ -1,0 +1,106 @@
+Hello, pretty peoples! Kawajapa no Kyua Dorii desu. I am Cure Dolly from KawaJapa. Today
+we are going to talk about
+the potential form of Japanese verbs. The potential form is very simple, and it is formed by adding an
+extremely small and simple helper verb to the end of the original verb.
+The helper verb is simply ru,
+and if you look in a Japanese dictionary, you'll see that it is in fact a jodoushi, a
+helper verb. We attach this helper verb to the
+e-stem of the original verb
+So,
+yomu becomes yome-ru – can read, read is possible. Oyogu becomes
+oyoge-ru –
+swim is possible, can swim. Now, in the case of the ichidan, the so-called ru-verbs,
+the helper verb ru becomes rareru, and
+as I imagine you noticed, this rareru is the same as the rareru
+that we use in the receptive, the so-called passive, form.
+And I think this sometimes worries beginners – they think "Isn't this going to be very confusing?" And the answer to that is "No,
+it's not confusing."
+In English, if you think about it,
+we have three very very commonly used words to, too, and two.
+They are completely different words.
+They are very common words – we use all of them all the time – and how often do we get confused?
+We don't really get confused, do we? And
+it's the same
+with the two rareru helper verbs.
+They are used in different
+circumstances, and once you're actually reading Japanese, using Japanese, you'll find that
+you're not getting confused between them. Nearly all the time, it's very obvious which one it is.
+For completeness, I should tell you that
+rareru is often
+shortened simply to reru. In Japanese, this is called
+ranuki which means 'leaving out the ra'. I don't think you'll find it in your textbooks or in Japanese written for foreigners.
+But in ordinary speech and in non-formal writing you'll often see reru
+used instead of rareru, and
+in that case there's no possibility of confusing it at all. But confusion is not really an issue. Now,
+there can be an issue or a problem with the potential form of Japanese,
+and that is most often caused by our old friend the
+textbook habit of pretending that Japanese is English.
+Let's take a very typical example:
+"Watashi wa
+hon ga yomeru." This is usually translated into English as "I can read the book."
+And if you're saying that this is how you would normally put it in English, that's fine.
+But if you are saying or implying that the Japanese actually reads:
+"I can read the book," this is not just confusing. It's destructive.
+It undermines and destroys the whole
+fundamental structure of Japanese, which as I have explained before always centers around the ga particle.
+Every Japanese sentence is at heart a simple logical statement: "something ga
+something." The basic Japanese sentence is made up of
+something that is doing or being something – the subject or shugo –
+and the thing that it is doing or being –
+the predicate or the jutsugo.
+So the basic structure of this sentence is
+"Hon ga yomeru"  –  "The book is readable."
+The subject of the sentence, the shugo, the thing that is doing something, that is the book.
+The thing that it is doing is being readable.
+"Watashi wa," if it is present, is the
+non-logical topic of the sentence, and the rest of the sentence is a comment on that topic. "In
+relation to me, the book is readable." This works exactly in the same way as
+"Watashi wa hon ga wakaru"  – "In relation to me, the book is understandable." "Watashi
+wa nihongo ga dekiru" –  "In relation to me, Japanese is possible." "Watashi wa
+koohii ga suki desu" – "In relation to me, coffee is likable." It's the book, it's the coffee,
+it's Japanese,
+that is doing the action of each of these sentences, and by trying to force "I"
+to be the doer of the sentences we are completely
+confusing what ga does and what the other particles do. And this is important because
+as you get to more complex sentences
+your infallible guide, your signpost, is the Japanese
+particles and especially the ga particle. If you keep your eye on the particles, you
+always know what the sentence is doing and
+saying things like
+"Watashi wa hon ga yomeru" – saying that the doer of this sentence is "I", that the sentence means
+"I can read the book" is like putting a random magnet on your compass. You no longer have a working
+compass and you get very lost.  Now,  some people may very reasonably point out that
+sentences like "Watashi wa hon wo yomeru" are
+also possible in Japanese. This literally means "I can read the book." You are
+perfectly safe here in translating it that way. The doer of the sentence is I and the thing being read is the book.
+And there is a slightly different implication between the two. I pointed this out in "Unlocking Japanese"
+in the case of
+"Tori ga kikoeru" versus
+"Tori wo kikoeru". The difference is that
+"Tori ga kikoeru" really means "A bird can be heard, a bird is audible."
+It's better to say "A bird is audible," because the temptation is to translate it passively,
+and it is not a passive sentence, anymore than the so-called passive, the receptive form, is actually
+passive. As far as I am aware, there is no passive in Japanese.
+So, "Tori ga kikoeru" – "A bird is
+audible." "Tori wo kikoeru" –
+"I can hear a bird."
+We are putting a special stress in the second case on the fact that
+"I" can hear the bird – you might not be able to, but I can.  But the thing to bear in mind here is that in
+sentences like
+'Watashi wa hon ga yomeru,"
+that is the usual, the natural way of putting it. You can put it the other way,
+but it isn't the usual way of doing it. If you look up on Google, "hon ga yomeru"
+versus "hon wo yomeru,"  you'll see that  "hon ga yomeru"  is used
+approximately five times as often as  "hon wo yomeru."  So most of the time you are going to see it in
+that form, so it's important to
+understand what that form actually is. If you're translating a novel or something,
+it doesn't matter putting it into normal English,
+but if you want to know how the Japanese grammar works you must be aware of what the ga particle is doing
+at all times. Because, like the speed of light, the ga particle is always constant,
+it's always doing the same thing, and you can measure everything else by it. Please remember that
+the textbook for this course of lessons is "Unlocking Japanese". You can get it at Amazon in paperback or
+Kindle editions, and we recommend following this course of lessons along with reading the book.
+Once again, thank you for attending this class.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.
+ 

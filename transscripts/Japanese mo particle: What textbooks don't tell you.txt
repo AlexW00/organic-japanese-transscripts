@@ -1,0 +1,87 @@
+Hello, pretty peoples. KawaJapa no Kyua Dorii desu.  I am Cure Dolly from KawaJapa. Today
+we are going to talk about the particle mo.
+Mo is not difficult, but once again
+because the standard western grammar model does not tend to grasp its core function, there can be confusions and difficulties.
+The core function of mo is very simple. Mo, just like wa, is a non-logical topic-marking
+particle.
+If you don't know what that means, you might want to go back to the lesson on wa, where this was fully explained,
+For now, we'll simply use an example:
+"Watashi wa
+nihonjin desu."
+"Watashi mo nihonjin desu." As we have explained before,
+the core of this sentence, the logical sentence, is simply "nihonjin desu,"
+which analyzes to "zero ga nihonjin desu."
+Because every sentence, as we have explained,  is bound together with ga.
+There can't be a Japanese sentence without a ga, although you often can't see it. "Nihonjin desu" is a full, complete
+Japanese sentence
+and it means, usually, "I am Japanese." Because it has the zero particle and the zero
+pronoun, "zero ga nihonjin desu" means "I am Japanese."
+So when we say "watashi wa nihonjin desu" or
+"watashi mo nihonjin desu" why do we use this
+non-logical topic, which is actually not necessary
+to the sentence? It may be to clarify who the subject is,
+or very often it is to make some other point or inference.
+In this case let's assume in the first place that someone said "Amerikajin desu."
+To that we reply, "watashi wa nihonjin desu." What you're actually saying here is
+"As for me, on the contrary,
+I am
+Japanese." You're changing the topic and the subject by using a wa-marked topic, and you're using the distinguishing,
+the exclusive particle wa to make it clear that what you have to say about the new topic is
+different from what was said about the old topic. The particle mo on the other hand is the
+Inclusive topic. In this case if someone had said "nihonjin desu" you might reply "watashi mo
+nihonjin desu" – "As for me also,
+I am Japanese." Both wa and mo change the subject and change the topic of the sentence,
+but wa stresses that what we are saying about the new topic is different from what we said about the old topic, and mo
+stresses that what we said about the new topic is the SAME as what we said about the old topic.
+Wa is the distinguishing, exclusive particle. Mo is the additive,
+inclusive particle.
+So, as we've seen, the mo, just like the wa, can
+appear to conceal the ga particle. Actually it's not concealing it at all, because
+we can use the sentence with no visible ga and no wa either.
+But sometimes it's actually helpful in defining what the ga
+particle is going to be, but it doesn't have to be the ga particle.
+Let's take another two parallel sentences: "keeki wa tabeta" and "keeki mo tabeta.'
+As you know, the simplest way of putting this is simply
+"keeki wo tabeta," and both of the other sentences imply – and actually mean – "keeki wo tabeta,"
+but we've added to that basic
+"keeki wo tabeta" a non-logical topic. Why have we done this?
+If you attended the "wa versus ga" advanced lesson, I think you'll know what we mean when we say "keeki wa
+tabeta" instead of "keeki wo tabeta." We are saying:
+"As for cake,
+I ate that." The implication is that there is something else that you didn't eat. It might mean you ate nothing
+but cake,
+but it could also mean there's something in particular
+that you expect the hearer to be aware of that you didn't eat. You might be saying "I didn't eat my dinner,
+but as for cake, I did eat that." Now, when you say "keeki mo tabeta,"
+you're saying the reverse of this. You're saying that you ate cake as well as something else. You ate your dinner and
+you also ate cake.
+So once again, wa is the distinguishing, excluding particle and mo is the
+additive, including
+particle. And from this we can proceed to some of the subtler uses of mo. A
+type of sentence that you'll often come across
+is something like
+"sou iu hito mo iru."
+Probably the best way to translate that into natural English is to say "Some people are like that." Why do we use mo here?
+What is the implication of this mo? Well, it's marking the people, and
+what we're saying about them is that they exist. So "sou iu hito mo iru" means
+"People like this exist as well as people of another type."
+In English we say "some people" because we're not saying that ALL people are like this, we're only saying that SOME people
+are like this. In Japanese what we are saying is
+"People like this exist in addition to other kinds of people." So once again
+we are drawing on the inclusive, additive quality of mo
+to make, very elegantly and simply, a
+sentence that tells us that people like this exist, but aren't the only kind of people that exist. As we say in English,
+"Some people are like this."
+We have now considered the core function of mo as a major grammatical  particle
+It does have some other functions
+when it is attached to other words, such as nanimo, daremo,  nandemo,
+the te-form of verbs, and expressions of quantity. This may seem like a number of random
+functions that you just have to learn, but they are in fact all
+connected to the additive function of mo, and I will be explaining this in a future lesson.
+Please remember that the course book for this course of lessons is "Unlocking Japanese."
+You can get it at Amazon in paperback and Kindle editions
+and we recommend reading the book along with attending this course of lessons. If you have any questions
+please ask them in the comments below and I will answer.
+Thank you for attending once again.
+Kore kara mo yoroshiku onegaishimasu.
+Class dismissed.

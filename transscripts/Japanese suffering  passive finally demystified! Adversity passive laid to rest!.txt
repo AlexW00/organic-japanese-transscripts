@@ -1,0 +1,162 @@
+ 
+Hello, pretty peoples. KawaJapa no Kyua Dorii desu.
+Today we are going to talk about the so-called
+"suffering passive" or "adversity passive"
+in Japanese.
+If you believe the English language textbooks
+and general English explanations of Japanese,
+you will have to believe that when Japanese
+people are suffering from something or annoyed
+about something, they suddenly lapse into
+the passive voice in a way that makes no sense
+at all.
+Why does this happen?
+Well, the textbooks can't tell you that.
+It's just one of those complicated, random
+things in Japanese that you have to memorize
+– according to them.
+The actual reason they can't give an explanation
+is because it doesn't really happen.
+As I have explained in my main video on the
+passive form, there is no passive form in
+Japanese.
+I call it the "receptive" form and that's
+what the Japanese call it too – the "ukemi",
+the receptive.
+This makes a huge difference, because if you
+regard the Japanese receptive form as if it
+were like the English passive voice, it completely
+confuses you about the way Japanese works.
+It makes the simple, logical, absolutely regular
+ga-centered structure of Japanese apparently
+chaotic and confusing.
+There are a few things that the Western textbooks
+do to create this confusion, and one of the
+larger ones is this whole question of the
+so-called passive voice.
+So, let's see what's really going on.
+The best way to translate the "passive" is
+with the English word "got", which means "received".
+Actually, some people use this all the time
+in English, but it's not regarded as good
+grammar.
+But in Japanese it is perfectly good grammar
+and it is the receptive form.
+So, we can say "kaban ga nusuma reta" and
+that means "My bag got stolen".
+Not "My bag was stolen", which is the English
+passive, but "My bag got stolen".
+My bag received the action of being stolen:
+my bag got stolen.
+Now that isn't the so-called suffering or
+adversity passive: what the Japanese call
+"meiwaku ukemi" , the nuisance receptive.
+This is just the regular passive.
+A suffering passive sentence, that's to say
+a nuisance receptive sentence, in English
+would be "I got my bag stolen", as opposed
+to "My bag got stolen".
+How do we say this in Japanese?
+"Watashi ga kaban wo nusuma reta."
+How do we tell the difference between the
+two?
+As always, the key point is where the ga lies.
+In "kaban ga nusuma reta", it's the bag that receives the action, the bag got stolen.
+"Watashi ga kaban wo nusuma reta", I am the
+receiver of the action.
+"Watashi ga" – I get the ga: "Watashi ga
+kaban wo nusuma reta".
+What is the action?
+The action is "got", isn't it?
+In English we are doing the getting.
+Something does the getting. The bag got stolen,
+the bag does the getting.
+I got my bag stolen, I do the getting.
+In Japanese, the head verb of this sentence
+is what?
+Now, this question shows how one misconception
+leads to others.
+Most of the textbooks will tell you that the
+head verb of this sentence is "nusumareta",
+which is a conjugation of "nusumu", to steal.
+It's not.
+The head verb of this sentence is "reta" (reru),
+which means receive.
+As I explained in my main video on the so-called
+conjugations, the "conjugations" in Japanese
+are not actually conjugations at all.
+What they are is helper verbs which are attached
+to the stem of another verb.
+So, in this case, we take the a-stem of "nusumu":
+"nusuma", and we add to it "reru", to get
+or receive the action.
+So in "kaban ga nusuma reta", the fundamental
+sentence is "kaban ga reta": "the bag received".
+And "nusuma" tells us something else about
+it: it tells us what the bag received – it
+received "being stolen".
+And once you understand that this is how so-called
+conjugation is done in Japanese – it's not
+conjugation at all – the whole range of
+"conjugations", receptive, potential, causative
+etc., become very, very easy.
+So, if you are having any trouble with conjugation,
+as it is called, watch that video and you'll
+never have any trouble again.
+All right.
+So, let's take a slightly more complex example
+of the so-called suffering passive.
+"Watashi ga obentou wo Sakura ni tabe rareta"
+–" I got my lunch box eaten by Sakura".
+As you see, in this case we see who did the
+action, the action "taberu", to eat.
+But "taberu" is not the head verb of the sentence,
+so the doer of that head verb, which in this
+case is the ichidan form of "reru", which
+is "rareru".
+(To get or receive an action is "reru, rareru".
+In godan verbs, "reru", in ichidan verbs "rareru".)
+So the head verb of this sentence is "rareru",
+and the doer of it is me.
+I am the one who received.
+What did I receive?
+Well, the rest of the sentence is telling
+us. And what I received was "having my bentou
+eaten by Sakura".
+We always know, in a "reru, rareu" receptive
+sentence, who is the receiver, the doing of
+the action of receiving the action because
+it is always the one marked by ga.
+The actor of a sentence is always marked by
+ga.
+And let's just note that that ga-marked actor
+doesn't have to be visible.
+We might say "Sakura ni obentou wo tabe rareta"
+and that means exactly the same thing: "I
+got my obentou eaten by Sakura" because what
+the sentence really means is "(Zero-ga) Sakura
+ni obentou wo tabe rareta".
+How do we know that?
+Well, we know it because there always has
+to be a ga-marked actor in every sentence,
+either visible or invisible.
+In this sentence it's not Sakura, because
+she's marked by "ni". It's not the bentou,
+because it's marked by "wo".
+So there must be an invisible ga-marked actor.
+There has to be, because every sentence has
+a ga-marked actor, whether the actor is visible
+or whether the ga is visible or not.
+If that seems difficult, please watch my video
+on the invisible pronoun and the invisible
+particle.
+And that is the so-called suffering passive.
+Please remember that the course book for this
+course of lessons is "Unlocking Japanese".
+You can get it from Amazon in paperback or
+Kindle editions and please subscribe to this
+channel for more information on the real structure
+of Japanese.
+Thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

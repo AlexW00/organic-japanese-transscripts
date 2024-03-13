@@ -1,0 +1,136 @@
+Konnichiwa. Today we're going to talk about
+something that you can do and that, once you've got it set up,
+it's not going to take up very much of your time at all,
+but if you're using Japanese regularly it's going to reinforce every day
+the actual structures of Japanese, the actual sounds of Japanese,
+and the way the whole language holds together,
+in a way that is superior to that of many so-called Japanese experts.
+So, what is this?
+As you know, Japanese structure as taught by so-called
+Japanese grammar websites and textbooks is highly misleading
+and it's mostly misleading because it's based on treating Japanese
+as if weren't Japanese but English or at least a European language.
+This takes various forms, misrepresenting the particles, misrepresenting the parts of speech,
+misrepresenting the verb-and-helper system, and all of it essentially based on Western thinking
+and based on modeling Japanese as a Western language.
+And a key element in this is modeling Japanese as if it were written in Roman characters.
+Now, you may think that the link with Roman characters is a very beginner kind of problem.
+We got over that in the first year, didn't we?
+Well, as a matter of fact, this romaji link remains with us for a very long time
+and causes enormous confusion and damage even in areas where you really wouldn't expect it.
+Let me give you an example. If you go to Wikipedia
+and look at the article on Japanese vowel verbs and consonant verbs.
+Now this article really exists. It's absolutely serious.
+It's written with a straight face by grownups with high school diplomas and doctorates too.
+And these people are called experts in Japanese.
+And what they're telling you is that there are two kinds of Japanese verbs
+and more than half of all the verbs in the language are what they call "consonant verbs",
+which means that their stems end in a consonant.
+Now, if you know anything at all about the Japanese stem system, you know that this isn't possible.
+The only way you can make anything end in a consonant in Japanese
+(other than the quasi-consonant sound "n") is to cut a kana in half.
+And this isn't just a question of the Japanese writing system;
+it's a question of the way that Japanese sounds are conceived and produced by Japanese people.
+The consonant element and the vowel element are seen as one entity,
+so Japanese people conceive and pronounce them together.
+And that is why we have what seem like apparent exceptions in the pronunciation
+when looked at from a romaji perspective.
+It's why we say "ta chi tsu te to" rather than "ta ti tu te to", which we would say
+if we were conceiving the vowel and the consonant elements separately.
+The lips are in position for the vowel element while making the consonant element.
+So this is a fundamentally different way of looking at the sounds that people make.
+But the people who talk about vowel verbs and consonant verbs are assuming
+that romaji is the source code of human language, that it is the last word,
+the absolute truth on what sounds humans make when they speak,
+just as Western philosophy and the Western view of the world is the absolute truth
+and everything else is some kind of foreign superstition.
+And the arrogance of this would not be important if it just stayed
+on the upper story of the Tower of Babel, the linguistic experts.
+But it doesn't.
+It filters down into Genki and every Japanese grammar (so-called) website you've ever seen
+and makes the simple, logical, beautiful Japanese verb-stem system with its verb-stems
+and its helper-verbs like -reru and -seru, helper-adjectives like -nai and -tai,
+helper-nouns like -sou and -nagara, into a whole mess of strange rules
+and peculiar exceptions and all sorts of odd things that you just have to learn.
+Now, we don't need to worry about that because my structure course
+helps you to understand all this as it really is.
+But what it does show is that this romaji thinking is deeply lodged
+in the minds of people who pass for Japanese experts.
+And if it's deeply lodged in their minds,
+it's really rather likely that it's going to be deeply lodged in our minds too,
+even though we think we've left romaji far behind us.
+And I've discovered this to be the truth with people that I've taught and worked with in the early days,
+that that romaji link remains strong in the mind.
+Now why would this be when we actually don't use romaji any more?
+Well, the fact is that if we write Japanese on a computer
+and usually on a smartphone or a tablet,
+we are writing in romaji all the time,
+because what we're doing is typing out the words in romaji
+and letting the algorithm turn them into kana.
+So we ourselves are still conceiving them as romaji entities.
+And since we've been brought up on romaji from an early age,
+this is reinforcing something that was all too likely to happen in any case.
+Now, what can we do about this?
+Well, what we can do is reverse the process.
+If we type in kana, if we input in kana, then every time we do it we are reinforcing
+the real structure of Japanese instead of the romaji approximations.
+How easy is it to do that?
+Well, on a smartphone or a tablet it's very, very easy indeed.
+There's a simple and beautiful system called "flick input".
+It looks like this.
+It has the basic sounds keys: ka, sa, ta, etc. and when you press any one of them,
+the other four possibilities pop up, so a has i, u, e, and o pop up around it;
+ka has ki, ku, ke, and ko around it.
+And you don't have to do this for very long -- you very, very quickly get used to
+the idea of what direction you have to flick in to get what sound,
+because it's a perfectly regular system.
+And the three keys at the bottom handle the odd bits like adding ten-tens, small letters,
+and the odd characters wo, wa and n as well as the long katakana dash.
+So this is really very simple and you can make that switch right away.
+Mobile devices usually have it built in and if it's not built in it's a very simple official download.
+With computers it's a little bit more difficult.
+Japanese computers have kana on the keyboard and your computer probably doesn't.
+But there's a very surprisingly simple and cheap fix for this,
+which is that you can get sets of keyboard stickers on eBay and other places --
+and they're very cheap indeed.
+They range from around $2 to around $6 for a set of keyboard stickers.
+They come in two types.
+You can get solid color ones, which would have the romaji and the kana on them,
+and you can get transparent ones that just have the kana and let the romaji that was already there show through.
+And if you have a lighted keyboard you're probably going to want one of the transparent kind.
+You apply these and then you have a Japanese-style keyboard.
+If you're a hunt-and-peck typist, it's really no problem at all.
+You'll have to get used to where the kana keys are, but that doesn't take too long.
+If you are a touch typist, you may be asking, "Well, is it Mavis Beacon all over again?"
+Fortunately, it isn't.
+What people find is that it's actually much quicker to pick up touch typing in kana
+if you know romaji touch typing already. I'm not sure why this is.
+It's probably that your fingers are more confident about finding things blind.
+It obviously takes time, but you really don't need to do a lot of Mavis Beacon-style drills.
+They do exist in Japanese, but you probably don't need them.
+You just ease yourself into knowing where everything is.
+And of course you can always peek if you need to at first.
+Is it worth doing?
+I would say, absolutely it is, because you're reinforcing the real structure of the language.
+With mobile devices, Android or iOS, it's really very, very easy.
+There's absolutely no excuse for not doing it.
+With computers it's a little bit more tricky.
+If Japanese isn't a huge part of your life you may not want to bother,
+but I would certainly think about it.
+It's one of the things you can do that takes a bit of setting up,
+but once it's set up, it's in place.
+I don't even need the stickers any more because I can just touch type in Japanese.
+And it breaks the romaji link, which is something that stays with us
+without our really being aware of it for a very long time,
+probably for our entire lives, if we don't break it.
+And it establishes in our mind the real kana structure of the language.
+If you have any questions or comments,
+please put them in the Comments below and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere,
+because all of you make these videos possible.
+And I think it's wonderful that we're able to have these freely available to anybody
+because my supporters are generous enough to allow me to do that.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

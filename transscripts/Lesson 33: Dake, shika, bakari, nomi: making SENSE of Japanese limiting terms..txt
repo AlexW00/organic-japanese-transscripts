@@ -1,0 +1,126 @@
+Konnichiwa.
+Today we're going to talk about terms of limitation:
+"dake", "shika", "bakari" (we're already covered
+"bakari" in a video of its own, but we're going to look at how it fits in here) and "nomi".
+"Nomi" is very easy and you won't need to use it anyway,
+but it is important to understand it when you see it.
+A lot of people find these terms confusing, but that's only because they're taught in a confusing way.
+Once you see how they really work, they're not difficult at all.
+So, let's start with the most basic word, "dake".
+"Dake" means "limit".
+We're sometimes told that it means "only", and in its most basic form of expression "only"
+is what we would say in English.
+However, it's important in some of its other uses to realize that what it actually means is "limit".
+So, if I say "sen'en dake motte iru", what I'm saying is "I have a thousand yen limit
+/ A thousand yen is the limit of what I have".
+"Dake" is a noun, and when we put "sen'en" behind it, we're using "sen'en" as the modifier
+to the noun "dake".
+So we're saying I have a limit of a thousand yen, a thousand yen is all I have.
+So that's simple enough.
+We'll come back to "dake" in a moment.
+Now let's look at "shika".
+Now, "shika" does confuse people and that's because they're given the impression that
+it means the same thing, more or less, as "dake".
+And what it in fact means is the opposite of "dake".
+"Shika" means "more than".
+And if we understand that, we'll never get confused about "shika" because it's very simple.
+The point is that it's only ever used in negative sentences.
+So, we always have a "nai" or an "arimasen" when we use "shika",
+so it ends up saying "not more than".
+And this is what makes it very similar to "dake".
+But if we don't realize that it actually means "more than", we get very confused about how
+it fits into a sentence structurally.
+So, if we say "Sen'en dake motte iru", we're saying a thousand yen is the limit of what I have.
+If we say "Sen'en shika motte inai", we're saying I don't have any more than a thousand yen.
+And as you can see this is a negative sentence and the stress is on the negative.
+It's very similar to what we might say in English: we might say "I only have a thousand yen"
+or we might say "I don't have any more than a thousand yen".
+And you can see the difference between those two, and the difference is exactly the same in Japanese.
+"Dake" doesn't imply that a thousand yen is a lot or a little; it doesn't imply anything
+about it, it's just saying that that's what I have and that's all I have.
+"I don't have any more than a thousand yen" is putting emphasis on the fact that this
+might be too little, or that if you were wanting any more you're not going to get it, or whatever.
+It has this negative emphasis because we're putting all the emphasis on what I don't have,
+not what I do have.
+And that, in this context, is the difference between "dake" and "shika... nai".
+And "shika... nai" can also be used in circumstances such as "nigeru shika nai".
+"Nigeru" is to "run away" or "escape"; if we say "nigeru shika nai" we're saying
+"There's nothing for it but to run / There's no other course of action but to run."
+So just as "sen'en shika nai" means I have nothing more than a thousand yen,
+"nigeru shika nai" means there's nothing we can do other than -- or more than -- run.
+So now let's go back to some of the other uses of "dake".
+One of the commonest is "dekiru dake", which means "as much as possible" or "if at all possible".
+Now, you see, at this point, if we're thinking of "dake" as meaning "only" we can start to get confused.
+Is this a completely different kind of "dake"?
+No, it's exactly the same.
+"Dekiru dake" means "to the limit of possibility".
+"Dekiru dake benkyou shimasu" -- "I will study if I can" or "I will study as much as I can"
+/ "to the limit of the possibility I will study."
+Another use which you'll certainly see quite often is "dake atte".
+Now this "atte" is "aru" -- to "be".
+And we're often told that it means something like "not for nothing".
+So "ryuugaku shita dake atte eigo wa umai".
+And this literally means "Because of the limit of the fact that she studied abroad..."
+(and the "because" here is that te-form, which often implies the cause of the following effect)
+"... her English is excellent."
+Now the translation we're given is "Not for nothing did she study abroad, her English is excellent."
+But what is actually being said here is "Precisely because and only because she studied abroad,
+her English is excellent."
+Now, you might think I'm splitting hairs here and being a bit too geeky about the exact meaning.
+But let's take another example.
+"Yasui dake atte sugu ni kowarechatta."
+Now, this means "Because of the limit of its being cheap, it quickly broke."
+Now, it wouldn't make any sense here to say, would it, "Not for nothing was it cheap, it broke quickly."
+What we're actually saying is "Precisely because it was cheap, it broke quickly."
+That "dake" is using the limiting function to limit something down to something precise.
+If we want to bring in the "only" aspect of it, the way it works is that what we're saying is
+"Only by studying abroad would you get that good at English"
+"Only something really cheap would break that quickly."
+So that's how the limitation, the "only", function of "dake" is actually working here.
+We're using it to give precision to the statement: "Precisely and only because of this the result
+followed"; "Dake atte" -- "It exists because of and limited to this fact."
+Now let's bring in "bakari".
+"Bakari", as we know, also expresses the same kind of limits.
+It means "just such-and-such a thing".
+So let's compare it with the other two.
+If we say "ano omise wa pan dake uru", we're saying "That shop only sells bread".
+If we say "Ano omise wa pan shika uranai", we're saying "That shop doesn't sell anything but bread".
+If we say "Ano omise wa pan bakari uru", we're again saying "That shop only sells bread"
+but as we know from the "bakari" lesson, what we're likely to mean by that is
+"That shop sells an awful lot of bread".
+It may not even be true that it only sells bread, because "bakari" can be used hyperbolically.
+We can say "Toukyou wa gaijin bakari da" -- "In Tokyo there's nothing but foreigners" which
+doesn't mean, any more than it would in English, that there really aren't any Japanese people in Tokyo.
+It means there are an awful lot of foreigners in Tokyo.
+So, we can put these three on a sliding scale.
+"Pan shika uranai" is implying that only selling bread is very little, it's insufficient.
+Maybe we want something other than bread but we can't get it.
+"Pan dake uru" doesn't have any implication.
+It's neutral.
+It could mean that the shop specializes in bread and therefore it's very good.
+It could mean, indeed, we can't get anything if we're wanting something other than bread.
+It doesn't have any particular implication.
+It's just neutrally saying that the shop only sells bread.
+"Pan bakari uru" implies that there's an awful lot of bread there.
+The fact that it's limited to bread is essentially making the point that bread is there in abundance
+to the extent that we might hyperbolically say that nothing else but bread is there even
+though with "bakari" in fact it could be.
+And before we end, I'm just going to cover "nomi".
+"Nomi" is very easy because all it means is "dake" in its simplest sense.
+So we say "pan dake uru / pan nomi uru".
+They both mean the same thing.
+They mean "only sells bread" without any special implication.
+"Nomi" is used in formal contexts, it's mostly used in writing, and unless you're trying
+to use very formal Japanese you won't really need to use it.
+The reason it's important to know is that, for example, if you were going to go into
+a place and the sign was telling you that only members are admitted it could save a
+lot of embarrassment if you knew that that "nomi" means the same thing as "dake".
+And that kind of sign is precisely where they would use "nomi", because it tends to get
+used in these formal, official kinds of context.
+If you have any questions or comments, please put them in the Comments below and I will
+and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

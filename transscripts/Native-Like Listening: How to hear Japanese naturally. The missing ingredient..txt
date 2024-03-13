@@ -1,0 +1,230 @@
+Konnichiwa. Today we're going to talk about
+hearing Japanese in the same way that we hear English or our native language --
+that's to say, simply hearing it and understanding it, hearing it naturally.
+Now, in order to talk about the ways in which we can do this,
+we need to talk about the core principles, the core strategy, underlying the whole thing.
+Fundamentally, in learning language there are two approaches.
+They're not mutually exclusive: everybody uses some of one and some of the other,
+but some people tend very strongly to one approach and others tend very strongly to the other.
+And there's a correlation between the two approaches and the kind of person
+who finds listening much easier and often has trouble with the other skills
+and the kind of person who finds reading and writing and very often speaking too
+relatively easy to conquer but really hits a wall with raw listening / understanding.
+Now, these two approaches are what we might call "top down" and "bottom up".
+Now, my core structure course is fundamentally teaching Japanese from the bottom up.
+It's taking the very foundations and building up from them.
+So we start off with different kinds of words: nouns, verbs, adjectives, the particles,
+the basic core sentence, the stems and helpers, and then we build up from that
+to more and more complex sentences, building gradually from one basic concept to the next.
+"Top down", on the contrary, is where people start from
+a very general grasp of the language and work downwards.
+Some people find this very difficult, but other people find it much easier.
+And there are a lot of people who've learned language essentially by listening,
+and listening is what they're really good at.
+In some cases, they're not really good at other aspects of the language.
+They can't speak it very well, they can't read it very well, but they can hear it, very competently.
+Now, I've had various comments and messages and conversations with people of this type,
+and there tend to be three statements that they have in common
+about their approach to their successes, their problems with language.
+First of all, they've always listened to a lot of Japanese.
+They've listened to music, they listen to anime, they just do an awful lot of listening.
+And you have to do that in order to be good at hearing Japanese.
+And then they'll often say that they find it much harder with written Japanese.
+And they don't necessarily have a problem with the script.
+They often can actually read Japanese, it's just that they don't find it easy to put it together into meanings.
+And the third thing they often say is that although they understand pretty much all of what they hear,
+they often have trouble actually explaining what it is that they've understood.
+Now, if you've got an AI kind of mentality like mine, a logical approach to language,
+this raises certain questions.
+The first question I'm inclined to ask is, how is this possible?
+How is it possible to be able to parse together the elements of a sentence,
+whether you know the names of them or not, the particles, the stems and helpers,
+the different kinds of word, to make sense when you're hearing them rapidly on the fly
+and then have trouble doing the same thing in writing, when you've got more time to do it all.
+That doesn't seem to make sense.
+And I think the other statement that they make gives the clue to this.
+They say that while they can understand things, they have trouble explaining them in explicit detail.
+As an AI unit, my first reaction is to call this what I have called it before, "the illusion of understanding".
+And I'm not sure it's really quite as simple as that, but let me say what my first reaction was.
+It was that if you can't explain what it is that you've understood, then you haven't really understood it.
+You've had the dopamine going through your mind.
+You've had all the lights go on inside your head that say "Understood, understood!"
+and you feel that you've understood it.
+But in fact you can't explain it, so you haven't understood it.
+You just have the illusion of understanding.
+Now, as I say, I don't think it's quite as simple as that.
+But let's go back to the first question.
+This does supply, I think, the answer to the first question:
+how is it possible to be able to understand when you're hearing and
+not do the same job of parsing the parts of a sentence into meaning
+when you're reading and you've got more time to do it?
+And the answer is that from that statement that they can't explain clearly
+what it is that they've understood, it's also clear that they haven't done that job.
+They haven't parsed together  the elements of the sentence.
+That's not the way they're working.
+They're working in a different way.
+Now, what is this different way?
+In computing there's a concept called "fuzzy matching".
+Now, fuzzy matching doesn't mean bad matching.
+It means matching in a catch-all sort of way,
+so that you can take various kinds of user input that aren't even necessarily correct
+and give them back the response they need.
+The kind of fuzzy matching that comes from top-down learning is almost the opposite of that.
+We take one particular input and we interpret it in ways that are perhaps multiple,
+perhaps we never settle on an exact single rational meaning,
+but we get a general nebulous idea of what's being said.
+And we feel satisfied with that if we have that kind of mind.
+And, as I say, I don't really reject this.
+Even in native language, lots of people will hear a talk, for example,
+and they will take away broad general impressions from it.
+They won't necessarily be able to tell you exactly what was said.
+And it's not just because they don't remember it.
+It's often because they never really got that far in the first place.
+Fuzzy listening is not just the preserve of second languages.
+It happens in first language. It happens all the time.
+A lot of people spend most of their life on the level of fuzzy listening.
+And this serves their purposes most of the time for most of everyday life.
+So what's wrong with learning language this way?
+Well, nothing really.
+It isn't something that everybody can do.
+A lot of people find this quite impossible.
+You need a certain kind of mind, a certain degree of tolerance of ambiguity to be able to do it.
+And, of course, you may have difficulty refining things down to more precision.
+But if you never want to do that, it doesn't really matter.
+Now, if we look at the advantages of fuzzy matching,
+I showed this sentence a while ago in one of my videos.
+And, as you see, if you are a native English speaker
+or very good at English, you can probably read it.
+Now, you do this by a top-down process.
+You don't go bottom up, carefully trying to rearrange the letters in each word.
+You go top-down, grabbing the broad shape of the words
+and seeing somehow what they mean.
+And this is what you do when you read, because you don't actually look at every individual letter.
+You grab words as chunks.
+And another thing you're doing when you're looking at this sentence is
+there may be some words you would have difficulty with and maybe not be able to rearrange,
+but because they're in the context of a sentence
+you take them in the context of what comes before and after them
+and then you see what they must have been.
+This is how top-down listening works.
+And it's very important, because at the kind of speeds
+people talk, careful parsing is just not possible.
+You need to be able to grab information in chunks.
+Now, as I said, the two are not perpetually divorced.
+The fact that you've done a lot of bottom-up work is actually going to help in your top-down work,
+because the more bottom-up concepts become second nature to you, the more you work with them,
+the more you can simply incorporate them into your chunking top-down listening
+without them taking up the kind of time that you can't afford at full speed.
+So having done a lot of bottom-up work helps you enormously with your top-down work.
+But the important thing to understand here is that having had a lot of success with bottom-up work,
+and we do get a lot of success with bottom-up work... once we've grasped the basics of the language,
+we find that we can parse sentences, we can read most of what we want to read pretty easily,
+we can watch anime provided we've got subtitles and a bit of time,
+and it's a natural assumption to make that if we just continue with that and continue with that,
+ultimately we'll get to the point where we can listen in the raw,
+just listen to people talking with no preparation.
+Now, there are two problems with this.
+The first is that it does take time to parse things properly
+and the second is that we never really have enough information.
+We may get to a point eventually where we have enough information, but that takes a very, very long time.
+If you watch anime with subtitles, you know that you have to look up some words,
+you have to work out what some phrases actually mean or look them up.
+You don't have time for that in raw, full-speed listening.
+So you can't use quite the same techniques.
+The fact that you have used those techniques and continue
+to use those techniques in other situations where you're reading
+or where you're using Japanese subtitles, will be a very great help to you.
+But the important thing is not to fall into the trap of thinking that because they're a very great help to you,
+you can just continue along that path until you become competent at listening.
+You do need at some point to listen in a top-down manner.
+So you need to have periods where you put aside parsing,
+you put aside worrying about what this word means and what that word means
+and you just try to get from all the cues available to you,
+the actions, the facial expressions, the tones of voice, as well as the words,
+just the way you use the context as well as the words themselves to grasp those jumbled letters.
+You just use everything you can to get the feeling of the anime as you're watching it.
+Now, I've heard some people say what you should do is not worry about the bits you can't get,
+but be pleased about the bits you can get.
+Be glad that you've got to the point where you can get as much as you can get now.
+And I think that's good advice up to a point, but it's not the advice I would give.
+The best advice in these cases is to stop thinking about what you can get and what you can't get altogether.
+The anime you watch, purely top-down, no Japanese subtitles,
+no stopping and going back to listen to something twice and try to get what you missed,
+just sitting and watching it.
+The aim is not to be pleased with the bits you can get.
+The aim is to forget all about language, to forget all about learning,
+to forget all about what you can get and what you can't get, and just enjoy the story.
+If you really hate not knowing something, then choose something that you've watched before,
+probably a year or so ago so that you're not fresh from having watched it but you're not getting completely lost.
+But the important thing here is that the experience is a top-down experience.
+You're not even trying to use your bottom-up knowledge.
+You will be using it, because a lot of it has already passed into your unconscious mind.
+It's so much a part of your thinking you can't even help using it.
+But the important thing here is to relax and enjoy
+and experience it in the way that a top-down learner experiences it.
+My sister, when she was in Japan, had a four-year-old homestay sister
+and every Sunday they used to watch a Precure anime, and although that's for smallish girls,
+it's not like Anpanman, it's not for little children.
+There are lots of bits in it that are quite complex in language, that explain things in a complex manner.
+Now, this four-year-old girl would sit riveted to the screen from the beginning of the show to the end.
+There must have been various bits that she just couldn't understand, but she was just watching the whole thing
+and I don't think she was thinking at any point, "I really don't know what's going on here".
+I don't think that's what she was thinking.
+She was watching the villains -- it's often the villains who have the most complicated speeches --
+taking in their menacing manner, realizing what a threat they were to the Precures and to everybody else.
+The point is that from a top-down perspective there are various kinds of understanding
+from the simplest understanding of just knowing whether someone's angry or happy or sad,
+going down layer by layer to getting more precise, but at every level there is understanding
+and it's not an illusion of understanding.
+It's actual understanding but not perfect understanding.
+And we need to be able to tolerate that and tolerate a lot of it in order to get to the point
+where we really hear Japanese in the way that we hear English or a native language.
+If we spend all our time worrying about what we're getting and what we're not getting,
+all we're going to do is slow down that process and possibly stop it altogether.
+Now, if this top-down approach doesn't come at all easily to you -- and I perfectly understand if it doesn't,
+it's not the most natural thing for me -- is it really necessary?
+And the answer to that is, it is pretty much necessary if you really want to be able to understand the language
+and you're not in Japan, immersing with people who don't speak English a lot of the time.
+But that is really only if want to be able to hear raw Japanese.
+If you're happy to have Japanese mainly as a written language that you can read, that you can write,
+and that you can watch anime or drama or anything else provided there are subtitles,
+then no, you don't need to do this.
+And even holding conversations with Japanese people won't be impossible.
+If you're having one-on-one conversations, they will tend to talk carefully enough
+for you to catch what they're saying.
+So it may not actually be necessary for you to cultivate the skill of listening,
+and I don't even recommend starting it for most people until you've got
+quite a bit of bottom-up understanding as a basis for doing it.
+Your listening ability will build gradually and other exercises that aren't quite so top-down,
+such as watching at full speed with subtitles, which increases your ability to read fast
+as well as your ability to hear and improves your ability to understand the kind of things people do say,
+and also listening with backtracking, so that you can re-hear things.
+All of this is going to add to your ability to hear, and I do recommend using them as well.
+So, the fundamental thing to take away from this is that if we want to cultivate near-native level listening,
+that's to say, if we want to hear people speaking and simply understand what they're saying,
+we need to cultivate this two-pronged attack on the language,
+not just the bottom-up precise matching, but also the top-down fuzzy matching,
+because native speakers use this all the time.
+You use it in your native language much more than you realize.
+If you didn't you couldn't do half the things you can do
+and you wouldn't be able to unjumble jumbled words anywhere near as easily as you actually do.
+So this is the secret ingredient, the missing link that makes listening so very difficult,
+especially for people with a fundamentally logical bottom-up approach to language
+and to life and with a low tolerance of ambiguity.
+The thing to understand is that the top-down fuzzy matching isn't something you can't do.
+It's not something alien to you. It's something you're already doing.
+We just have to train the mind to apply the same techniques to Japanese,
+and the method I recommend for starting to do this is essentially the inverse
+of the bottom-up anime method that we use in Organic Japanese. In other words...
+Cultivating the habit and the ability of simply watching anime for the sake of watching anime,
+enjoying them, getting what you can from them in a top-down manner
+without trying to go back to your bottom-up habit just for that period while you're watching is all-important.
+If you have any questions or comments,
+please put them in the Comments below and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, my producer-angels, who make these videos possible,
+and all my patrons and supporters on Patreon and everywhere.
+I feel so grateful and privileged that so many humans feel that it's worth supporting
+this effort to make Japanese possible to more and more people.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

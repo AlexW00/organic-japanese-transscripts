@@ -1,0 +1,130 @@
+Konnichiwa.
+Today we're going to talk about two things.
+We're going to talk about some "zombies" in Japanese.
+I sometimes call them "fossils", but we can call them "zombies" -- the living dead -- because
+what they actually are is elements of old Japanese that have survived into modern Japanese
+but they don't work the way they used to and they don't work quite the way modern Japanese does either.
+So they are really the living dead, and we'll talk about a couple of these later on.
+First of all, we're going to talk about the kanji for "kiku".
+You probably remember that a short time ago I made a video about
+the kanji that can be used to represent "miru" (see).
+Now, "kiku" also has a group of kanji, this group here.
+We all know the main one, the simple one that everybody learns right at the beginning:
+an ear in a gate, which represents the gate of perception (to quote William Blake)
+that comes in through the ear, the gate of hearing.
+And, as you know, this "kiku" translates to at least three different words in English.
+It translates to "hear", "listen" and "ask", which are three different concepts in English.
+In Japanese, we usually understand from context what's meant,
+but if we want to clarify it in writing we can use one of the others.
+So let's look at the alternative ways of writing "kiku" and examine their kanji a bit.
+First of all there's this one.
+Now, this has an ear on the left hand side, and that designates the type of kanji it is.
+It tells us that it's to do with hearing.
+But what it specifically means is "listen".
+The rest of the kanji is number 10, a net and a heart.
+We can see this mnemonically if we want to as
+throwing out ten nets from the ear to capture audio information and put it into our heart.
+Because that's what it's all about. It's about actively listening, capturing information.
+Now interestingly, just as with "miru", the actual fundamental concept of hearing
+is not represented by the simple basic kanji, it's represented by one of the others.
+With "miru" it's represented by this one, and its on-reading is "shi",
+so we have "shikaku", which is the sense of sight,
+and "shiryoku", which is the power of sight, one's eyesight or vision, one's ability to see.
+The on-reading of this kanji is "chou" and, just as with "shi",
+"choukaku", which is the sense of hearing
+and "chouryoku", which is the power of hearing, one's individual hearing, one's ability to hear.
+We have the two together in some words,
+such as "shichousha" which in English means a viewer of a video or a television program or something,
+but in Japanese it's rather more precisely put as a viewer-and-listener,
+someone who both watches and listens to a video or whatever.
+The number of views I get on my videos is called in Japanese, "shichoukaisuu",
+that's to say, the number of times it's been watched-and-listened-to.
+Any other compound words where the "chou" on-reading is being used, it refers to active listening.
+So, for example, "choukou" is listening to a lecture, listening to a talk or something like that --
+there again the assumption of actively and consciously listening to something, not just hearing it.
+The other kanji for "kiku" is this one, and this doesn't have an ear on the side, it has a word on the side.
+And that's quite logical because what it means is "ask", and you don't ask with your ears; you ask with words.
+The other part of the kanji originally meant "speed", but we can if we want see it as a desk.
+It has a bit of paper falling off it, so if you want a mnemonic, you could say
+the piece of paper falls off the desk and obviously you ask "Where did that piece of paper get to?"
+Well, it's a mnemonic, you can take it or leave it. It wasn't that bad.
+So if you specifically want to say "ask", this is the form of "kiku" you use.
+The on-reading is actually "jin", but you probably don't need to worry about it very much.
+When it's not in "kiku", it's an alternate form of this kanji, which is "tazuneru".
+We can write "tazuneru" like this or like that, and we can use it in other combinations
+such as "jinmon" (questioning), which can be written with a "tazuneru" kanji or this kanji.
+The on-reading in both cases is "jin" and they really don't mean anything particularly different,
+so they're just alternatives, and most of the time you'll actually see the "tazuneru" kanji.
+Now, let's turn to those zombies.
+In Japanese there are some words and verbal elements that are left over from old Japanese.
+One of the ones you hear all the time is the "sen" of "masen",
+which is the negative form of the "masu" helper verb.
+As we know, usually negatives are formed by attaching the helper adjective "nai",
+but with "masu" we suddenly get this "sen" stuck onto the end of it,
+and not even onto one of its proper stems.
+And what is "sen"?
+Is it a verb? It can't be, it doesn't end in -u.
+Is it an adjective? It doesn't end in -i.
+Is it a noun? Well, it doesn't work like a noun.
+So, we're all familiar with that one.
+But here are a couple more that you may not be familiar with and could puzzle you a bit if you see them.
+They are "nu" and "zu", and both of these are negatives.
+How do they work?
+Well, "nu" is essentially something from older Japanese that works
+the same way that "nai" works in modern Japanese.
+You put it onto the a-stem of a verb and we have a negative.
+So, we can say "wakaranai" or "wakaranu"; "hashiranai" or "hashiranu"; "tabenai" or  "tabenu".
+It's really as simple as that.
+The peculiar thing about it is this: one of my commenters recently asked
+"But what kind of words are these "nu" and "zu"?
+Are they verbs? Are they adjectives? What are they?
+And if they're verbs, which is what they look like because they at least belong to the u-row,
+do they modulate, do they have a te-form, do they have a ta-form?"
+And the answer to that is, in modern Japanese, no, they don't really.
+You're only going to see them in their plain, simple form, "nu" and "zu".
+And this is really quite aberrant for modern Japanese.
+We have verbs that modulate, we have nouns that don't modulate.
+We don't have these strange things that look like verbs and used to be verbs but now don't modulate.
+Still, it's easy enough to use. You just put it on in exactly the same way you would use "nai".
+You probably won't be using it, because it's not used much in regular conversation.
+It's rather archaic.
+You will come across it in anime and manga and other kinds of writing.
+And as "nu" works like "nai", "zu" works like "naide", the irregular te-form of "nai".
+It also attaches, of course, to the a-stem like "nai" and "nu".
+And it doesn't mean that "naide" that can be a command or a suggestion, like "nakanaide" (don't cry).
+It's only the "naide" that means "do B without doing A",
+for example, "tabenaide neta" (I went to sleep without eating).
+We can also say "tabezu neta" and it means that same thing: "I went to bed without eating."
+The interesting thing here is that while it's often used in exactly that way,
+it can also be used with -ni, so we could say "tabezu-ni neta".
+And the thing you're probably going to ask there is:
+"Well, I thought that logical particles like -ni can only be attached to nouns".
+And that's right, they can only be attached to nouns.
+So why are we seeing it attached to "zu" here?
+Well, the answer is that "zu" and "nu" don't work like verbs.
+They don't work like adjectives either.
+They don't modulate, so they're not, in modern Japanese, "yougen", which is active, modulating words.
+They're "taigen", like nouns.
+They don't really belong in modern Japanese.
+They're zombies. They're fossils.
+And because "zu" works like a "taigen", a noun, it's sometimes treated as if it were one.
+Since it's adverbial, it can be treated as if were an adverbial noun --
+and I did a video on the three different kinds of special noun
+of which the last one I dealt with was adverbial (or "foxy nouns", as I called them)
+and what happens with these is that we can make any appropriate noun into an adverbial by adding -ni,
+but with adverbial nouns we don't need to add the -ni, but we can.
+Sometimes we do, sometimes we don't.
+And that's exactly how "zu" gets treated,
+because it's not a functional verb, it's a zombie that doesn't modulate.
+If you have any questions or comments,
+please put them in the Comments below and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons, my producer-angels, who make these videos possible,
+and all my dear patrons and supporters on Patreon and everywhere.
+I've had so much support and love from all of you patrons and fans and subscribers and everybody,
+as well as the odd person who calls me a creepy android with a weird voice.
+But what I am doesn't matter.
+What matters is that we're cutting a path through the jungles of Japanese
+and making this beautiful language our own.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

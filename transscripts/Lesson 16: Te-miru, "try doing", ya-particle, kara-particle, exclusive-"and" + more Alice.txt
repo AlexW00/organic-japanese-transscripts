@@ -1,0 +1,265 @@
+Konnichiwa.
+Today we're going back to Alice, and we're going to be using quite a lot of trains this time
+because I want us to really grasp the structure of these sentences.
+So, if you remember from last time, Alice had just entered the rabbit hole
+and quite surprisingly she finds herself falling very slowly down a vertical hole.
+"Ochiru aida-ni hima-ga tappuri atte mawari-wo yukkuri mimawaseta."
+Now, I'm going to tell you what this means first and then we're going to break it down.
+"Ochiru aida-ni"
+"Ochiru", as we know, is "fall".
+"Aida" is a period of time
+and it's also the space between two things.
+And obviously a period of time is always, metaphorically
+speaking - and we can only really talk about time in spatial metaphors  -
+a period of time is always a space between two points, isn't it?
+It has a beginning and it has an end.
+So "ochiru aida-ni" means "while she was falling / during the period of time while she was falling".
+"Hima" means "free time / open time".
+It's a word you'll see quite often, and it can be used in
+both a positive or a negative sense.
+It can mean free time to do what you want to do,
+or it can mean empty time, being bored, having time hanging on your hands.
+Here it just means having plenty of time available to look around, because she's falling, she
+can't do anything else, and she's falling rather slowly.
+"Tappuri" means "in large quantities".
+It's another one of these ri-ending adverbs that don't need -ni.
+And it means "in large quantities / in plentiful amounts" - rather like pouring from a tap:
+"tappuri", "in large quantities".
+And here it's an adverb describing the fact that the "hima", the "free time", exists.
+So the free time exists in large quantities.
+So that's our first logical clause: "Ochiru aida-ni..."
+(which simply sets the scene, the time, for the action -
+it's an absolute time expression because it's a particular
+time, so it takes -ni)
+"...hima-ga tappuri atta" ("there was a lot of free time").
+Now, the next part - "mawari-wo yukkuri mimawaseta" - is interesting because this is another example
+of what we were talking about last week:
+self-move/other-move pairs.
+"Mawaru" means to "go around/move around".
+The rather childish name for a policeman is
+"omawari-san", which means
+"someone who goes around / someone who does the rounds".
+"Mawasu" means "make (something) go around/to send (something) around/to cause it to go around"
+and of course, as we learned last week, we easily know which of the pair is
+the self-move word (going around) and which is the other-move word (sending around) because
+the sending-around one ends in -su.
+Now, we don't actually have "mawaru" here; we have "mawari".
+And as we've mentioned before,
+when we take the i-stem of a verb and use it on its own
+it usually becomes a noun.
+There is another use which we're not going to enter into right now, but in this case
+it is becoming a noun.
+So, what does "mawari" mean?
+"Mawari" can actually mean two things: it can be the noun-form of "mawaru", in which case
+it's "going around", "doing the rounds", and that's what we have in "omawari-san", a policeman -
+here's someone who does the act of doing the rounds,
+"mawari" is "the act of doing the rounds",
+but it can also mean "the surroundings",
+and in this case it actually takes a different kanji to
+show that it's a slightly different meaning of the word.
+It's still the noun-form of "around", but in this case
+it's the surroundings, not the act of going around.
+So, "mawari-wo yukkuri mimawaseta" means
+"she could in a leisurely manner...
+("yukkuri", that adverb we learned last week)
+... she could in a leisurely manner 'mimawasu' "
+What does "mimawasu" mean?
+We know what "mawasu" means - it means to "make (something) go around".
+"Mi-mawasu" is attaching "mawasu" to the i-stem of "miru".
+We can't actually tell it's the i-stem, because this is an ichidan verb, and all ichidan stems
+look the same, as we know, but we know that this is in fact the ren'youkei, the i-stem,
+because that's the one that gets used for attaching verbs to other verbs.
+So, "mimawasu" means literally "send your
+looking around / send your eye-beams around
+the place / make your looking go around".
+So, "mawari-wo mimawasu" is "look around the place / send your eye-beams,
+send your looking around the place".
+And "mimawaseru" is, as we've seen, the potential form of "mimawasu".
+So what this is saying is "because a lot of time existed she was able to leisurely send
+her looking around the surroundings".
+"Mazu-wa, shita-wo mitemita kedo, kurasugite nanimo mienakatta."
+"First of all, she tried looking down, but it was too dark
+so nothing was visible (nothing could be seen)."
+"Mazu-wa" means "first of all".
+"Mazu" is "from the start / from the beginning".
+"Mazu-wa, shita-wo mitemita". Now,
+"shita-wo miru" is "looking down / looking at the down".
+We know that in Japanese "down" is always a noun, don't we?
+So you look "at the down" - "shita-wo miru".
+But it doesn't say "miru" here; it says "mitemita".
+And this is a form of speech that we're going to find a great deal.
+When we add "miru" to the te-form of another verb, what we're doing is saying "try doing something";
+literally we're saying "do it and see".
+So, "tabetemiru" means "eat it and see / have a taste of it".
+"Do you like this?"
+"I don't know."
+"Tabetemite kudasai.
+Try it, taste it, eat it and see."
+We often say "yattemiru" - "I'll give it a try / I'll try and see what happens".
+"Yaru" is a more casual form of "suru",
+and you can say "shitemiru", especially in more formal
+circumstances, but more often we say "yatte-miru":
+"Give it a try / give it a go / do it and see."
+So here we're actually using "miru" with "miru".
+"Mite-miru" - "try having a look / take a look / have a look and see".
+So, "shita-wo mitemita kedo, kurasugite".
+"Kurai" is "dark" and "sugiru", as we've talked about before, means "going by, going beyond".
+So in this case "sugiru" means "too much / going in excess of".
+In other words, it was too dark.
+It was excessively dark; it was too dark.
+"Kurasugite nanimo mienakatta".
+"Nanimo" means "even as much as (something)" - "nanimo".
+And I've done a video on these uses of -mo which you might want to watch.
+"Nanimo mienakatta" - now, "miru" is "see";
+"mieru" is "be able to see".
+And if we look at the trains here,
+we've got to have a ga-marked subject in this second clause:
+"nanimo zero-ga mienakatta".
+What is the zero in this case?
+If we're looking at it in English terms we might think it's
+Alice - "Alice couldn't see anything".
+But in Japanese it will usually in fact be "nani", which is "a thing / something".
+"Nothing was able to be seen, nothing could be seen",
+because usually with expressions like "mieru/mienai",
+"kikoeru/kikoenai", "be able to hear" "be able to see" -
+we apply it not to the person who's able to see,
+but to the thing that's able to be seen.
+And of course we've covered this, haven't we, in our lesson on the potential.
+"Sono ato": "ato", as we know, means "after" - we've had it in following after someone,
+but it also means "after" in the other sense, "after that".
+"Sono" means "that"; "sono ato" means "after that".
+So again, this is just a time-expression, setting it in time.
+And this time it's a relative time-expression, "after that / after a particular thing",
+so it doesn't need -ni.
+"Sono ato ana-no mawari-wo mite"  So now she's not looking down.
+This means "the surroundings", again, "mawari", of the hole "-wo mite" -
+"after that, she looked at the surroundings of the hole".
+"Me-ni tomaru-no-wa gisshiri naranda todana ya hondana datta."
+Right, so this is quite complex.
+The first clause is simple enough.
+"Sono ato ana-no mawari-wo mite" - "After that, she looked at the surroundings of the hole".
+The second clause has quite a lot for us to consider.
+"me-ni tomaru-no-wa" means literally "the thing that stopped in her eye".
+Now this is a similar expression to, in English, "the thing that caught her eye", isn't it?
+Various things passed through her eye, passed through her vision, and the thing that stopped
+there was what we are going to talk about.
+But we also need to look at this use of -no.
+As we've seen before, -no is like apostrophe-s ('s) in English.
+So if we say "Sakura-no doresu", we're saying, "Sakura's dress".
+Now also, just as in English, if you say, "Which dress do you like best?"
+Suppose that Sakura and Mary are both wearing dresses and you say, "Which dress do you like best?"
+In English you might say, "Sakura's. I like Sakura's best".
+You could say, "Sakura's dress"
+but you don't have to, you can just say, "Sakura's".
+And it's the same in Japanese.
+You can say, "Sakura-no" - Sakura's, the one that belongs to Sakura.
+But this can be taken much further in Japanese, and
+I've done a whole video about this particular use of -no,
+which you can look at if you want to go deeper.
+But in this case the way it's taken further is "me-ni tomaru-no" -
+this is "the thing, the one that stopped in her eye".
+"Which dress do you like best? Sakura's,
+Sakura's one, Sakura's thing, Sakura's dress."
+"Me-ni tomaru-no" - "the thing, the one that stopped in her eye".
+So, "ana-no mawari-wo mite me-ni tomaru-no-wa" -"looking at the surroundings of the hole,
+the thing that stopped in her eye was...'"
+And what it was, was "gisshiri naranda todana ya hondana datta".
+"Gisshiri" is yet another one of these ri-ending adverbs that don't need -ni.
+"Gisshiri" means "tightly packed".
+"Naranda" is the past tense of "narabu" which means "lined-up", so "gisshiri naranda" means
+"tightly lined-up / packed together / lined-up and packed together".
+"Gisshiri naranda todana ya hondana datta".
+All right. Well, we'll get to the "ya" in just a moment, but
+"todana ya hondana".
+The word for a shelf in Japanese is "tana", and when we add something before it to tell
+us what kind of a shelf it is, we use that "ten-ten hooking" that we've talked about before.
+So the "ta" becomes "da": "Todana" - that "to" means "door", so literally, "todana" is a "door-shelf"
+and that is the Japanese word for a cupboard.
+And it's quite a good word, I think. That's what a cupboard really is, isn't it?
+Shelves, with a door.
+It's a better way of saying cupboard than the English
+way which says it's a board on which you put cups,
+which isn't quite what a cupboard is.
+"Hondana" is even easier:
+it's quite literally a book-shelf, bookshelves.
+Now, this "ya" is something we need to cover.
+When you want to say "and" - something "and" something else - how do you say it in Japanese?
+We know that when you're putting two clauses together, we use the te-form, or sometimes
+we use other things, like "demo".
+In English we use "and" in all cases: we say
+"bread and butter", "pencil and paper".
+We also say "I went into the baker's and bought some bread."
+But in Japanese we don't use the same "and" in the two cases.
+We already know some of the ways we can "and" two clauses together, but when we're "anding"
+two things together, there are two ways to do it.
+And one is to use the to-particle.
+We know that the to-particle is the quotation particle, but it's also the and-particle.
+So if you want to say "pen and book", we say "pen to hon".
+But we can also use the ya-particle,
+so we can say "to" or "ya"
+when we want to "and" together two or more objects.
+What's the difference?
+Well, as a matter of fact it's a very useful difference,
+and one that we could do with in English.
+"To" is an exclusive "and".
+If I say, "What's in that box?" and you answer "pen to enpitsu" - "pens and pencils" -
+you are telling me that there are pens and pencils and nothing else in that box.
+If you say "pen ya enpitsu", you're saying there are pens and pencils and there might
+also be something else - and very often you're implying that there is something else because
+you're avoiding using the exclusive "and".
+So what "stopped in her eye" was the fact  that
+cupboards and bookshelves (among other things)
+were tightly lined around the walls.
+"Tana-no hitotsu-kara bin-wo tori oroshita."
+"Tana-no hitotsu": "hitotsu" means "one";
+"kara" is a particle meaning "from".
+Now, here she's using "tana" on its own - "shelves" - and
+because it's not joined to anything, it's "tana" not "dana".
+And so she is saying "from one of the shelves"
+- "tana-no hitotsu-kara", "from one of the shelves" -
+notice here than "tana-no hitotsu" is really just the same
+as English "one of the shelves" - "tana-no hitotsu".
+"Tana-no hitotsu-kara bin-wo tori oroshita."
+Now, "toru" means "take", and "orosu" - the kanji, as you can see, is the kanji for "down",
+and again this is part of a move-pair, self-move/other-move pair, which is why I introduced them early.
+Most courses would regard that as an intermediate thing, self-move and other-move, but I think
+it makes it much easier to recognize what words are doing if you're aware of this.
+"Oriru" means "come down / step down" - come down the stairs, come off a bus.
+"Orosu" means "bring down".
+And once again, we know which is the other-move one - you "bring (something else) down"
+- that's the one that ends in -su: "orosu".
+So "tori orosu" means "take and bring down". "Tana-no hitotsu-kara bin-wo tori oroshita."
+"From one of the shelves she took down..."
+"bin" usually gets translated as "bottle";
+in fact in this case I think it was more of a "jar".
+What was in it?
+Well, we'll have to wait till next time to find out.
+Now, before we go, there's something I want to ask you because I want your input on the
+direction of this course.
+You may have noticed a few changes this time.
+The most obvious of them is that I am not using romaji for Japanese words any more.
+I've been asked to do this, and also it's what I think I should be doing because it's
+structurally very important to start thinking of Japanese in kana terms not in romaji terms.
+And if we're in training for reading real Japanese, which we are, it's important to
+start reading it in kana - and kanji as far as possible.
+I will continue to use furigana prominently for all the kanji, but if I use romaji it
+interferes with the process of your recognizing and ingesting Japanese, because your mind
+will jump to the thing it finds most comfortable and easily recognizable -
+that's the way it works, we can't stop that happening.
+So if this is helpful to you, please let me know in the comments below.
+If it's unhelpful to you, if it's making it harder for you to follow the explanations,
+then let me know that too, because I need to know that.
+But remember that if you need to pause at any point, you should be pausing the video.
+If you need to take a minute to take things in, to read the extra information on the screen,
+to work out the kana if you're still a little bit slow on that, please use the pause button.
+I do take things quite fast.
+There is a lot of information in these videos, and I do that on the assumption that you're
+able to pause the video whenever you need to.
+Nothing wrong in doing that.
+Don't think you're being slow - the videos are made with that assumption in mind.
+Thank you.
+I'd like to thank my Gold Kokeshi patrons, my producer-angels, who make these videos possible,
+and I'd like to thank all my patrons and supporters on Patreon and everywhere.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

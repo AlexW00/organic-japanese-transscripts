@@ -1,0 +1,176 @@
+Konnichiwa.
+Today we're going to talk about building a core vocabulary the organic way,
+and since this is the second in our series on this subject, we're going to get down to the specifics
+of how we use Anki as a handmaiden in this enterprise.
+Unlike other means of learning core vocabulary, Anki is not the center of our efforts.
+We're not spending all our time hunched over an Anki deck.
+We're learning core vocabulary in the wild from Japanese-subtitled Japanese anime.
+Anki plays a secondary or handmaiden role in our acquisition of Japanese vocabulary.
+We use it for two reasons: firstly, to hold words in place between natural exposures,
+so that we don't forget them, and secondly, in order to learn kanji,
+because we're not learning kanji in the abstract either.
+We're learning our kanji as part of living Japanese words and our words
+as part of living Japanese experiences.
+Our main exposure to the words will come from the soundtracks of the anime which,
+once we've worked through them, we will have on our mp3 players.
+So, the question is, since Anki is a handmaiden and not our main learning tool,
+how do we go about using it?
+What should your Anki card look like?
+Fortunately for us, when you use something like Yomichan, the default card that it makes
+for you is going to be pretty much what we want.
+It needs to look like this.
+It should have the word on the front.
+And on the back it will have the reading of the word if it's in kanji,
+the definition of the word, and a native speaker pronouncing the word.
+All this will be done for you automatically by Yomichan. [kantan]
+Now, why do we want it exactly like this?
+Let me answer a few questions on that.
+First of all, why do we want the Japanese word on the front?
+Some systems, including core vocabulary courses, put English on the front and ask you to produce
+the Japanese word.
+Why is that not a good idea? Two reasons.
+Firstly, in many cases we'll find that there is more than one way of saying the rough equivalent
+of the English word -- and all equivalents are rough -- in Japanese, so you're not going
+to know what's being expected.
+More importantly, is this.
+Humans have two kinds of vocabulary in their minds: passive vocabulary and active vocabulary.
+Everybody has this, even adults at a high level of literacy have words that they understand
+when they see them but don't actually use themselves.
+Children, who are the archetypal language learners, have this very markedly.
+There are words that they understand but don't produce.
+And when they do produce them, sometimes they get them wrong and everybody laughs.
+And that's part of the learning process, that's fine.
+What's actually going on here is that the word is in the process of moving
+from passive vocabulary to active vocabulary.
+And this is how we learn language.
+Words go into passive vocabulary first and then move into active vocabulary
+when we include them in our speech or our writing.
+Now, I'm not one of these people who believes in input only.
+I think output is important too.
+But input leads output.
+We get words as passive vocabulary first, and over time as we become used to them they
+move into our active vocabulary.
+So trying to force everything into our active vocabulary from the beginning by getting us
+to produce the Japanese word from the English word is the wrong way around.
+Now, some people will ask, why a word and not a sentence?
+Isn't it better to have sentence-based cards?
+And the answer to this question is that whether it's better or not depends on what you're
+trying to do and how you're trying to do it.
+Sentence cards come from a very different ecology from the one that I'm suggesting here.
+They come from an ecology, fundamentally pioneered by AJATT, in which a) you learn your kanji
+from Heisig; that's to say you learn kanji as abstractions with English keywords.
+We are not learning our kanji from Heisig.
+We're learning it right here, from anime.
+Consequently, we need to have the kanji on the front of the card, because if we have
+a sentence on the front of the card we will be able in many cases to know that word from
+the context of the sentence rather than from recognizing the kanji.
+And a second thing is that AJATT attempts to get one to learn Japanese structure from sentences.
+That's to say, they don't do any structure, not if you're doing pure AJATT, and that's
+natural because at the time that AJATT was designed it wasn't possible to learn Japanese structure.
+The nearest you could get was learning the illogical mish-mash that you get in the textbooks
+and the Japanese grammar websites.
+AJATT didn't recommend that, and I don't recommend it either.
+I recommend starting with real structure.
+If you do that, you're not trying to gather structure in an intuitive way from sentences on cards.
+You're getting your structure as structure, and the only thing Anki is doing is pinning
+the vocabulary and helping you to learn to recognize the kanji.
+And for that, we can't use sentences.
+Now, the third question you may want to ask is, do I need to have kanji on the front?
+Isn't it all right just to have the word in hiragana?
+And the answer to that is this: kanji are not your enemy -- they're your friends.
+They are going to help you to learn vocabulary.
+They're going to make Japanese much easier, especially if you know some "hacks" that I
+teach you in my other videos.
+Believe me, trying to learn without kanji is not making Japanese easier, it's making it far, far harder.
+However, and depending on the stage you're at in terms of kanji, it is permissible to
+in some cases defer or skip the kanji.
+I wouldn't do it a lot, but when you encounter a kanji that looks too complicated for you
+at this stage or doesn't seem to be one that you want to learn, then if the card is a kanji
+card already, what you can do is open up the editor which you can do either on the computer
+or on a mobile device, select the reading of the word in hiragana and just drag that
+into the top field where it will appear on the front of the card.
+You can also, if you want to, drag the audio into that top field so that you hear that
+from the front of the card.
+Now, I don't recommend doing this more than you need to, but when you need to you should do it.
+Another important thing to bear in mind is that you don't want the kanji for all words.
+As a general guideline, if it's not in kanji in the subtitle where you see it,
+don't have it in kanji on your card.
+And also look for the "uk" sign on your Yomichan. This means "usually kana".
+If a word is usually written in kana, you don't need at this stage to learn the kanji.
+Will you ever learn it?
+Yes, you'll learn it later, and it'll be a lot easier at that stage.
+But you don't need to learn it now.
+In fact, one of signs of a foreigner who's learned through Heisig is that they use too many kanji.
+They write words in kanji that Japanese native speakers don't usually write in kanji.
+So check for that "uk", check for whether it's written in kanji or not in the subtitles themselves
+and if you want a word to have the kana on the front of the card,
+you press this button instead of pressing the usual button, which is this one,
+and the card will have the reading, the kana, on the front.
+Now, while we're talking about means of filtering what we learn, there's one more important
+subject that we must discuss, and that is: which words do you put into your Anki?
+If you're doing the anime method at a reasonable pace, you will be getting a flood of new words.
+You're not going to be able to remember them all.
+When you put an anime or a section of anime onto your mp3 player and
+you've worked through it so that you can recognize a lot of words, you won't remember them all,
+they won't all pass into your long-term memory.
+This is normal and nothing to worry about.
+The ones that you really want to pin down are the ones you put into your Anki.
+But how do you decide which one should go into your Anki?
+You can't put them all in or you'll flood your Anki.
+There are three criteria for deciding.
+One: if you think you're likely to remember a word, because it's repeated often in the amime
+or because it seems natural and easy to you, then you want to consider not putting it into your Anki.
+You don't want to put more into your Anki than you actually need to be there.
+If it doesn't work out, if you don't remember  it, you'll be getting other chances to put it in.
+It's never your last chance to put a word into Anki,
+and if it is, that means you don't need it, doesn't it?
+The second criterion is: do you think this word is going to be used often in the anime?
+For example, if the anime is about witches, you're going to want the word "witch" and
+a number of associated terms.
+If you don't think you'll remember them naturally from repetition, you need words specific to
+the anime that are likely to be repeated a lot in your Anki.
+And a third criterion is the general usefulness
+of the word.
+Now, to some extent common sense will guide you here, but a very useful tool is this one,
+which is the Innocent Corpus.
+The Innocent Corpus is one of the dictionaries available out of the box on your Yomichan,
+and what it is is a list of words compiled from five thousand Japanese novels.
+And the number here represents how many times the word has recurred in those five thousand novels.
+So we see this word here is "eiga", which means a "movie", and it's recurred over 20 thousand times.
+Now, common sense would tell us the "movie" is a fairly regularly used word, but we know
+from this than "eiga" is a common word like English "movie" or "film",
+not an obscure word like English "cinematograph".
+Now, since there are five thousand novels and the word has been used over 20 thousand times,
+we know that it's used, on average, four or five times per novel. That's pretty frequent use.
+Generally speaking, if a word is used more than ten thousand times over the corpus of novels,
+we know that it's a commonly used word that we want to know.
+If it's used only a hundred or so times or  less, we know it's an uncommon word that,
+unless it's specific to the anime we're watching or to some other target material, we probably
+don't need to learn it right now.
+The numbers are not infallible and you shouldn't be completely bound by the numbers,
+but you should install the Innocent Corpus, which you can do easily from the Yomichan settings,
+and use it as a tool in deciding which words to include in your Anki.
+Now, there's one thing that you really should not do.
+Please don't use romaji.
+You should be thinking of Japanese either in kanji or in kana, never in romaji.
+This may make things seem a little harder at first, but it's very, very important.
+If you really want to put off a particular kanji, you don't want to learn it at this stage, that's fine.
+That's your decision.
+You don't have to learn all the kanji at once, but I would learn as many as you feel you reasonably can.
+The point here is that we are learning kanji not as abstractions.
+Just as in Alice in Kanji Land, we never learn a kanji on its own, we always learn kanji
+in the context of actual Japanese words.
+So, you'll learn any particular kanji first, in whatever word it was you happened to encounter it in,
+and then you'll encounter it in other words and you'll get to know it more fully.
+This is the organic way of learning. And this is how you build a core vocabulary.
+You get a basic mounting-block amount of vocabulary to begin with, and it doesn't matter where
+or how you do that, and once you have that, you have a few hundred words, up to about a thousand words,
+you jump into anime and you learn the rest of your vocabulary from now on
+as real words in real contexts and a core, which is likely to be repeated as
+you go through the same or similar anime.
+If you have any questions or comments, please put them in the Comments below and I will answer as usual.
+I'd like to thank my Gold Kokeshi patrons and all my patrons and supporters on Patreon and everywhere.
+You'll find my Red Kokeshi patrons credited in the information section below.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

@@ -1,0 +1,169 @@
+ 
+Konnichiwa.
+Today we're going to talk about the second most important element in learning Japanese,
+and that is vocabulary.
+And we're going to talk about a number of things including how we can use the concept
+of input and output to make our vocabulary learning much faster and more efficient.
+Vocabulary is the biggest single learning element in learning Japanese or any language,
+but particularly Japanese because unlike languages related to our own
+we don't have a large proportion of the vocabulary closely related
+to equivalent vocabulary in our own language.
+This makes it an even bigger task.
+But we can cut down that task considerably if we take a rational organic approach to it.
+The conventional approach to learning vocabulary,
+which actually works somewhat better with related languages than it does with unrelated languages,
+although I don't think it's a wonderful strategy at any time,
+really misrepresents the process that happens when we learn vocabulary.
+It does this because it misunderstands what it really means to learn a word.
+I recently wrote a post on Patreon called
+"Why Japanese-to-English dictionaries are full of baloney".
+Now, that was a somewhat provocative title and perhaps a bit unfair
+because dictionaries only do what they're supposed to do,
+which is give brief definitions of Japanese words in English.
+They're not supposed to be writing 12-page essays on words.
+The problem is that in most cases Japanese words don't actually correspond directly to English words.
+In the case of very simple nouns they do:
+tree, water, house, pencil, hand, foot, correspond pretty much exactly.
+Well, as a matter of fact "foot" doesn't.
+There isn't a word in Japanese that corresponds exactly to the English word "foot".
+But most of the time these simple nouns have exact equivalents.
+As soon as we get into anything even a little bit abstract, exact correspondences become pretty rare.
+Even the words "up" and "down" don't correspond to any words in Japanese.
+"Up" and "down" are prepositions, and there are no prepositions in Japanese.
+"Ue" and "shita" are nouns and they work differently from "up" and "down" in English.
+Now, once we get into subtler areas like, say, the word "interesting",
+we encounter a phenomenon which we're going to find in the majority of Japanese words.
+And that is that words in any language cover a particular area of the meaning spectrum.
+And it's relatively rare for a Japanese word
+to cover the exact same area of the meaning spectrum as an English word.
+Now, this shouldn't be a cause for panic, because in fact it's going to work in our favor.
+But first of all let me explain what I mean.
+Let's take the word "omoshiroi", which is usually defined as "interesting".
+Now, the truth is that the word "interesting" and the word "omoshiroi"
+don't cover the same area of the meaning spectrum.
+On one end, "omoshiroi" shades into areas of the meaning spectrum that
+in English are covered by "amusing" and words of that sort.
+On the other side, the word "interesting" shades into areas that are covered
+not by the Japanese word "omoshiroi" but by the Japanese word "kyoumibukai".
+And even this is oversimplifying the matter a little.
+So, the idea that words can be translated,
+that they have exact equivalents in other languages, is something of a myth,
+especially when we're talking about unrelated languages like Japanese.
+Now, one of my Patrons said that he found this very discouraging
+because he was spending a lot of time learning words
+and then here was I saying that what he was learning wasn't true anyway.
+And I can see why that would be discouraging,
+but the important thing here is that we really have to get rid of the whole conventional idea of learning words
+and replace it with a different and more effective model.
+So what do I mean by this?
+Well, the idea of learning words in the conventional model is treated as a fact.
+Such as, a square is a figure with four sides and four corners and the sides are of equal length.
+A triangle is a figure with three sides and three corners,
+and in an equilateral triangle the sides are of equal length.
+These are straightforward pieces of information that you can just learn.
+Words are not like this.
+Words are more like people.
+If you're introduced to a person, you'll learn her name and you may learn a couple of other things
+like what her occupation is and where she comes from.
+Would you say that you then know that person?
+I don't think you would.
+It's only when you've met her on several occasions under different circumstances
+and had conversations with her that you start to say that you know her.
+And the same is true of words.
+What you get in a dictionary or a word list or even in sample sentences is just an introduction to the word.
+We don't know the full range of its personality.
+We can't learn words from dictionaries.
+We can't learn words from Anki.
+We can only learn words from meeting them again and again in real Japanese.
+And that's one of the reasons why the only way you can actually learn Japanese
+as opposed to learning *about* Japanese is by immersion.
+And specifically in this case by what we can call "massive input" --
+by getting a lot ofJapanese passing through your mind.
+Now, this fact that words don't have exact correspondences, exact definitions for the most part
+is what troubled my Patron.
+We were actually talking about the word "motsu",
+which we're often taught means "hold or have", and that's really quite true.
+And what I was discussing was someone who used an expression like "heya-ni-wa gēmu-wo motsu",
+which was intended to mean "I have games in my room".
+This, unfortunately, isn't natural Japanese, because the word "motsu" fundamentally means "hold"
+and by extension it can mean "have".
+So if you say "pen-wo motsu", you could mean you're holding a pen
+but you could by extension just mean that you have a pen.
+You might have it in your pocket.
+However, saying "heya-ni motsu", "I have in my room", is stretching the link to the English word "have" too far,
+because we've moved too far away from the original "hold" meaning of "motsu"
+into possessing something in a place other than the place where one is,
+which does really stretch the word too far.
+Now, this is what my Patron was worrying about:
+"So, I learn a word like 'motsu' and then I find actually it can't be used in this or that circumstance,
+and this is true of lots and lots of words."
+So why isn't this worrying?
+Well, this is where we get to the question of input and output.
+As I say, I don't really like these words too much, so what I would prefer to say,
+which boils down to the same thing, is "passive and active vocabulary".
+In language, words always enter our passive vocabulary before they enter our active vocabulary.
+That's to say, before we get to the stage where we can use them well in so-called "output"
+-- speak them and write them --
+we have a stage where we understand them when we hear them,
+but we can't necessarily use them very accurately.
+We all see small children going through this phase
+and foreign speakers of languages go through it as well.
+It's not anything to worry about.
+The only problem is that when we have this concept of "learning a word",
+which is supposed to include the full range of the use of that word, we start to worry:
+we've learned "motsu", but we can't use it under all circumstances.
+That isn't a problem at all, that's just natural.
+How does this work in our favor?
+Well, once we jettison the conventional notion of learning words,
+we can comfortably settle into the idea that when we put words in our Anki, our SRS, or whatever,
+we're not trying to learn the word.
+We're just trying to pin it in place.
+So it doesn't matter if the definition is just one other word.
+And preferably, if we know one, a Japanese other word.
+But the point is that whatever that definition is, whether it's a quick, short Japanese sentence,
+another Japanese word, an English word, it doesn't really matter, because that's not where we're learning it.
+That's just a tacking stitch where we pin it in place.
+Where we learn it is the same place where we get to know a person, that is to say,
+in multiple encounters, in context, in understanding what a word really is and how it really works in Japanese
+as opposed to how the supposed equivalents work in English.
+This takes a massive burden off the learning of words.
+We're not trying to learn them to active vocabulary level.
+We're only trying to learn them to passive vocabulary level.
+This means that an introduction, a hint, is all we need.
+In our Anki we shouldn't have long definitions on the back of our cards.
+We should have the briefest definitions we can get away with.
+We shouldn't be trying to memorize all kinds of things about the word.
+We should be simply pinning it in place and letting our immersion do the rest.
+Now, of course, sometimes one needs to use words in output, that's to say, use them actively.
+Now, if you need to use new words that you only just learned in output
+and sometimes that happens particularly in writing --
+I do have a technique for that which can help you enormously
+and save you from using strange Eihongo (that's to say, English-structured Japanese).
+However, that's for another video.
+And I'd like to add a point that I've made elsewhere,
+which is that I'm not suggesting that you avoid active use of Japanese so-called "output" for a long time.
+On the contrary, you should use Japanese actively whenever you get the opportunity to do so.
+Sometimes you'll use words wrongly just as children sometimes use words wrongly
+and foreigners in any language sometimes use words wrongly.
+If your partner is a conversation-partner or a tutor, she may correct you or she may not. It doesn't matter.
+A good conversation-tutor knows that over-correcting is not a good idea.
+The important thing is to keep up the flow of communication.
+That's the way you get the feel of Japanese.
+The "komakai" bits, the small stuff, the exact meanings, etc --
+that will come to you over time if you're immersing in Japanese.
+And if you're not immersing in Japanese, why are you worried about it anyway?
+So the fact that a word doesn't correspond exactly to its English equivalent is no cause for worry.
+And if you are worrying about it, the chances are that what you are doing in fact is over-learning words.
+You don't need to do anything more than pin words in place so long as you're immersing in Japanese.
+And since that's the only way to actually learn words rather than just learn *about* words,
+if you aren't immersing in Japanese, you're not going to learn them anyway.
+If you have any questions or comments,
+please put them in the Comments below
+and I will answer as usual.
+I'd like to thank my dear Gold Kokeshi patrons, who make these videos possible,
+and all my dear patrons and supporters on Patreon and everywhere.
+It's you who allow this revolution to happen.
+Thank you.
+And I'd like to thank you for attending this lesson.
+Kore kara mo yoroshiku onegai shimasu.
+Class dismissed.

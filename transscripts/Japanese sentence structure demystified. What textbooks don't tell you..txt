@@ -1,0 +1,209 @@
+Hello, pretty peoples. KawaJapa no Kyua Dorii desu. I am Cure Dolly from KawaJapa.
+Today we are going to talk about the
+most important single topic in learning
+Japanese and that is the structure of
+the language itself. The first thing I
+want to say about this is that the
+structure of Japanese is very, very
+simple – much simpler than English
+structure or French structure or Spanish
+structure. It's very consistent, it has
+very few exceptions, and it is very, very
+logical – and you can't say that for many
+languages. The second thing I want to say
+is that the reason it does not seem
+simple is because the standard textbooks
+and schools don't actually tell you what
+that structure is. Instead of telling
+what Japanese structure is, they tell you
+what English structure is and try to
+describe Japanese in terms of that. And
+it doesn't work very well. It's rather
+like trying to do electronics with the
+kitchen knife instead of the correct
+screwdriver. In order to understand what
+Japanese structure actually is, you
+have to look at Japanese as if it were
+Japanese and not English, because that is
+what it actually is. It takes a little
+effort in the first place, but not a
+great deal, and it makes the language
+simpler forever afterwards. All right then, let's
+look at what Japanese structure actually
+is. Now, as I explained in our very first
+lesson, the fundamental structure of
+every single Japanese sentence is the
+same. It has a shugo and a jutsugo. It has
+the thing that is doing or being
+something and the thing that it is being
+or doing, and those two things are always
+connected by the same particle, the
+fundamental logical particle, ga. That
+is the structure of Japanese. Now, problems arise. You can't always see the ga in a
+sentence, and I explained this completely
+in my lesson on the zero particle and
+the zero pronoun. Once you understand
+that, you can understand how every
+Japanese sentence is those two things
+linked together by ga. Now, certain other
+apparent problems can arise. The first
+one is very, very normal, and it is that,
+as in any language, sentences can become more complex. For example, we may have a
+compound sentence which is two complete logical sentences joined together. In
+English for example, we may say, "I went to the shops and bought some bread." We call
+that a sentence, but as you see it is in
+fact two complete logical sentences
+joined together:  "I went to the shops" –
+the doer is I, and going to the shops is
+what the doer does – "and bought some bread" – the doer again is I,
+and the thing done is buying bread. That's very simple, but it can become much more
+complex. We can say, "I went to the shops that are just across the road from the
+amusement park and bought some bread,
+which turned out not to be very good."
+Yet still, the fundamental structure is
+those two logical sentences: "I went to
+the shops" and "I bought some bread."
+It's the same in Japanese. The only
+difference is that in English we
+sometimes put the clauses that modify
+the doer and the thing being done before
+the subject and sometimes after it. In
+Japanese they always come before.
+Everything modifying anything comes
+before it. So once you get used to it, it is very, very
+simple. The real problem, however, is not these
+natural complications of language. It is
+the fact that the way Japanese is taught
+completely obscures the structure of the
+language. Japanese grammar is taught as
+if it were English grammar and that
+completely obscures the structure in
+some cases – and of course if you obscure the structure in some cases, you throw
+doubt and confusion onto all cases. Let
+me go into anime mode to explain the
+problem. So, let's see what goes wrong.
+Let's take a simple sentence of the
+kind that you learn from very early on:
+"Watashi wa koohii ga suki desu."
+We are told that that means "I like
+coffee" – and it doesn't. "I like coffee"
+is what you would say in English, but it
+is not what that sentence means. If it
+did mean that, it would throw Japanese
+grammar into complete confusion and that's
+exactly what it does. Because what's
+going on here? We are asked to believe
+that the wa is marking the subject –
+the actor, the doer – and that the ga is doing
+what? – it's somehow linking coffee and the act of liking together, but the act of
+liking here is not a verb, it's actually an
+adjective. What's actually going on here
+is that the "watashi wa" is not the
+subject of the sentence; it's simply the
+non-logical topic. I explained about
+non-logical topics in my lesson on the
+wa particle. So the topic is "watashi wa" –
+ speaking of me. "Speaking of me,
+coffee is pleasing." Coffee is the subject
+of the sentence and that's why it's
+marked by ga. Coffee is doing something
+or being something and what it is doing
+is being pleasing. Who is it being
+pleasing to? Well, it might be being pleasing
+to anyone, but we have set the topic as I,
+so we can take it that it's being pleasing
+to me. It's really as simple as that. This
+isn't the way we would say it in English,
+but it's actually the way, or very close to
+the way, that we would say it in Spanish.
+If we say "Me gusta el tequila," what we
+are saying is "To me, tequila is pleasing."
+We're not saying "I like tequila" and if
+you think it is saying that, which is
+also what the textbooks tell you, you're
+going to get very confused about how
+Spanish grammar works. Unfortunately in
+Japanese the problem is a lot bigger,
+because an awful lot of Japanese
+sentences work this way. Japanese is much
+happier to allow the doer, the actor, the
+be-er of the sentence to be an object or
+a condition rather than a person. English always wants an ego
+at the centre of the sentence if you can
+possibly have one, but Japanese doesn't,
+and we're going to find that in various
+different kinds of Japanese sentence. And
+if we can't understand that, we can't
+understand Japanese. Oh! here I am back to
+3D. All right, now let's take an
+example
+of a case which really is a verb, in
+this case the verb wakaru, wakarimasu.
+And let's take a sentence that's
+very textbook-like: "Watashi wa hon ga
+wakarimasu," which is usually
+translated as "I understand the book." And
+if you've been paying attention, you can
+see that it can't possibly mean that. The
+ga is given to the book, so the book is
+the actor in this sentence. What does it
+actually mean? If you look up the word
+wakaru in a Japanese-English
+dictionary, you will see as the primary
+definition: understand, perceive, grasp.
+However, if you look it up in a Japanese
+dictionary, you will see the primary
+definition is meihaku ni naru, in other words, become clear, be understandable. So
+what this sentence actually means: "watashi wa hon ga wakaru" is "In relation to me,
+the book is understandable." Once again,
+watashi wa is the non-logical topic and
+the sentence, which is a comment on that
+topic, is "the book is understandable." This
+actually isn't even impossible in
+English, is it? But the English prejudice
+for putting an ego at the center of the
+action is so strong that they insist on
+translating it in a way that makes the
+Japanese completely confusing. Ga always
+does the same thing. As a matter of fact,
+it is even possible in Japanese to use
+wakaru to mean understand, but if
+you do that, guess what?
+you have to move that ga. If you
+want to use wakaru in the sense of
+meaning understand, then you have to give the ga to watashi: "Watashi ga hon
+wo wakaru" or simply "hon wo wakaru," which implicitly throws the ga
+onto the zero pronoun watashi. Just out of interest,
+I took a look at "hon ga wakaru" versus "hon wo wakaru" on Google, and the frequency
+of "hon ga wakaru" is approximately ten
+times that of
+"hon wo wakaru". And there is some debate among Japanese people as to whether
+expressions like "hon wo wakaru" are even correct Japanese. Whether they are or not
+is not really our problem – what we need
+to understand is that the function of
+the ga never changes. It's always marking the doer or the be-er of the sentence. And
+actually if you want to shuffle the
+sentence around to make wakaru mean
+understand, whether that's legitimate or
+not, you will always have to throw the
+ga somewhere else, onto the new actor of the sentence. Now, this may take a bit of
+digesting, but when you do digest it
+you're going to find that every Japanese
+sentence works in the same way without
+any need to memorize exceptions or
+wonder what's going on in the sentence.
+Now, there are a few more apparent
+exceptions and they're all caused by the
+same thing – by looking at Japanese
+through English glasses. So in the next
+few lessons we're going to look at the
+main ones here: the tai form of verbs
+and the so-called Japanese passive,
+which is not in fact passive at all.
+Remember that the course book for this
+course of lessons is "Unlocking Japanese." You can get it at Amazon in Kindle and
+paperback editions, and we recommend that you use the book in conjunction with
+these lessons.
+Thank you for attending again today.
+Kore kara mo yoroshiku onegai shimashita.
+Class dismissed.
